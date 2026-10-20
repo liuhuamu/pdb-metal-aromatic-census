@@ -118,7 +118,7 @@ If you use these data, please cite the manuscript and this repository:
 ```
 Liuhua Mu. How Metal Ions Engage Aromatic Ligands: A
 Geometry-Resolved PDB Census. J. Chem. Inf. Model. (submitted).
-Database and code: https://github.com/<account>/<repo> (v1.0.0)
+Database and code: https://github.com/liuhuamu/pdb-metal-aromatic-census (v1.0.0)
 ```
 
 ## Contact
