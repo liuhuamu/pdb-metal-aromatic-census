@@ -1,0 +1,10 @@
+item,value
+entries_in_pdb_archive_experimental,261301
+entries_with_aromatic_ligand,92487
+entries_with_metal,37337
+entries_with_contact_le_6A_nonporphyrin,5107
+total_contacts_all,57578
+total_contacts_nonporphyrin,13231
+contacts_porphyrin_excluded,44347
+contacts_edge-on,12250
+contacts_face-on,981

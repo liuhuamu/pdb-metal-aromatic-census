@@ -1,0 +1,5 @@
+group1,group2,n1,n2,median_diff,perm_p
+bridge-direct,no-contact,233,3394,0.1299999999999999,0.4037
+bridge-direct,no-metal,233,9367,0.45999999999999996,0.0056
+bridge-near,no-contact,930,3394,0.7599999999999998,0.0
+no-contact,no-metal,3394,9367,0.33000000000000007,0.0

@@ -1,0 +1,76 @@
+ligand_comp_id,ligand_name,contacts
+ZOL,ZOLEDRONIC ACID,66
+RIS,1-HYDROXY-2-(3-PYRIDINYL)ETHYLIDENE BIS-PHOSPHONIC ACID,27
+ADE,ADENINE,21
+DXT,"(4S,4AR,5S,5AR,6R,12AS)-4-(DIMETHYLAMINO)-3,5,10,12,12A-PENTAHYDROXY-6-METHYL-1,11-DIOXO-1,4,4A,5,5A,6,11,12A-OCTAHYDROTETRACENE-2-CARBOXAMIDE",21
+TAC,TETRACYCLINE,20
+EZL,"6-ethoxy-1,3-benzothiazole-2-sulfonamide",18
+LDP,L-DOPAMINE,16
+ROF,"3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",16
+DAH,"3,4-DIHYDROXYPHENYLALANINE",13
+DCF,2'-DEOXYCOFORMYCIN,12
+MFX,"1-cyclopropyl-6-fluoro-8-methoxy-7-[(4aS,7aS)-octahydro-6H-pyrrolo[3,4-b]pyridin-6-yl]-4-oxo-1,4-dihydroquinoline-3-carboxylic acid",12
+657,"6-(trifluoromethoxy)-1,3-benzothiazol-2-amine",12
+MIY,"(4S,4AS,5AR,12AS)-4,7-BIS(DIMETHYLAMINO)-3,10,12,12A-TETRAHYDROXY-1,11-DIOXO-1,4,4A,5,5A,6,11,12A-OCTAHYDROTETRACENE-2-
+CARBOXAMIDE",11
+LSN,"[2-butyl-5-chloranyl-3-[[4-[2-(2H-1,2,3,4-tetrazol-5-yl)phenyl]phenyl]methyl]imidazol-4-yl]methanol",10
+SAL,2-HYDROXYBENZOIC ACID,9
+HQE,"benzene-1,4-diol",9
+BLM,BLEOMYCIN A2,8
+ADN,ADENOSINE,8
+NIO,NICOTINIC ACID,8
+HQY,quinolin-8-ol,8
+H6N,Protocatechuic aldehyde,8
+V7A,Sarecycline,7
+ETS,"(4S-TRANS)-4-(ETHYLAMINO)-5,6-DIHYDRO-6-METHYL-4H-THIENO(2,3-B)THIOPYRAN-2-SULFONAMIDE-7,7-DIOXIDE",6
+82U,3-(butylamino)-4-phenoxy-5-sulfamoylbenzoic acid,6
+TE9,delafloxacin,6
+HLZ,1-hydrazinophthalazine,6
+CTC,7-CHLOROTETRACYCLINE,5
+LFX,"(3S)-9-fluoro-3-methyl-10-(4-methylpiperazin-1-yl)-7-oxo-2,3-dihydro-7H-[1,4]oxazino[2,3,4-ij]quinoline-6-carboxylic acid",5
+DNI,Opicapone,5
+TEL,TELITHROMYCIN,5
+DM1,DAUNOMYCIN,4
+NCA,NICOTINAMIDE,4
+RLT,"N-(4-fluorobenzyl)-5-hydroxy-1-methyl-2-(1-methyl-1-{[(5-methyl-1,3,4-oxadiazol-2-yl)carbonyl]amino}ethyl)-6-oxo-1,6-di
+hydropyrimidine-4-carboxamide",4
+TCW,Tolcapone,4
+BZ1,"(+)-4-ETHYLAMINO-3,4-DIHYDRO-2-(METHOXY)PROPYL-2H-THIENO[3,2-E]-1,2-THIAZINE-6-SULFONAMIDE-1,1-DIOXIDE",4
+6LH,4-(aminomethyl)benzene-1-sulfonamide,4
+NOS,INOSINE,3
+TMG,"2-(1,3-THIAZOL-4-YL)-1H-BENZIMIDAZOLE",3
+SAN,SULFANILAMIDE,3
+CPF,"1-CYCLOPROPYL-6-FLUORO-4-OXO-7-PIPERAZIN-1-YL-1,4-DIHYDROQUINOLINE-3-CARBOXYLIC ACID",3
+A1Z,Vadadustat,3
+ZLD,"N-{[(5S)-3-(3-fluoro-4-morpholin-4-ylphenyl)-2-oxo-1,3-oxazolidin-5-yl]methyl}acetamide",3
+DM2,DOXORUBICIN,2
+HSM,HISTAMINE,2
+FUN,5-(AMINOSULFONYL)-4-CHLORO-2-[(2-FURYLMETHYL)AMINO]BENZOIC ACID,2
+THH,"N-[4-({[(6S)-2-AMINO-4-HYDROXY-5-METHYL-5,6,7,8-TETRAHYDROPTERIDIN-6-YL]METHYL}AMINO)BENZOYL]-L-GLUTAMIC ACID",2
+CQL,5-chloro-7-iodoquinolin-8-ol,2
+PAB,4-AMINOBENZOIC ACID,2
+RCO,RESORCINOL,2
+EI3,5-methyl-2-(5-methylpyridin-2-yl)pyridine,2
+4PQ,5-hydroxy-L-tryptophan,2
+SFY,4-amino-N-(pyridin-2-yl)benzenesulfonamide,2
+OQ4,"2-({4-[7-({(1r,4r)-4-[(ethanesulfonyl)amino]cyclohexyl}methyl)-2,7-diazaspiro[3.5]nonan-2-yl]pyrimidin-5-yl}oxy)-N-ethyl-5-fluoro-N-(propan-2-yl)benzamide",2
+DM5,IDARUBICIN,1
+CEL,4-[5-(4-METHYLPHENYL)-3-(TRIFLUOROMETHYL)-1H-PYRAZOL-1-YL]BENZENESULFONAMIDE,1
+COX,4-(5-METHYL-3-PHENYLISOXAZOL-4-YL)BENZENESULFONAMIDE,1
+I7A,"4,5-DICHLOROBENZENE-1,3-DISULFONAMIDE",1
+OSP,SULTHIAME,1
+OTC,OXYTETRACYCLINE,1
+PXB,parecoxib,1
+TXC,"2-[(2-amino-6-oxo-1,6-dihydro-9H-purin-9-yl)methoxy]ethyl L-valinate",1
+TLF,2-[(3-chloro-2-methylphenyl)amino]benzoic acid,1
+IMN,INDOMETHACIN,1
+DX4,"2-amino-1,9-dihydro-6H-purine-6-thione",1
+LNR,L-NOREPINEPHRINE,1
+A4Z,2-(4-butoxyphenyl)-N-hydroxyacetamide,1
+PD9,"(~{E})-2-cyano-~{N},~{N}-diethyl-3-[3-nitro-4,5-bis(oxidanyl)phenyl]prop-2-enamide",1
+QCM,Givinostat,1
+010,phenylmethanol,1
+TF9,acetohexamide,1
+AOQ,"2-[trans-4-(4-chlorophenyl)cyclohexyl]-3-hydroxynaphthalene-1,4-dione",1
+A1CF8,Tavaborole,1
+CFF,CAFFEINE,1

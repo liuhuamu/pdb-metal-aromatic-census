@@ -1,0 +1,161 @@
+protein_type,metal_element,contacts
+Other,Zn,1864
+Other,Mg,1361
+Other,Fe,760
+Other,Mn,322
+Other,Ni,218
+Other,Co,111
+Other,Ca,174
+Other,K,207
+Other,Na,140
+Other,Cu,131
+Ribosome,Zn,1
+Ribosome,Mg,1347
+Ribosome,Fe,0
+Ribosome,Mn,0
+Ribosome,Ni,2
+Ribosome,Co,0
+Ribosome,Ca,0
+Ribosome,K,70
+Ribosome,Na,14
+Ribosome,Cu,0
+Carbonic anhydrase,Zn,979
+Carbonic anhydrase,Mg,0
+Carbonic anhydrase,Fe,0
+Carbonic anhydrase,Mn,0
+Carbonic anhydrase,Ni,0
+Carbonic anhydrase,Co,0
+Carbonic anhydrase,Ca,0
+Carbonic anhydrase,K,0
+Carbonic anhydrase,Na,0
+Carbonic anhydrase,Cu,1
+Protease,Zn,653
+Protease,Mg,2
+Protease,Fe,2
+Protease,Mn,65
+Protease,Ni,7
+Protease,Co,42
+Protease,Ca,1
+Protease,K,8
+Protease,Na,17
+Protease,Cu,9
+Dehydrogenase,Zn,376
+Dehydrogenase,Mg,98
+Dehydrogenase,Fe,24
+Dehydrogenase,Mn,24
+Dehydrogenase,Ni,0
+Dehydrogenase,Co,0
+Dehydrogenase,Ca,63
+Dehydrogenase,K,4
+Dehydrogenase,Na,5
+Dehydrogenase,Cu,4
+Phosphodiesterase,Zn,268
+Phosphodiesterase,Mg,113
+Phosphodiesterase,Fe,0
+Phosphodiesterase,Mn,0
+Phosphodiesterase,Ni,0
+Phosphodiesterase,Co,0
+Phosphodiesterase,Ca,43
+Phosphodiesterase,K,0
+Phosphodiesterase,Na,0
+Phosphodiesterase,Cu,0
+Histone demethylase,Zn,156
+Histone demethylase,Mg,0
+Histone demethylase,Fe,21
+Histone demethylase,Mn,143
+Histone demethylase,Ni,82
+Histone demethylase,Co,10
+Histone demethylase,Ca,0
+Histone demethylase,K,0
+Histone demethylase,Na,0
+Histone demethylase,Cu,0
+Transferase,Zn,51
+Transferase,Mg,161
+Transferase,Fe,0
+Transferase,Mn,16
+Transferase,Ni,8
+Transferase,Co,3
+Transferase,Ca,4
+Transferase,K,1
+Transferase,Na,28
+Transferase,Cu,0
+Dehydratase/lyase,Zn,3
+Dehydratase/lyase,Mg,1
+Dehydratase/lyase,Fe,0
+Dehydratase/lyase,Mn,269
+Dehydratase/lyase,Ni,0
+Dehydratase/lyase,Co,0
+Dehydratase/lyase,Ca,0
+Dehydratase/lyase,K,0
+Dehydratase/lyase,Na,0
+Dehydratase/lyase,Cu,0
+Deaminase,Zn,246
+Deaminase,Mg,8
+Deaminase,Fe,0
+Deaminase,Mn,0
+Deaminase,Ni,2
+Deaminase,Co,0
+Deaminase,Ca,0
+Deaminase,K,0
+Deaminase,Na,0
+Deaminase,Cu,0
+Glyoxalase,Zn,35
+Glyoxalase,Mg,0
+Glyoxalase,Fe,32
+Glyoxalase,Mn,4
+Glyoxalase,Ni,0
+Glyoxalase,Co,139
+Glyoxalase,Ca,0
+Glyoxalase,K,0
+Glyoxalase,Na,0
+Glyoxalase,Cu,0
+Hydrolase,Zn,131
+Hydrolase,Mg,24
+Hydrolase,Fe,2
+Hydrolase,Mn,21
+Hydrolase,Ni,0
+Hydrolase,Co,0
+Hydrolase,Ca,19
+Hydrolase,K,0
+Hydrolase,Na,12
+Hydrolase,Cu,0
+Tubulin,Zn,0
+Tubulin,Mg,190
+Tubulin,Fe,0
+Tubulin,Mn,0
+Tubulin,Ni,0
+Tubulin,Co,0
+Tubulin,Ca,0
+Tubulin,K,0
+Tubulin,Na,0
+Tubulin,Cu,0
+Histone deacetylase,Zn,177
+Histone deacetylase,Mg,0
+Histone deacetylase,Fe,0
+Histone deacetylase,Mn,0
+Histone deacetylase,Ni,0
+Histone deacetylase,Co,0
+Histone deacetylase,Ca,0
+Histone deacetylase,K,0
+Histone deacetylase,Na,0
+Histone deacetylase,Cu,0
+2OG-Fe oxygenase,Zn,10
+2OG-Fe oxygenase,Mg,0
+2OG-Fe oxygenase,Fe,78
+2OG-Fe oxygenase,Mn,57
+2OG-Fe oxygenase,Ni,6
+2OG-Fe oxygenase,Co,3
+2OG-Fe oxygenase,Ca,0
+2OG-Fe oxygenase,K,0
+2OG-Fe oxygenase,Na,0
+2OG-Fe oxygenase,Cu,0
+Periplasmic binding protein,Zn,14
+Periplasmic binding protein,Mg,0
+Periplasmic binding protein,Fe,123
+Periplasmic binding protein,Mn,0
+Periplasmic binding protein,Ni,3
+Periplasmic binding protein,Co,2
+Periplasmic binding protein,Ca,0
+Periplasmic binding protein,K,0
+Periplasmic binding protein,Na,0
+Periplasmic binding protein,Cu,0

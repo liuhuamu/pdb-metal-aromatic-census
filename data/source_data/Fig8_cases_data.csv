@@ -1,0 +1,13 @@
+pdb_id,metal_comp_id,metal_element,ligand_comp_id,geometry_class,d_centroid,d_plane,offset,theta_deg,min_dist,coordination,resolution,title
+6HWZ,ZN,Zn,GXE,edge-on,4.285,2.41,3.543,55.8,3.192,HIS95(A)=2.103;HIS97(A)=2.020;HIS120(A)=1.980,1.64,Selenols: a new class of Carbonic Anhydrase inhibitors
+6HWZ,ZN,Zn,GXE,edge-on,4.266,2.403,3.524,55.7,3.171,HIS95(B)=2.082;HIS97(B)=2.032;HIS120(B)=2.025,1.64,Selenols: a new class of Carbonic Anhydrase inhibitors
+4HSJ,FE2,Fe,6PC,face-on,2.574,2.282,1.191,27.6,2.33,HIS51(A)=2.111;GLU57(A)=2.056;GLU57(A)=2.642;HIS95(A)=2.111;6PC203(A)=2.429;6PC203(A)=2.790,1.883,"1.88 angstrom x-ray crystal structure of piconlinic-bound 3-hydroxyanthranilate-3,4-dioxygenase"
+7ARW,MG,Mg,8NA,edge-on,4.601,3.574,2.897,39.0,3.906,THR76(A)=2.476;ASP77(A)=2.292;ASP78(A)=2.075;ASP316(A)=1.995;8NA403(A)=2.800;HOH541(A)=2.011,1.31,Structure of human ARH3 E41A bound to alpha-NAD+ and magnesium
+7ARW,MG,Mg,8NA,face-on,3.392,3.322,0.688,11.7,3.399,ASP314(A)=2.173;ASP316(A)=1.983;THR317(A)=2.437;8NA403(A)=2.259,1.31,Structure of human ARH3 E41A bound to alpha-NAD+ and magnesium
+7ARW,MG,Mg,8NA,edge-on,4.582,3.773,2.599,34.6,3.973,THR76(B)=2.585;ASP77(B)=2.211;ASP78(B)=2.111;ASP316(B)=2.047;8NA403(B)=2.728;HOH625(B)=2.142,1.31,Structure of human ARH3 E41A bound to alpha-NAD+ and magnesium
+7ARW,MG,Mg,8NA,face-on,3.293,3.087,1.147,20.4,3.101,ASP314(B)=2.034;ASP316(B)=2.247;THR317(B)=2.492;8NA403(B)=2.219,1.31,Structure of human ARH3 E41A bound to alpha-NAD+ and magnesium
+9GOG,NA,Na,A1IOM,edge-on,3.446,0.422,3.42,83.0,2.287,A1IOM206(AAA)=2.287,1.24,X-ray structure of lysozyme obtained upon reaction with the dioxidovanadium(V) complex with furan-2-carboxylic acid (3-ethoxy-2-hydroxybenzylidene)hydrazide
+9GOG,NA,Na,A1IOM,face-on,3.683,3.597,0.794,12.5,3.647,A1IOM206(AAA)=2.287,1.24,X-ray structure of lysozyme obtained upon reaction with the dioxidovanadium(V) complex with furan-2-carboxylic acid (3-ethoxy-2-hydroxybenzylidene)hydrazide
+9QGV,ZN,Zn,IMD,face-on,2.063,2.044,0.276,7.7,2.224,HIS41(A)=2.137;HIS94(A)=2.054;HIS98(A)=2.148;IMD201(A)=2.491;IMD201(A)=2.224,1.55,SciA(H42Q) endonuclease from Escherichia phage T5 in complex with 10 bp DNA (GCGC sequence 2)
+9XS9,RU,Ru,MML,face-on,1.675,1.671,0.114,3.9,2.087,HIS58(A)=2.103;GLU106(A)=2.467;GLU106(A)=2.114;HOH393(A)=2.800,1.087,"Crystal structure of a cupin protein (tm1459, R39K/H52A/H54A/H92A/C106E mutant) in ruthenium(p-cymene) bound form"
+9XS9,RU,Ru,MML,face-on,1.681,1.68,0.063,2.1,2.148,HIS58(B)=2.102;GLU106(B)=2.356;GLU106(B)=2.508;HOH385(B)=2.590,1.087,"Crystal structure of a cupin protein (tm1459, R39K/H52A/H54A/H92A/C106E mutant) in ruthenium(p-cymene) bound form"

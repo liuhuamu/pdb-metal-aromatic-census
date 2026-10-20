@@ -1,0 +1,1297 @@
+uniprot,target_name,entries,contacts,bridge_direct,bridge_near,ligand_held,unannotated,drug_contacts
+(multi-chain complex),multi-chain complex (metal not protein-coordinated),289,1497,0,1,1309,187,62
+P00918,Carbonic anhydrase 2,631,674,18,643,1,12,123
+(no UniProt),entry without UniProt,193,504,33,32,425,14,73
+O75164,Lysine-specific demethylase 4A,44,252,224,21,7,0,0
+P00327,Alcohol dehydrogenase E chain,71,220,8,212,0,0,25
+Q9K2N0,Beta-lactamase VIM-2,58,206,54,152,0,0,0
+Q9XAY4,Beta-lactamase VIM-1,65,198,1,197,0,0,0
+Q64610,Isoform 2 of Autotaxin,70,171,49,120,0,2,0
+Q6B856,Tubulin beta-2B chain,118,166,0,164,2,0,0
+O43570,Carbonic anhydrase 12,37,145,0,145,0,0,0
+A0A062XY19,adenosine deaminase,12,141,0,136,3,2,0
+P93836,4-hydroxyphenylpyruvate dioxygenase,100,131,12,119,0,0,8
+P00437,"Protocatechuate 3,4-dioxygenase beta chain",23,120,34,86,0,0,27
+P39900,Macrophage metalloelastase,51,104,5,99,0,0,21
+Q16769,Glutaminyl-peptide cyclotransferase,16,104,64,38,0,2,4
+P02794,"Ferritin heavy chain, N-terminally processed",6,98,24,74,0,0,0
+Q08499,"3',5'-cyclic-AMP phosphodiesterase 4D",19,96,0,96,0,0,26
+F8W4B7,Hdac6 protein,49,93,0,93,0,0,7
+Q16790,Carbonic anhydrase 9,23,93,0,93,0,0,0
+A5H660,Histone deacetylase,24,91,0,91,0,0,4
+P81947,Tubulin alpha-1B chain,90,90,0,89,1,0,0
+Q9GZT9,Egl nine homolog 1,39,86,58,28,0,0,32
+P00760,Cationic trypsin,23,85,29,32,24,0,72
+P22734,Catechol O-methyltransferase,69,83,9,74,0,0,17
+P05091,"Aldehyde dehydrogenase, mitochondrial",11,80,0,0,80,0,0
+P80188,Neutrophil gelatinase-associated lipocalin,14,78,0,2,74,2,41
+P00915,Carbonic anhydrase 1,39,77,0,77,0,0,14
+P00044,Cytochrome c iso-1,5,73,0,32,41,0,0
+O23346,"Imidazoleglycerol-phosphate dehydratase 2, chloroplastic",8,66,63,3,0,0,2
+P14324,Farnesyl pyrophosphate synthase,41,64,0,63,0,1,32
+A0A072VQG6,Imidazoleglycerol-phosphate dehydratase,2,64,48,16,0,0,0
+Q8IL11,M17 leucyl aminopeptidase,5,63,0,63,0,0,0
+P45452,MMP-13,22,62,4,58,0,0,10
+Q84II6,Terminal oxygenase component of carbazole,14,62,0,62,0,0,47
+P29375,Linked KDM5A Jmj Domain,29,60,41,19,0,0,0
+P30793,GTP cyclohydrolase 1,3,60,0,60,0,0,0
+P0ABE7,Soluble cytochrome b562,4,56,29,15,12,0,54
+P33590,Nickel-binding periplasmic protein,14,56,0,0,56,0,0
+P9WML9,Imidazoleglycerol-phosphate dehydratase,8,55,31,24,0,0,0
+A0A0F7KYQ8,Metallo-beta-lactamase type 2,11,54,4,50,0,0,0
+P26281,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase,30,53,0,53,0,0,1
+P14350,Integrase,24,52,12,38,2,0,1
+O00408,"cGMP-dependent 3',5'-cyclic phosphodiesterase",7,52,0,51,1,0,0
+Q5AR53,Iron/alpha-ketoglutarate-dependent dioxygenase asqJ,23,50,0,48,2,0,0
+A2VA43,QUERCETINASE QUED,2,50,0,50,0,0,50
+Q92769,Histone deacetylase 2,12,49,0,49,0,0,1
+C7C422,Metallo-beta-lactamase type 2,24,49,6,43,0,0,0
+A0A024V0B1,M17 family aminopeptidase,6,48,0,48,0,0,0
+P06633,Imidazoleglycerol-phosphate dehydratase,1,48,48,0,0,0,0
+A0A0S1B1B6,Amidohydrolase,3,48,0,48,0,0,0
+Q9Y233,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",11,44,0,44,0,0,0
+P50579,Methionine aminopeptidase 2,22,43,15,28,0,0,10
+P37333,BIPHENYL DIOXYGENASE SUBUNIT ALPHA,5,43,0,43,0,0,0
+P62910,60S ribosomal protein L32,20,42,0,42,0,0,0
+P77754,Periplasmic chaperone Spy,8,42,25,14,0,3,0
+Q79MP6,Beta-lactamase,6,41,6,35,0,0,7
+C3W5S0,PA endonuclease,23,41,4,30,4,3,4
+Q8PWY1,Pyrrolysine--tRNA ligase,40,40,0,0,40,0,0
+Q60AR6,"Methanol dehydrogenase protein, large subunit",5,40,9,23,0,8,0
+Q07343,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",10,39,0,39,0,0,14
+A0AAT8XUI2,Rhodococcus ruber Alcohol Dehydrogenase Chain A,9,39,0,39,0,0,0
+P0ACT4,Tetracycline repressor protein class D,31,38,0,25,13,0,18
+Q0P8Q4,Enterochelin uptake periplasmic binding protein,10,38,7,25,6,0,4
+Q86C09,Farnesyl pyrophosphate synthase,13,38,0,38,0,0,10
+P17752,Tryptophan 5-hydroxylase 1,19,37,12,25,0,0,5
+P40394,ALCOHOL DEHYDROGENASE CLASS IV SIGMA CHAIN,3,36,12,24,0,0,0
+P78536,TACE,16,36,0,36,0,0,22
+P14780,"Matrix metalloproteinase-9,Matrix metalloproteinase-9",14,36,0,36,0,0,6
+P04585,"Pol protein,Pol protein,HIV-1 Reverse Transcriptase RNase H active domain",14,36,12,24,0,0,0
+P11444,Mandelate racemase,11,34,0,34,0,0,18
+Q45135,"Homoprotocatechuate 2,3-dioxygenase",18,34,6,28,0,0,28
+P0AE18,METHIONINE AMINOPEPTIDASE,18,33,3,30,0,0,28
+P22629,Streptavidin,14,33,8,0,25,0,0
+A0A286D6Z1,Imidazolonepropionase,2,32,0,32,0,0,0
+Q9UGL1,"Lysine-specific demethylase 5B,Lysine-specific demethylase 5B",22,31,28,2,1,0,0
+P08254,Stromelysin-1,21,30,0,30,0,0,26
+P52700,Metallo-beta-lactamase L1 type 3,8,30,7,23,0,0,11
+P27353,Methane monooxygenase component A alpha chain,8,30,0,30,0,0,0
+Q94BU8,Guanosine deaminase,14,30,0,30,0,0,11
+P00734,Thrombin heavy chain,7,29,8,8,13,0,19
+Q04760,Lactoylglutathione lyase,12,29,1,28,0,0,9
+Q3JRA0,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",10,28,20,8,0,0,7
+Q7S860,Carotenoid oxygenase,6,28,0,28,0,0,24
+S8G8I1,Prolyl-tRNA synthetase (ProRS),7,28,0,0,28,0,0
+E9NWK5,Metallo beta-lactamase,4,28,8,20,0,0,0
+Q8N1Q1,Carbonic anhydrase 13,14,27,0,26,1,0,2
+B2ZB02,Tyrosinase,7,27,8,18,1,0,17
+P29474,"Nitric oxide synthase, endothelial",4,27,0,27,0,0,0
+P53582,Methionine aminopeptidase 1,13,25,16,9,0,0,7
+Q6B0I6,Lysine-specific demethylase 4D,20,25,16,9,0,0,0
+Q05098,Ferric enterobactin receptor,8,25,0,0,25,0,0
+Q00456,Toluene-4-monooxygenase system protein A,9,24,0,24,0,0,14
+P46881,Phenylethylamine oxidase,12,24,0,24,0,0,24
+Q8RJ47,5-carboxyvanillate decarboxylase,3,24,0,24,0,0,8
+P80563,Pyrogallol hydroxytransferase large subunit,2,24,0,24,0,0,0
+Q2XVP4,Tubulin alpha-1B chain,24,24,0,23,1,0,0
+L8H477,Imidazoleglycerol-phosphate dehydratase,1,24,24,0,0,0,0
+A0AA90HUQ3,Carnitine monooxygenase oxygenase subunit,1,24,12,12,0,0,0
+A0ABM8UEC8,Amide hydrolase LlADH,1,24,0,24,0,0,0
+Q9NWT6,Hypoxia-inducible factor 1-alpha inhibitor,17,23,10,13,0,0,10
+A5K4U6,Farnesyl pyrophosphate synthase,4,23,0,23,0,0,11
+Q46UZ9,Zinc-containing alcohol dehydrogenase superfamily,4,23,0,23,0,0,9
+Q2T3G7,Ketol-acid reductoisomerase,6,23,0,23,0,0,0
+P23368,"NAD-dependent malic enzyme, mitochondrial",6,22,0,22,0,0,0
+P00698,Lysozyme C,8,22,5,0,17,0,4
+P20035,Hypoxanthine-guanine-xanthine phosphoribosyltransferase,4,21,0,19,2,0,14
+Q02293,Protein farnesyltransferase subunit beta,19,21,19,2,0,0,2
+P14941,NADP-dependent isopropanol dehydrogenase,6,21,0,21,0,0,0
+P04584,Protease,3,21,15,3,3,0,0
+P22748,Carbonic anhydrase 4,6,21,0,21,0,0,10
+P80366,Fe(3+)-Zn(2+) purple acid phosphatase,4,21,6,15,0,0,0
+A0A8D1UIR5,Tubulin beta chain,21,21,0,20,1,0,0
+P0DTD1,Guanine-N7 methyltransferase nsp14,14,20,11,8,0,1,3
+P20581,2-aminobenzoylacetyl-CoA thioesterase,9,20,1,19,0,0,3
+Q88E47,"HOMOGENTISATE 1,2-DIOXYGENASE",2,20,1,19,0,0,20
+Q25704,"7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase-dihydropteroate synthase",12,20,0,20,0,0,0
+Q9UL62,Short transient receptor potential channel 5,3,20,0,20,0,0,20
+Q9NSU2,Three-prime repair exonuclease 1,5,19,9,10,0,0,0
+S6B9Y3,Apurinic endonuclease (APN1),1,18,8,10,0,0,0
+P22894,Neutrophil collagenase,13,18,1,17,0,0,9
+P29476,"Nitric oxide synthase, brain",9,18,8,10,0,0,0
+Q2G0Q5,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase,5,18,0,18,0,0,0
+P17643,"5,6-dihydroxyindole-2-carboxylic acid oxidase",5,18,0,18,0,0,13
+A0A3Q0KSG2,Carbonic anhydrase,8,18,0,18,0,0,4
+P32754,4-hydroxyphenylpyruvate dioxygenase,2,18,0,18,0,0,6
+P03958,Adenosine deaminase,7,17,0,17,0,0,17
+P02185,Myoglobin,6,17,8,9,0,0,0
+Q9C0B1,Alpha-ketoglutarate-dependent dioxygenase FTO,13,17,7,10,0,0,4
+O57978,Phosphoribosylaminoimidazole-succinocarboxamide synthase,3,17,6,5,6,0,2
+P9WG47,DNA gyrase subunit A,9,17,0,0,17,0,9
+P00452,Ribonucleoside-diphosphate reductase 1 subunit alpha,6,17,0,0,17,0,2
+A0A3C0QUR5,Adenosine deaminase domain-containing protein,2,17,0,17,0,0,0
+P52699,Metallo-beta-lactamase type 2,5,16,2,14,0,0,1
+P00325,Alcohol dehydrogenase beta chain,8,16,0,16,0,0,0
+P40927,MALIC ENZYME,1,16,0,16,0,0,0
+Q7SIC2,"QUERCETIN 2,3-DIOXYGENASE",2,16,0,16,0,0,16
+P56524,Histone deacetylase 4,7,16,0,14,2,0,6
+P9WFD7,Uncharacterized protein,1,16,0,0,16,0,0
+Q1K6I4,CyPBP37 protein,1,16,14,0,2,0,16
+P07814,Bifunctional glutamate/proline--tRNA ligase,5,16,0,0,16,0,1
+O95749,Geranylgeranyl pyrophosphate synthase,1,16,0,16,0,0,16
+Q05097,PA-I galactophilic lectin,4,16,0,16,0,0,2
+A0A085U4N5,Periplasmic substrate-binding transport protein,1,16,12,4,0,0,0
+P56658,Adenosine deaminase,13,15,1,14,0,0,13
+Q9R1E6,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,6,15,1,12,2,0,0
+P60438,50S ribosomal protein L3,12,15,0,0,15,0,0
+Q1XAB1,Farnesyl diphosphate synthase,3,15,0,15,0,0,0
+A0AAP7ZHZ3,Fucose-binding lectin protein,2,15,0,15,0,0,0
+P15917,Lethal factor,11,14,0,14,0,0,6
+Q1LCS4,"3-hydroxyanthranilate 3,4-dioxygenase",14,14,4,10,0,0,13
+O15496,Group 10 secretory phospholipase A2,4,14,0,14,0,0,0
+A0A0M3KL20,Alpha-carbonic anhydrase,2,14,0,14,0,0,14
+A0A831ERP2,Asparagine synthetase domain-containing protein,1,14,0,14,0,0,0
+T2BPA1,Protein farnesyltransferase subunit beta,12,13,11,2,0,0,2
+P47205,UDP-3-O-acyl-N-acetylglucosamine deacetylase,9,13,11,2,0,0,0
+A0QYB3,"ABC transporter, carbohydrate uptake transporter-2 (CUT2) family, periplasmic sugar-binding protein",2,13,7,3,3,0,0
+Q8IWU9,Tryptophan 5-hydroxylase 2,3,13,6,7,0,0,0
+Q9NNX6,"DC-SIGN, CRD domain",6,13,0,13,0,0,0
+G1TUN8,eL32,6,13,0,13,0,0,0
+P0A8M3,Threonine--tRNA ligase,7,13,4,7,2,0,0
+P13650,Quinoprotein glucose dehydrogenase B,6,12,12,0,0,0,0
+P12497,Integrase,6,12,5,6,1,0,1
+O05935,"2-oxo-1,2-dihydroquinoline 8-monooxygenase, oxygenase component",1,12,0,12,0,0,12
+P03366,Gag-Pol polyprotein,5,12,2,10,0,0,0
+Q9F8C4,TetR family Transcriptional regulator,1,12,8,4,0,0,0
+Q9I6Y4,Adenosine deaminase,3,12,0,12,0,0,8
+P05050,Alpha-ketoglutarate-dependent dioxygenase AlkB,7,12,3,9,0,0,2
+P0AEL6,Ferrienterobactin-binding periplasmic protein,1,12,0,0,12,0,0
+Q5EP34,Polymerase protein PA,3,12,0,12,0,0,8
+Q4QBL1,Farnesyl pyrophosphate synthase,6,12,0,12,0,0,0
+P14174,Macrophage migration inhibitory factor,1,12,0,0,0,12,0
+P58880,Imidazoleglycerol-phosphate dehydratase,2,12,12,0,0,0,0
+F8TW83,Hydroquinone dioxygenase large subunit,3,12,0,12,0,0,8
+G7IKX3,"Histidinol dehydrogenase, chloroplastic",2,12,12,0,0,0,6
+A0A077EGR8,Alcohol dehydrogenase,1,12,0,12,0,0,0
+G2LET6,Ergothioneine biosynthesis protein EgtB,3,12,12,0,0,0,0
+C3W5X6,Polymerase acidic protein,5,12,2,10,0,0,2
+P07101,Regulatory domain alpha-helix,3,12,4,8,0,0,12
+Q8JUX6,mRNA-capping enzyme nsP1,1,12,0,0,12,0,12
+A0A031WIF2,Enoyl-Acyl Carrier Protein Reductase FabK,1,12,0,12,0,0,0
+P56463,Purine nucleoside phosphorylase DeoD-type,1,12,0,0,11,1,0
+P93243,Aliphatic (R)-hydroxynitrile lyase,3,12,0,12,0,0,0
+P80402,Amidohydrolase 2,4,12,0,12,0,0,12
+A0ACD4Y0W7,4-hydroxyphenylpyruvate dioxygenase,2,12,0,12,0,0,0
+F6IAY7,Beta-lactamase NDM-1,3,12,3,9,0,0,0
+Q9I2J4,"Ferric-mycobactin receptor, FemA",2,12,0,0,12,0,0
+F2UB89,TRPM2 chanzyme,3,12,0,8,4,0,0
+P25910,"beta-Lactamase, type II",3,11,1,10,0,0,7
+P11766,Alcohol dehydrogenase class-3,5,11,4,7,0,0,2
+P60763,RAS-RELATED C3 BOTULINUM TOXIN SUBSTRATE 3,1,11,4,4,3,0,0
+P00533,Epidermal growth factor receptor,6,11,0,10,1,0,0
+Q96EY8,Corrinoid adenosyltransferase,4,11,0,11,0,0,0
+Q02750,Dual specificity mitogen-activated protein kinase kinase 1,10,11,0,10,1,0,1
+Q08603,Geranylgeranyl transferase type-2 subunit beta,10,11,10,1,0,0,0
+Q95WL3,Farnesyl pyrophosphate synthase,5,11,0,11,0,0,5
+O75936,GAMMA-BUTYROBETAINE DIOXYGENASE,1,11,5,6,0,0,0
+P03433,Polymerase acidic protein,5,11,0,11,0,0,0
+A0A0L7M119,Probable M17 family aminopeptidase,1,11,0,11,0,0,0
+P0AE68,Chemotaxis protein CheY,3,11,6,5,0,0,0
+Q39054,Molybdopterin biosynthesis protein CNX1,11,11,0,0,11,0,0
+Q9YFF4,Protogloblin ApPgb,1,11,7,4,0,0,0
+B7WRJ7,4-hydroxythreonine-4-phosphate dehydrogenase,6,11,4,7,0,0,3
+P11716,Ryanodine receptor 1,5,11,0,0,11,0,0
+P20372,"PROTOCATECHUATE 3,4-DIOXYGENASE BETA CHAIN",10,10,6,4,0,0,7
+P38539,METHANOL DEHYDROGENASE,5,10,5,5,0,0,0
+Q9BY41,Histone deacetylase 8,6,10,0,10,0,0,6
+Q6H4V1,4-hydroxyphenylpyruvate dioxygenase,3,10,2,8,0,0,0
+P0A9S1,Lactaldehyde reductase,5,10,4,6,0,0,0
+Q12051,Geranylgeranyl pyrophosphate synthetase,4,10,0,10,0,0,7
+O15054,"HUMAN LYSINE-SPECIFIC DEMETHYLASE 6B, JMJD3",3,10,9,1,0,0,0
+C4YRY1,GTP cyclohydrolase 1,1,10,0,10,0,0,0
+P95607,"Catechol 1,2-dioxygenase",10,10,1,9,0,0,3
+O14607,UBIQUITOUSLY TRANSCRIBED TETRATRICOPEPTIDE REPEAT PROTEIN Y-LINKED TRANSCRIPT VARIANT 57,3,10,10,0,0,0,0
+Q5SIY4,3-isopropylmalate dehydrogenase,2,10,0,10,0,0,0
+P09838,DNA nucleotidylexotransferase,4,10,3,7,0,0,3
+Q643C8,Methyltransferase MppJ,7,10,0,10,0,0,4
+P51977,RETINAL DEHYDROGENASE 1,3,10,0,0,10,0,0
+O31611,GTP pyrophosphokinase YjbM,1,10,0,9,1,0,0
+Q8E378,Peptide deformylase,7,10,5,4,1,0,0
+Q7LBC6,Lysine-specific demethylase 3B,4,10,8,2,0,0,2
+P11712,Cytochrome P450 2C9,5,10,0,0,0,10,10
+Q2YUF3,Ketol-acid reductoisomerase (NADP(+)),2,10,0,10,0,0,0
+Q9I0F2,Ferric enterobactin esterase,2,10,0,0,10,0,1
+Q76HJ9,BauA,1,10,0,0,10,0,0
+F1QCV2,Polyamine deacetylase HDAC10,10,10,0,10,0,0,0
+A0A072U2X9,Phosphoribosyl-AMP cyclohydrolase,1,10,0,10,0,0,0
+M1JS91,Isoprenyl diphosphate synthase,4,10,0,10,0,0,10
+K9TLZ5,Family 3 adenylate cyclase,5,10,0,10,0,0,0
+O66841,NADH-quinone oxidoreductase subunit F,4,10,0,0,10,0,0
+P0ABR9,"2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase",1,10,0,10,0,0,0
+A0A7X1IDJ8,GTP cyclohydrolase 1,1,10,0,10,0,0,0
+P07547,3-DEHYDROQUINATE SYNTHASE,5,9,0,9,0,0,0
+Q8WS26,Farnesyl diphosphate synthase,5,9,2,7,0,0,2
+Q9X1H0,Cupin type-2 domain-containing protein,6,9,8,1,0,0,2
+P0A111,"Naphthalene 1,2-dioxygenase subunit alpha",8,9,0,9,0,0,1
+P12821,"Angiotensin-converting enzyme, soluble form",7,9,0,9,0,0,0
+Q63T71,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",2,9,3,6,0,0,0
+P43166,Carbonic anhydrase 7,9,9,0,9,0,0,1
+P25604,Suppressor protein STP22 of temperature-sensitive alpha-factor receptor and arginine permease,1,9,7,2,0,0,0
+C8MLE4,"7,8-DIHYDRO-6-HYDROXYMETHYLPTERIN-PYROPHOSPHOKINASE",3,9,0,9,0,0,0
+Q9NZK7,Group IIE secretory phospholipase A2,5,9,0,9,0,0,0
+E5KIY2,Beta-lactamase,3,9,0,9,0,0,0
+P60493,50S ribosomal protein L27,8,9,0,1,8,0,0
+P03354,integrase,2,9,2,7,0,0,0
+Q6PJP8,DNA cross-link repair 1A protein,5,9,0,9,0,0,0
+Q8A622,DUF4374 domain-containing protein,2,9,0,0,9,0,0
+P17297,"2,3-Dihydroxybiphenyl dioxygenase",4,8,1,7,0,0,8
+P16027,METHANOL DEHYDROGENASE SUBUNIT 1,3,8,8,0,0,0,0
+P47228,"BIPHENYL-2,3-DIOL 1,2-DIOXYGENASE",5,8,0,8,0,0,8
+P49356,Protein farnesyltransferase subunit beta,8,8,8,0,0,0,4
+Q9HTD9,Alcohol Dehydrogenase,1,8,0,8,0,0,0
+O67987,"Chlorocatechol 1,2-dioxygenase",5,8,4,4,0,0,0
+P42085,Xanthine phosphoribosyltransferase,2,8,0,8,0,0,8
+P00921,Carbonic anhydrase 2,5,8,1,7,0,0,0
+Q8G9L3,"3-CHLOROCATECHOL 1,2-DIOXYGENASE",1,8,0,8,0,0,8
+P9WG57,Thymidylate synthase thyX,1,8,0,0,8,0,0
+Q50EJ2,Cobalamin adenosyltransferase PduO-like protein,7,8,0,6,2,0,0
+Q8A0N1,"PUTATIVE ALPHA-1,2-MANNOSIDASE",1,8,0,8,0,0,0
+Q8KLT9,ADH-A,2,8,0,8,0,0,0
+A5HC98,N-terminal endonuclease domain of La Crosse virus L-protein,2,8,0,8,0,0,0
+Q9RHV9,Lysyl-tRNA synthetase,1,8,0,0,8,0,0
+Q9HL57,ACETYLTRANSFERASE,3,8,0,8,0,0,0
+P9WK19,Methionine aminopeptidase,3,8,5,3,0,0,2
+P05089,Arginase-1,3,8,0,8,0,0,0
+Q9AIX7,Benzoyl-CoA oxygenase component B,1,8,0,8,0,0,0
+P72525,"DNA TOPOISOMERASE (ATP-HYDROLYZING),DNA TOPOISOMERASE 4",5,8,0,0,8,0,8
+F9UMW3,"Nucleotide-binding protein, universal stress protein UspA family",1,8,0,0,8,0,0
+A1X808,(R)-specific carbonyl reductase,2,8,0,8,0,0,0
+D0WGK0,Ketol-acid reductoisomerase,2,8,0,8,0,0,0
+Q2GA79,Ligw2 Decarboxylase,2,8,0,8,0,0,0
+Q12BV1,Gamma-resorcylate decarboxylase,1,8,0,8,0,0,0
+Q60AR3,Methanol dehydrogenase [cytochrome c] subunit 2,1,8,0,0,0,8,0
+P04190,Metallo-beta-lactamase type 2,6,8,0,8,0,0,0
+Q07820,Induced myeloid leukemia cell differentiation protein Mcl-1,2,8,3,4,1,0,0
+P02554,Tubulin beta chain,8,8,0,8,0,0,0
+Q41931,1-aminocyclopropane-1-carboxylate oxidase 2,1,8,8,0,0,0,8
+D3WZ85,5-nitroanthranilic acid aminohydrolase,1,8,4,4,0,0,0
+P04825,Aminopeptidase N,5,8,0,8,0,0,1
+Q81EJ6,Peptidoglycan N-acetylglucosamine deacetylase,1,8,0,8,0,0,0
+Q8GKX2,Class B metallo-beta-lactamase,2,8,0,6,2,0,0
+Q5CPH1,Adenosylhomocysteinase,1,8,0,8,0,0,8
+P53041,Serine/threonine-protein phosphatase 5,1,8,8,0,0,0,0
+A0QY90,"CMP/dCMP deaminase, zinc-binding protein",1,8,0,8,0,0,0
+Q26710,"Alternative oxidase, mitochondrial",1,8,0,8,0,0,0
+B2HUN5,Phosphopantetheine adenylyltransferase,4,8,0,0,8,0,8
+Q8KSC8,FT_T dioxygenase,2,8,0,8,0,0,0
+Q76HK0,Siderophore Binding Protein BauB,1,8,0,0,8,0,0
+A0A022MQ12,Amidohydrolase,3,8,0,8,0,0,2
+F7X6I3,Bifunctional protein PutA,6,8,0,1,7,0,2
+P9WKL5,Uncharacterized protein Rv0560c,4,8,4,4,0,0,0
+S5RZC2,Alcohol dehydrogenase,2,8,4,4,0,0,0
+Q2FWK4,Ketol-acid reductoisomerase (NADP(+)),3,8,0,8,0,0,0
+A0A0S4TLR1,Fucose-binding lectin protein,1,8,0,8,0,0,0
+Q6DHV7,Adenosine deaminase-like protein,1,8,0,8,0,0,0
+E4N6B3,Putative VlmB homolog,1,8,3,5,0,0,0
+P0A8D0,Transcriptional repressor NrdR,1,8,0,0,8,0,0
+A0A0M3KL60,Copper storage protein 1,1,8,2,6,0,0,0
+I3E949,NAD-dependent methanol dehydrogenase,1,8,1,7,0,0,0
+A0AC62AER3,AMP Deaminase,2,8,0,8,0,0,4
+A0A1L5PRA6,4-hydroxyphenylpyruvate dioxygenase,4,8,0,8,0,0,2
+P00492,HYPOXANTHINE-GUANINE PHOSPHORIBOSYLTRANSFERASE,1,7,0,7,0,0,0
+P14555,"PHOSPHOLIPASE A2, MEMBRANE ASSOCIATED",4,7,0,7,0,0,5
+P00439,PHENYLALANINE 4-MONOOXYGENASE,7,7,2,5,0,0,5
+Q6GGU4,3-dehydroquinate synthase,4,7,0,7,0,0,0
+Q60GU1,Thermophilic reversible gamma-resorcylate decarboxylase,2,7,0,7,0,0,0
+P48632,FERRIPYOVERDINE RECEPTOR,7,7,0,0,7,0,0
+P40409,IRON-UPTAKE SYSTEM-BINDING PROTEIN,2,7,0,0,7,0,0
+P21964,Catechol O-methyltransferase,6,7,0,7,0,0,7
+Q67FT0,"Gentisate 1,2-dioxygenase",6,7,0,7,0,0,2
+A0NLY7,Putative uncharacterized protein,1,7,0,7,0,0,0
+Q8AAN6,Phenylacetate-coenzyme A ligase,3,7,0,7,0,0,0
+P00330,ADH1 isoform 1,3,7,0,7,0,0,0
+P9WG45,DNA gyrase subunit B,5,7,0,0,7,0,2
+B8QIQ9,Metallo-beta-lactamase VIM-2-like protein,2,7,4,3,0,0,0
+P68400,Casein kinase II subunit alpha,5,7,0,1,6,0,0
+Q9NP87,DNA-directed DNA/RNA polymerase mu,3,7,2,5,0,0,3
+A2RI36,"Transcriptional regulator, PadR-like family",2,7,4,0,3,0,3
+Q5JID0,"Proton/glutamate symporter, SDF family",2,7,0,2,2,3,0
+Q91XB0,Three-prime repair exonuclease 1,2,7,0,6,0,1,0
+A0A3G3IHP7,AA_TRNA_LIGASE_II domain-containing protein,4,7,0,0,7,0,0
+T2KM87,Alcohol dehydrogenase,1,7,0,7,0,0,0
+P48163,NADP-dependent malic enzyme,1,7,0,7,0,0,0
+P0A7D4,Adenylosuccinate Synthetase,6,6,0,6,0,0,5
+P08164,PROTEIN (NAD SYNTHETASE),4,6,0,6,0,0,0
+P25500,Poly(A) polymerase alpha,2,6,2,4,0,0,6
+P28650,Adenylosuccinate synthetase isozyme 1,5,6,0,6,0,0,4
+P09238,Stromelysin-2,2,6,2,4,0,0,3
+A2KD59,VHH-R2 ANTI-RR6 ANTIBODY,1,6,1,5,0,0,6
+P53610,Geranylgeranyl transferase type I beta subunit,1,6,6,0,0,0,6
+P0A6A8,Acyl carrier protein,1,6,6,0,0,0,0
+Q53122,biphenyl dioxygenase large subunit,1,6,0,6,0,0,0
+A0A628R156,Reverse transcriptase domain-containing protein,1,6,0,0,3,3,6
+O67648,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase,3,6,6,0,0,0,0
+P0CE47,Elongation factor Tu,2,6,0,6,0,0,6
+Q5CR09,Farnesyl pyrophosphate synthase,2,6,0,6,0,0,6
+O75173,A disintegrin and metalloproteinase with thrombospondin motifs 4,3,6,0,6,0,0,0
+P04483,TETRACYCLINE REPRESSOR PROTEIN CLASS B FROM TRANSPOSON TN1 0,3,6,0,3,3,0,1
+O28527,Nitrogen regulatory protein P-II (GlnB-2),2,6,0,0,6,0,0
+A4GRE3,Macrophage migration inhibitory factor,2,6,6,0,0,0,0
+Q9W9R3,Protease,1,6,5,0,1,0,0
+Q01693,Bacterial leucyl aminopeptidase,1,6,1,5,0,0,6
+Q9Y253,DNA polymerase eta,6,6,0,0,6,0,6
+Q8TDX5,2-amino-3-carboxymuconate-6-semialdehyde decarboxylase,1,6,4,2,0,0,6
+Q9CPU0,Lactoylglutathione lyase,4,6,1,5,0,0,4
+C0QQ26,Metal dependent phosphohydrolase,2,6,3,3,0,0,0
+P69834,"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, chloroplastic",3,6,2,2,2,0,0
+O25294,Cytosol aminopeptidase,1,6,0,6,0,0,6
+Q99XG5,DNA gyrase subunit A,1,6,0,0,6,0,6
+Q5H3Z2,Peptide deformylase,4,6,0,6,0,0,0
+P24021,Nuclease S1,3,6,0,6,0,0,0
+P60489,50S ribosomal protein L16,6,6,0,1,5,0,0
+Q92905,COP9 signalosome complex subunit 5,4,6,4,2,0,0,0
+P00338,L-lactate dehydrogenase A chain,1,6,3,3,0,0,0
+Q6GHP9,Cell division protein FtsZ,6,6,0,6,0,0,0
+Q8N371,Bifunctional peptidase and arginyl-hydroxylase JMJD5,6,6,6,0,0,0,0
+P68431,Histone H3.1,2,6,0,6,0,0,0
+P02879,Ricin A chain,3,6,4,1,1,0,0
+A0A5H1ZR51,L-DOPA extradiol dioxygenase,1,6,0,6,0,0,6
+A0A2K3D6R4,S-(hydroxymethyl)glutathione dehydrogenase,2,6,0,6,0,0,0
+A0A059WLS9,Replicase,5,6,0,6,0,0,0
+P07097,Acetyl-CoA acetyltransferase,2,6,0,6,0,0,0
+A0A0F7IPS1,Mirolysin,1,6,0,6,0,0,0
+Q4QY51,Integrase,2,6,2,4,0,0,2
+P55011,Solute carrier family 12 member 2,3,6,0,6,0,0,6
+P05106,Integrin beta-3,3,6,0,6,0,0,0
+A3XHN1,dGTP triphosphohydrolase,1,6,0,0,6,0,6
+Q4WAW9,Verruculogen synthase,1,6,0,6,0,0,0
+Q9VU77,GH14974p,2,6,4,2,0,0,2
+P51659,Enoyl-CoA hydratase 2,2,6,0,0,6,0,0
+A0A857MR34,Siderophore ABC transporter substrate-binding protein,2,6,1,5,0,0,0
+C5CSP6,Rieske (2Fe-2S) domain protein,1,6,0,6,0,0,6
+A0A6B9TNK2,norbelladine O-methyltransferase,5,6,1,5,0,0,6
+A0A077EWA5,Norbelladine 4'-O-methyltransferase,4,6,0,6,0,0,2
+Q16FX9,4-hydroxyphenylpyruvate dioxygenase,2,6,0,6,0,0,0
+Q96SZ5,2-aminoethanethiol dioxygenase,2,6,3,3,0,0,6
+P22303,Acetylcholinesterase,1,6,0,3,3,0,0
+Q8RQE9,DNA-directed RNA polymerase subunit beta,5,6,0,0,6,0,0
+W3VHW6,Lignostilbene dioxygenase,3,6,0,6,0,0,2
+P0A434,Parathion hydrolase,3,5,0,5,0,0,2
+P02743,SERUM AMYLOID P COMPONENT,1,5,0,5,0,0,0
+P0A078,methionyl aminopeptidase,2,5,1,4,0,0,5
+Q44244,N-succinylamino acid racemase/O-succinylbenzoate synthase,2,5,0,5,0,0,4
+Q980Q4,Uracil phosphoribosyltransferase,2,5,0,0,5,0,0
+O32393,ADENYLATE CYCLASE,2,5,0,5,0,0,5
+Q9X3R9,naphthalene dioxygenase large subunit,1,5,0,5,0,0,5
+Q97W02,DNA POLYMERASE IV,5,5,0,0,5,0,5
+P04191,SARCOPLASMIC ENDOPLASMIC RETICULUM CALCIUM ATPASE,5,5,0,2,3,0,2
+A5KE01,Adenosine deaminase,4,5,0,5,0,0,3
+Q58194,"5,10-methenyltetrahydromethanopterin hydrogenase",5,5,3,0,2,0,0
+O95747,Serine/threonine-protein kinase OSR1,1,5,0,0,0,5,0
+A3D8P6,PKHD-type hydroxylase Sbal_3634,1,5,4,1,0,0,0
+P39639,Bacilysin biosynthesis protein bacB,3,5,0,5,0,0,5
+O75874,Isocitrate dehydrogenase [NADP] cytoplasmic,4,5,0,5,0,0,0
+Q82Y41,Cytidine and deoxycytidylate deaminase zinc-binding region,3,5,0,5,0,0,2
+Q9HY69,Alginate biosynthesis protein Alg44,1,5,0,0,5,0,0
+P07379,"Phosphoenolpyruvate carboxykinase, cytosolic [GTP]",4,5,4,1,0,0,1
+A0A0R4I993,Tubulin alpha chain,5,5,0,5,0,0,0
+Q03555,Gephyrin,5,5,0,0,5,0,0
+P53559,6-CARBOXYHEXANOATE--COA LIGASE,3,5,0,0,5,0,0
+O88844,Isocitrate dehydrogenase [NADP] cytoplasmic,2,5,0,3,0,2,0
+A0A0L7KHE6,M17 LEUCYL-AMINOPEPTIDASE,1,5,0,5,0,0,0
+P02753,Retinol-binding protein 4,1,5,5,0,0,0,0
+P25984,NADP-dependent isopropanol dehydrogenase,1,5,0,4,1,0,0
+P11657,Surface protein adhesin,1,5,0,3,0,2,0
+Q6XEC0,Beta-lactamase,2,5,0,5,0,0,0
+P41180,Isoform 1 of Extracellular calcium-sensing receptor,3,5,0,5,0,0,0
+P0AES6,DNA gyrase subunit B,4,5,0,3,2,0,2
+P08603,Complement factor H,1,5,4,1,0,0,0
+Q7MY08,methyltransferase Plu4890 H229N mutant,2,5,0,3,2,0,0
+P38061,Large ribosomal subunit protein eL32,5,5,0,5,0,0,0
+B1WTS6,Sulfoxide synthase EgtB-IV,3,5,5,0,0,0,0
+P0DTR5,A type blood alpha-D-galactosamine galactosaminidase,1,5,0,5,0,0,0
+E8QWZ4,A broad-substrate spectrum lactate racemase A,3,5,5,0,0,0,0
+Q16774,Guanylate kinase,3,5,0,5,0,0,5
+Q9UPQ3,"Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 1",1,5,0,0,5,0,0
+P24941,Cyclin-dependent kinase 2,4,4,0,4,0,0,0
+P07773,"CATECHOL 1,2-DIOXYGENASE",2,4,4,0,0,0,4
+P0A110,"NAPHTHALENE 1,2-DIOXYGENASE ALPHA SUBUNIT",4,4,0,4,0,0,3
+P10844,BOTULINUM NEUROTOXIN TYPE B,1,4,0,0,4,0,4
+P07327,Alcohol dehydrogenase alpha chain,2,4,0,4,0,0,0
+P00326,Alcohol dehydrogenase gamma chain,2,4,0,4,0,0,0
+P09186,Lipoxygenase-3,4,4,0,4,0,0,3
+Q46822,ISOPENTENYL-DIPHOSPHATE DELTA-ISOMERASE,2,4,0,4,0,0,0
+Q53793,bleomycin-binding protein,1,4,0,0,4,0,4
+P06988,Histidinol dehydrogenase,2,4,4,0,0,0,3
+P13689,auxin-binding protein 1,1,4,0,4,0,0,4
+Q9X022,"alcohol dehydrogenase, iron-containing",2,4,3,1,0,0,0
+Q8RQE8,DNA-directed RNA polymerase subunit beta',2,4,0,1,3,0,3
+P32755,4-hydroxyphenylpyruvic acid dioxygenase,1,4,0,4,0,0,4
+Q94G59,sinapyl alcohol dehydrogenase,2,4,0,4,0,0,0
+Q815N5,Ferric anguibactin-binding protein,2,4,0,4,0,0,0
+A0A9J9LFP0,Glyoxalase/bleomycin resistance protein/dioxygenase,1,4,2,2,0,0,0
+P39023,Large ribosomal subunit protein uL3,4,4,0,0,4,0,4
+P00390,glutathione reductase,1,4,0,0,0,4,4
+P34179,ADAMALYSIN II,3,4,0,4,0,0,2
+P0A108,"1,2-dihydroxynaphthalene dioxygenase",3,4,0,4,0,0,4
+P0A7D7,Phosphoribosylaminoimidazole-succinocarboxamide synthase,1,4,2,2,0,0,0
+P00282,AZURIN,1,4,4,0,0,0,4
+Q7CS13,Dihydroorotase,1,4,2,2,0,0,0
+Q81RP3,NH(3)-dependent NAD(+) synthetase,2,4,0,4,0,0,0
+Q57609,GTP cyclohydrolase III,1,4,0,4,0,0,0
+P03355,reverse transcriptase,2,4,0,0,4,0,2
+Q9KGB8,BH0186 protein,1,4,4,0,0,0,0
+Q7CRA4,PENICILLIN-BINDING PROTEIN 1B,3,4,0,2,2,0,0
+Q9C4M4,Alanine glyoxylate transaminase,1,4,4,0,0,0,0
+P17493,Bleomycin resistance protein,1,4,0,0,4,0,4
+Q5SLE3,Putative uncharacterized protein TTHA0350,1,4,0,0,4,0,0
+Q15046,Lysyl-tRNA synthetase,1,4,0,0,4,0,0
+P08319,Alcohol dehydrogenase 4,1,4,0,4,0,0,0
+A0A2P0HJA8,Nicotinate (Nicotinamide) nucleotide adenylyltransferase,1,4,0,4,0,0,4
+P00800,Thermolysin,4,4,0,4,0,0,0
+E1VBK4,Universal Stress Protein TeaD,1,4,0,0,4,0,0
+O00764,Pyridoxal kinase,2,4,0,2,0,2,2
+P21860,Receptor tyrosine-protein kinase erbB-3,3,4,0,4,0,0,0
+P0C6F2,p15,1,4,1,3,0,0,0
+Q89VT8,Amino acid--[acyl-carrier-protein] ligase 1,2,4,0,2,2,0,0
+A0A0H2UR34,nicotinamidase,1,4,4,0,0,0,4
+Q7W867,Putative membrane protein,1,4,0,0,4,0,0
+P0DJA2,Alcohol dehydrogenase 2,1,4,0,4,0,0,0
+O75460,Serine/threonine-protein kinase/endoribonuclease IRE1,1,4,0,4,0,0,0
+A4HRG8,Alpha/beta-hydrolase-like protein,1,4,4,0,0,0,4
+Q396C7,Anthranilate/para-aminobenzoate synthases component I,2,4,0,4,0,0,0
+Q59961,"DNA topoisomerase 4 subunit B,DNA topoisomerase 4 subunit A",2,4,0,0,4,0,4
+A1R3U3,Adenosine deaminase 1,1,4,0,4,0,0,4
+P01899,"H-2 class I histocompatibility antigen, D-B alpha chain",1,4,4,0,0,0,0
+P01887,Beta-2-microglobulin,1,4,2,2,0,0,0
+A0A0H3JPA5,PENICILLIN BINDING PROTEIN 2 PRIME,2,4,0,4,0,0,0
+Q8WUI4,HISTONE DEACETYLASE 7,2,4,3,1,0,0,0
+O61543,Ahr homolog spineless,1,4,0,4,0,0,4
+P06276,Cholinesterase,2,4,0,0,4,0,0
+P37634,RIBOSOMAL RNA LARGE SUBUNIT METHYLTRANSFERASE J,1,4,0,4,0,0,0
+B2JEW3,Beta-ketoacyl synthase,1,4,0,0,4,0,0
+Q9VRQ9,CG32412,2,4,4,0,0,0,0
+Q86PD7,"CG5976, isoform B",2,4,4,0,0,0,0
+P39451,"Alcohol dehydrogenase, propanol-preferring",1,4,0,4,0,0,0
+Q9JJX7,Tyrosyl-DNA phosphodiesterase 2,1,4,0,4,0,0,0
+Q9HZM7,UDP-N-acetylenolpyruvoylglucosamine reductase,1,4,0,4,0,0,0
+P0DXZ0,Glutathione-independent formaldehyde dehydrogenase,1,4,0,4,0,0,0
+Q8N543,2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1,1,4,4,0,0,0,0
+Q8WQX9,Class 1 phosphodiesterase PDEB1,1,4,0,4,0,0,4
+Q9EQY0,Serine/threonine-protein kinase/endoribonuclease IRE1,2,4,0,4,0,0,0
+Q8I5R7,Proline--tRNA ligase,2,4,0,0,4,0,1
+P67091,Universal stress protein F,2,4,0,0,4,0,0
+G7CFI3,Sulfoxide synthase EgtB,2,4,4,0,0,0,0
+B1L3C9,alpha subunit of Acyl-CoA synthetase (NDP forming),2,4,0,1,3,0,0
+Q39TV8,"Benzoyl-CoA reductase, putative",1,4,0,4,0,0,0
+P83310,(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase,3,4,0,4,0,0,0
+A0A0R4I995,Tubulin beta chain,4,4,0,4,0,0,0
+P72940,Probable adenylyl-sulfate kinase,1,4,2,2,0,0,0
+P66937,"DNA gyrase subunit B,DNA gyrase subunit B",1,4,0,0,4,0,4
+B9UIZ4,Zbm binding protein,1,4,0,0,4,0,0
+Q12797,Aspartyl/asparaginyl beta-hydroxylase,3,4,4,0,0,0,0
+P73184,Sensory transduction histidine kinase,2,4,0,4,0,0,0
+X8CHM4,Adenylate cyclase,1,4,0,3,1,0,0
+A0A3Q0L6N7,Thioredoxin reductase,1,4,0,4,0,0,0
+Q89GW5,Blr6230 protein,1,4,0,4,0,0,0
+Q2FVE7,Nickel ABC transporter substrate-binding protein,3,4,0,0,4,0,0
+P23921,Ribonucleoside-diphosphate reductase large subunit,1,4,0,0,4,0,4
+Q9K499,Epi-isozizaene synthase,4,4,0,4,0,0,3
+Q8A0Q6,"Putative alpha-1,2-mannosidase",1,4,0,4,0,0,0
+O15550,Lysine-specific demethylase 6A,2,4,3,1,0,0,0
+Q080S8,"FAD-binding 9, siderophore-interacting domain protein",1,4,0,2,2,0,0
+P0CT50,Salicylate decarboxylase,2,4,0,4,0,0,2
+G5ELM3,Metallo-beta-lactamase,2,4,0,4,0,0,2
+A0A4V8H034,Prolyl-tRNA synthetase,2,4,0,0,4,0,0
+C6H0Y9,Protein PA-X,3,4,0,4,0,0,0
+P51560,Tetracycline repressor protein class G,1,4,0,4,0,0,4
+G0S4S9,Serine/threonine-protein kinase Tel1,3,4,0,4,0,0,4
+P31947,14-3-3 protein sigma,3,4,0,0,4,0,0
+Q9H477,Ribokinase,2,4,0,0,4,0,4
+A0A0B0DWX0,mL40,4,4,0,4,0,0,0
+Q9NX46,ADP-ribose glycohydrolase ARH3,1,4,0,4,0,0,0
+Q7MT37,Glutamine cyclotransferase-related protein,1,4,2,2,0,0,4
+Q9SKB2,Leucine-rich repeat receptor-like serine/threonine/tyrosine-protein kinase SOBIR1,2,4,0,4,0,0,0
+A0A0N9HQ36,Deoxypodophyllotoxin synthase,1,4,0,4,0,0,0
+Q9HAB8,Phosphopantothenate--cysteine ligase,1,4,0,4,0,0,0
+P9WNV1,DNA ligase A,1,4,0,4,0,0,0
+Q9ZMG8,Aminofutalosine deaminase,1,4,0,4,0,0,0
+G1TL06,Ribosomal protein L3,2,4,0,0,4,0,2
+Q3C1D5,"Terephthalate 1,2-dioxygenase, terminal oxygenase component subunit alpha 2",2,4,0,4,0,0,0
+Q0S9X1,"Catechol 2,3-dioxygenase",1,4,1,3,0,0,0
+A0A2D2D5X0,Methane monooxygenase component A alpha chain,1,4,0,4,0,0,0
+A0A0H2Z6F6,Quinolone signal response protein,1,4,1,3,0,0,0
+M9SC49,Pyrrolysyl-tRNA synthetase,2,4,0,0,4,0,0
+O00255,Menin,2,4,0,4,0,0,4
+C4TPE0,Core protein,3,4,0,0,4,0,3
+A0A1D6H1G0,4-hydroxyphenylpyruvate dioxygenase,1,4,0,4,0,0,0
+P0AES4,DNA gyrase subunit A,3,4,0,2,2,0,2
+A0AAN1D567,ABC transporter,2,4,0,4,0,0,0
+A0R7I9,Thioredoxin reductase,2,4,0,0,0,4,0
+Q50940,Carbonic anhydrase,1,4,0,4,0,0,0
+Q5SHP3,50S ribosomal protein L22,2,4,0,4,0,0,4
+Q9DE46,DNA polymerase alpha catalytic subunit,4,4,0,0,4,0,0
+A0A2S4W2W0,Chitin deacetylase,3,4,0,4,0,0,1
+P07711,Procathepsin L,1,4,0,4,0,0,0
+V9XTV0,Putative transcriptional regulator,1,4,0,0,4,0,0
+P42345,Serine/threonine-protein kinase mTOR,3,4,0,0,3,1,0
+Q13370,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3B",2,4,0,4,0,0,0
+Q9UKF6,Cleavage and polyadenylation specificity factor subunit 3,2,4,0,4,0,0,0
+Q5U7L7,Metallo-beta-lactamase VIM-2,1,4,0,4,0,0,0
+P04049,RAF proto-oncogene serine/threonine-protein kinase,4,4,0,4,0,0,3
+Q8N884,Cyclic GMP-AMP synthase,3,4,3,1,0,0,0
+P00954,Tryptophan--tRNA ligase,2,4,0,0,4,0,0
+P15287,"Adenosine deaminase AGSA,Adenosine deaminase AGSA,Chimeric Adenosine deaminase growth factor",1,4,0,4,0,0,0
+A0A7G3WWS0,"Terminase, large subunit",1,4,0,4,0,0,0
+Q16798,"NADP-dependent malic enzyme, mitochondrial",1,4,0,4,0,0,0
+A0A2R9BYT1,Carbonic anhydrase,1,4,0,4,0,0,0
+Q9L9F0,Decarboxylase NovR,1,4,0,4,0,0,0
+Q99570,Phosphoinositide 3-kinase regulatory subunit 4,3,3,0,3,0,0,0
+P08200,ISOCITRATE DEHYDROGENASE [NADP],3,3,0,3,0,0,0
+Q52428,Aspartyl-tRNA synthetase,2,3,0,0,3,0,0
+P0A8N5,LYSYL-TRNA SYNTHETASE,3,3,0,0,3,0,0
+P00722,Beta-galactosidase,2,3,0,3,0,0,1
+Q9XB61,CarA,1,3,0,3,0,0,0
+P30803,Adenylate cyclase type 5,3,3,0,3,0,0,1
+Q9X108,6-PHOSPHO-BETA-GLUCOSIDASE,1,3,0,3,0,0,0
+P11124,RNA-directed RNA polymerase,1,3,0,3,0,0,0
+Q6GWS2,RNA-directed RNA polymerase L,3,3,0,3,0,0,0
+I3PFJ9,"4,5-DOPA dioxygenase extradiol 1",3,3,1,2,0,0,3
+Q4AE26,methanol dehydrogenase large subunit,1,3,2,1,0,0,0
+O57921,NH(3)-dependent NAD(+) synthetase,1,3,3,0,0,0,0
+A2TC87,"Biphenyl 2,3-Dioxygenase Alpha Subunit",1,3,0,3,0,0,0
+P26918,Beta-lactamase,3,3,1,2,0,0,0
+Q97VZ7,Sulfolobus solfataricus protein tyrosine phosphatase,1,3,3,0,0,0,0
+Q5HGM3,GUANYLATE KINASE,1,3,0,3,0,0,3
+P09955,Carboxypeptidase B,2,3,2,1,0,0,1
+P09960,Leukotriene A-4 hydrolase,3,3,0,3,0,0,2
+Q9UNA0,protein ADAMTS-5,2,3,0,3,0,0,3
+Q9Y2T3,GUANINE DEAMINASE,2,3,0,2,0,1,3
+P05129,PROTEIN KINASE C GAMMA TYPE,1,3,0,3,0,0,0
+P00114,CYTOCHROME C6,1,3,0,1,2,0,0
+B2RXH2,2-OXOGLUTARATE OXYGENASE,1,3,3,0,0,0,0
+Q43758,ASCORBATE PEROXIDASE,1,3,3,0,0,0,0
+P09237,MATRILYSIN,1,3,0,3,0,0,0
+P24627,C-terminal peptide from Lactotransferrin,3,3,1,2,0,0,2
+Q8A443,Corrinoid adenosyltransferase,1,3,0,3,0,0,0
+Q24451,Alpha-mannosidase 2,3,3,0,3,0,0,0
+P09012,U1 small nuclear ribonucleoprotein A,3,3,0,0,3,0,1
+Q7WYF5,"Catechol 2,3-dioxygenase",1,3,1,2,0,0,3
+P00957,Alanyl-tRNA synthetase,2,3,0,0,3,0,0
+Q813T7,Hypothetical Cytosolic Protein,1,3,0,3,0,0,0
+O33635,Bifunctional autolysin,1,3,1,2,0,0,0
+Q9NXS2,Glutaminyl-peptide cyclotransferase-like protein,3,3,3,0,0,0,2
+Q9RCF6,"Ferric vibriobactin ABC transporter, periplasmic ferric vibriobactin-binding protein",1,3,0,0,3,0,0
+Q97VT7,Aryldialkylphosphatase,1,3,0,3,0,0,0
+P01857,Ig gamma-1 chain C region,1,3,3,0,0,0,0
+Q979W2,Glucose 1-dehydrogenase,1,3,0,3,0,0,0
+P9WNS1,1-DEOXY-D-XYLULOSE 5-PHOSPHATE REDUCTOISOMERASE,2,3,0,2,1,0,0
+B2ZRE3,ALCOHOL DEHYDROGENASE,1,3,0,3,0,0,0
+Q8ZG15,GTP cyclohydrolase 1,1,3,0,0,0,3,0
+E1C9K5,DNA polymerase I,2,3,0,0,3,0,2
+Q86WV6,Stimulator of interferon genes protein,2,3,0,2,1,0,0
+Q02150,Histidinol-phosphatase,2,3,2,1,0,0,1
+G7CDQ2,Membrane-anchored mycosin mycp1,1,3,3,0,0,0,0
+P16442,Fucosylglycoprotein alpha-N-acetylgalactosaminyltransferase,3,3,3,0,0,0,0
+P00374,Dihydrofolate reductase,1,3,0,3,0,0,0
+Q4WPS9,CaaX farnesyltransferase beta subunit Ram1,2,3,2,0,1,0,2
+O94953,Lysine-specific demethylase 4B,2,3,3,0,0,0,0
+P40032,PKHD-type hydroxylase TPA1,2,3,2,1,0,0,2
+P05067,Amyloid beta A4 protein,1,3,1,0,2,0,0
+A0A0J9X1Z9,Guanylate kinase,1,3,0,3,0,0,0
+O95819,Mitogen-activated protein kinase kinase kinase kinase 4,1,3,0,3,0,0,0
+A0A0M3KL01,EvdO2,2,3,3,0,0,0,0
+O57767,Quinolinate synthase A,1,3,0,2,1,0,3
+Q2FVV7,Inositol monophosphatase,2,3,0,3,0,0,0
+F9USS9,Lactate racemase,2,3,3,0,0,0,0
+Q2GA76,Carotenoid oxygenase,2,3,0,3,0,0,2
+P00742,Coagulation factor X,3,3,3,0,0,0,0
+P9WHQ9,Hypoxanthine-guanine phosphoribosyltransferase,1,3,0,3,0,0,0
+O14965,Aurora kinase A,2,3,0,0,0,3,0
+P53396,ATP-citrate synthase,3,3,0,0,3,0,0
+A0A4Y1WAP5,2OG-Fe(II) oxygenase,1,3,3,0,0,0,0
+Q99986,Serine/threonine-protein kinase VRK1,1,3,0,0,3,0,0
+Q387G0,Isocitrate dehydrogenase [NADP],3,3,0,3,0,0,0
+A0QP46,3-oxoacyl-[acyl-carrier-protein] reductase,1,3,0,0,3,0,0
+Q9Y3Z3,Deoxynucleoside triphosphate triphosphohydrolase SAMHD1,3,3,0,3,0,0,0
+W8U368,GTP pyrophosphokinase,2,3,0,3,0,0,0
+Q8A325,"Alpha-1,2-mannosidase, putative",1,3,0,3,0,0,0
+A0A452CSW8,F420H2 oxidase (FprA),1,3,0,3,0,0,0
+P0CI74,Cell cycle protein GpsB,1,3,2,1,0,0,0
+Q8LPL7,Adenosine/AMP deaminase family protein,3,3,0,3,0,0,3
+A0A2U1Q018,Alcohol dehydrogenase 1,1,3,1,1,1,0,0
+P52045,Methylmalonyl-CoA decarboxylase,2,3,3,0,0,0,0
+P00805,L-asparaginase 2,1,3,2,1,0,0,0
+P15056,Serine/threonine-protein kinase B-raf,3,3,0,3,0,0,0
+Q9NZ08,"Endoplasmic reticulum aminopeptidase 1,Endoplasmic reticulum aminopeptidase 1",1,3,0,3,0,0,0
+P61991,DNA-binding protein 7a,1,3,3,0,0,0,0
+O96935,M1-family alanyl aminopeptidase,2,3,0,3,0,0,0
+P0A9Q7,Aldehyde-alcohol dehydrogenase,2,3,0,3,0,0,0
+P0A031,Cell division protein FtsZ,3,3,0,3,0,0,0
+X5CZV5,Metallo-beta-lactamase NDM-7,1,3,0,3,0,0,0
+P32143,Sulfofructose kinase,2,3,0,0,3,0,0
+Q38DE2,CCHC-type domain-containing protein,1,3,1,0,1,1,3
+Q8TY20,ATPase of the AAA+ class,1,3,3,0,0,0,0
+P30613,Pyruvate kinase PKLR,2,3,0,3,0,0,0
+Q5ZY78,Argininosuccinate synthase,1,3,0,0,3,0,0
+P00382,Dihydrofolate reductase type 1,2,3,0,0,1,2,0
+A0A5B9DJI2,PQQ-binding-like beta-propeller repeat protein,3,3,3,0,0,0,0
+B1MDL6,Phosphopantetheine adenylyltransferase,1,3,0,0,3,0,0
+Q9X721,Collagenase ColG,2,3,0,3,0,0,0
+P47811,Mitogen-activated protein kinase 14,1,3,0,0,3,0,3
+A0A1L8G3G3,DNA primase large subunit,3,3,0,0,3,0,0
+P0A9S5,Glycerol dehydrogenase,2,3,0,3,0,0,0
+O05542,"Alcohol dehydrogenase (quinone), dehydrogenase subunit",3,3,3,0,0,0,0
+G0L712,Alcohol dehydrogenase,1,3,0,3,0,0,0
+A0A3E3DY42,RelA/SpoT domain-containing protein,1,3,0,3,0,0,0
+C5CWE3,selenoneine synthase,1,3,3,0,0,0,0
+P41148,Endoplasmin,1,3,0,0,0,3,0
+E9AMX7,Bromo domain-containing protein,1,3,0,3,0,0,0
+D4QE74,"carotenoid 9,10-dioxygenase",3,3,0,3,0,0,0
+Q8RGV3,Enoyl-[acyl-carrier-protein] reductase,1,3,0,3,0,0,0
+P15167,Snake venom metalloproteinase atrolysin-D,1,2,0,2,0,0,0
+P22636,"PROTOCATECHUATE 4,5-DIOXYGENASE",1,2,0,2,0,0,0
+Q9ZP19,PROTEIN (CATECHOL OXIDASE),1,2,0,2,0,0,2
+P26325,ALCOHOL DEHYDROGENASE,1,2,0,2,0,0,0
+P33435,PROTEIN (COLLAGENASE-3),1,2,0,2,0,0,2
+Q9QYY9,"ALCOHOL DEHYDROGENASE, CLASS II",1,2,0,2,0,0,0
+P00328,ALCOHOL DEHYDROGENASE,1,2,0,2,0,0,0
+Q44048,"HOMOPROTOCATECHUATE 2,3-DIOXYGENASE",1,2,0,2,0,0,2
+Q9Z4J7,PROTEIN (QUINOPROTEIN ETHANOL DEHYDROGENASE),1,2,0,2,0,0,0
+Q9Y9P9,ALCOHOL DEHYDROGENASE,1,2,0,2,0,0,0
+Q52546,REPLICATION PROTEIN,1,2,2,0,0,0,0
+P00897,ANTHRANILATE SYNTHASE,1,2,0,2,0,0,0
+P27000,Glutamyl-tRNA synthetase,2,2,0,0,2,0,0
+P46154,formaldehyde dehydrogenase,1,2,0,2,0,0,0
+P12293,methanol dehydrogenase subunit 1,1,2,1,1,0,0,0
+P0DJQ7,BETA-LACTAM SYNTHETASE,2,2,0,2,0,0,0
+Q57997,PROTEIN (ATP-BINDING DOMAIN OF PROTEIN MJ0577),1,2,0,0,2,0,0
+O57380,NADP-dependent ALCOHOL DEHYDROGENASE,1,2,0,2,0,0,0
+Q04894,Hypothetical zinc-type alcohol dehydrogenase-like protein in PRE5-FET4 intergenic region,1,2,0,2,0,0,0
+Q7Z4W1,L-XYLULOSE REDUCTASE,1,2,0,1,1,0,0
+P19367,PROTEIN (HEXOKINASE),1,2,0,0,1,1,0
+P08473,Neprilysin,2,2,0,2,0,0,2
+P39462,NAD-dependent alcohol dehydrogenase,1,2,0,2,0,0,0
+Q38814,Thiazole biosynthetic enzyme,1,2,2,0,0,0,2
+P22939,Geranyltranstransferase,1,2,0,2,0,0,2
+Q40313,Caffeoyl-CoA O-methyltransferase,2,2,0,2,0,0,2
+Q53586,4-hydroxyphenylpyruvate dioxygenase,1,2,0,2,0,0,2
+P80561,Aminopeptidase,2,2,0,2,0,0,2
+Q5PXQ6,"hydroxyquinol 1,2-dioxygenase",1,2,0,2,0,0,0
+O28480,myo-inositol-1-phosphate synthase,1,2,0,2,0,0,0
+Q9WZS7,NADH-dependent butanol dehydrogenase,1,2,2,0,0,0,0
+O34598,Guanine deaminase,1,2,0,2,0,0,0
+O05205,Mitomycin-Binding Protein,1,2,0,0,2,0,2
+P9WHH1,Thioredoxin reductase,1,2,0,2,0,0,0
+P60546,Guanylate kinase,1,2,0,2,0,0,0
+Q8RTL4,OXYGENASE-ALPHA NBDO,2,2,0,2,0,0,0
+P0A7I7,GTP CYCLOHYDROLASE II,1,2,0,2,0,0,2
+Q04609,GLUTAMATE CARBOXYPEPTIDASE II,1,2,0,2,0,0,2
+P07108,ACYL-COA-BINDING PROTEIN,1,2,1,1,0,0,2
+B0R5M0,VNG1446H,1,2,0,0,2,0,2
+Q46AN5,SERYL-TRNA SYNTHETASE,1,2,0,2,0,0,0
+Q52078,Formaldehyde dismutase,1,2,0,2,0,0,0
+O28603,"adenylylsulfate reductase, subunit A",1,2,1,1,0,0,0
+Q9X9I8,"salicylate synthetase, Irp9",1,2,0,2,0,0,2
+P02417,50S ribosomal protein L9,2,2,1,0,1,0,0
+P25774,Cathepsin S,1,2,0,2,0,0,0
+Q6N5P6,Proline-tRNA ligase,1,2,0,0,2,0,0
+Q97MB6,Cytosine/guanine deaminase related protein,1,2,0,2,0,0,2
+Q837K0,Adenine Deaminase,1,2,0,2,0,0,2
+Q831W7,PROLYL-TRNA SYNTHETASE,1,2,0,0,2,0,0
+P14385,MODIFICATION METHYLASE TAQI,1,2,0,0,2,0,0
+Q14315,Filamin-C,1,2,2,0,0,0,0
+Q47Q21,O-succinylbenzoate-CoA synthase,1,2,0,2,0,0,2
+A0A5P8YCA3,"7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase",1,2,0,2,0,0,0
+O52791,PCZA361.1,1,2,0,2,0,0,2
+P00519,PROTO-ONCOGENE TYROSINE-PROTEIN KINASE ABL1,1,2,0,2,0,0,2
+P51561,TETRACYCLINE RESISTANCE REPRESSOR PROTEIN,1,2,0,2,0,0,0
+Q977U7,GLUCOSE DEHYDROGENASE,2,2,0,2,0,0,0
+O14907,TAX1-BINDING PROTEIN 3,1,2,2,0,0,0,0
+Q75WN9,"CATECHOL 2,3-DIOXYGENASE",1,2,0,2,0,0,2
+B0VA03,NICOTINAMIDASE,1,2,2,0,0,0,2
+Q9X0C3,MANNOSE-1-PHOSPHATE GUANYLYLTRANSFERASE,1,2,0,0,2,0,0
+P0AES5,DNA GYRASE SUBUNIT A,1,2,0,0,2,0,0
+B4EL89,PHENYLACETATE-COENZYME A LIGASE,1,2,0,2,0,0,0
+Q5SJV7,Universal stress protein family,2,2,0,0,2,0,0
+P17978,Virginiamycin B lyase,1,2,0,2,0,0,0
+P0C6X7,3C-like proteinase,2,2,0,1,1,0,0
+Q2SZ09,"ATP:cob(I)alamin adenosyltransferase, putative",1,2,0,2,0,0,0
+P9WNW7,"PROBABLE BIPHENYL-2,3-DIOL 1,2-DIOXYGENASE BPHC",1,2,0,2,0,0,2
+P27361,Mitogen-activated protein kinase 3,1,2,0,2,0,0,2
+Q6WRH6,Pyrrolysine--tRNA ligase,1,2,0,0,2,0,0
+Q9R6W2,Glyceraldehyde 3-phosphate dehydrogenase (NADP+),1,2,0,2,0,0,0
+Q55813,O-methyltransferase,1,2,0,2,0,0,2
+P56081,3-dehydroquinate synthase,1,2,0,0,1,1,0
+P06999,6-phosphofructokinase isozyme 2,1,2,0,0,2,0,0
+P18031,Tyrosine-protein phosphatase non-receptor type 1,2,2,0,1,1,0,1
+A9CKI7,Oxidoreductase,1,2,0,0,0,2,0
+A6T8F5,Putative filament protein / universal stress protein F,1,2,0,0,2,0,0
+Q2YKI4,Bacterioferritin,1,2,2,0,0,0,0
+Q6FNA9,FMN adenylyltransferase,1,2,0,0,2,0,0
+P00720,Lysozyme,2,2,0,0,0,2,1
+Q9Q0U9,Polymerase acidic protein,1,2,0,2,0,0,0
+P0A7Y4,"Gag-Pol polyprotein,Ribonuclease HI,Gag-Pol polyprotein",1,2,0,2,0,0,0
+P00813,Adenosine deaminase,1,2,0,2,0,0,0
+Q9KM65,CAI-1 autoinducer synthase,1,2,0,0,2,0,0
+Q8TZY2,Chromosome segregation protein smc,1,2,0,0,0,2,2
+Q9NZK5,Adenosine deaminase CECR1,1,2,0,2,0,0,0
+Q7SI09,L-arabinitol 4-dehydrogenase,1,2,0,2,0,0,0
+A0AAI8FUJ4,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase/dihydropteroate synthase,1,2,0,2,0,0,0
+P10636,Microtubule-associated protein,1,2,1,1,0,0,0
+P0CS83,Candidapepsin-2,1,2,2,0,0,0,0
+Q9UHI8,A disintegrin and metalloproteinase with thrombospondin motifs 1,1,2,0,2,0,0,0
+A0R5U2,Cytochrome P450 164A2,1,2,0,0,2,0,0
+Q9V228,AsnS-like asparaginyl-tRNA synthetase related protein,1,2,0,0,2,0,0
+P24182,Biotin carboxylase,1,2,0,2,0,0,0
+O43314,Inositol Pyrophosphate Kinase,1,2,1,1,0,0,0
+A9JQL9,Dehydrosqualene synthase,2,2,0,1,1,0,0
+Q6J1Z6,"2-amino-5-chlorophenol 1,6-dioxygenase beta subunit",1,2,1,1,0,0,2
+D3KVM3,Glycerol kinase,1,2,0,0,2,0,0
+Q9Z4X7,4-HYDROXYPHENYLPYRUVIC ACID DIOXYGENASE,1,2,0,2,0,0,2
+Q5SHN3,30S ribosomal protein S12,1,2,0,2,0,0,0
+B5N507,"ZINC ABC TRANSPORTER, PERIPLASMIC ZINC-BINDING PROTEIN",1,2,0,2,0,0,0
+Q4WH08,BRANCHED-CHAIN AMINO ACID AMINOTRANSFERASE,1,2,0,2,0,0,0
+E8T502,CARBONATE DEHYDRATASE,1,2,0,2,0,0,2
+Q93RE9,ALCOHOL DEHYDROGENASE,2,2,2,0,0,0,0
+P78325,Disintegrin and metalloproteinase domain-containing protein 8,1,2,0,2,0,0,2
+Q9H6W3,Lysine-specific demethylase NO66,1,2,2,0,0,0,0
+D2Y3F4,Alcohol dehydrogenase class III,1,2,0,2,0,0,0
+Q9HZ64,Putative uncharacterized protein,1,2,0,2,0,0,0
+P0C0Y9,Reaction center protein M chain,1,2,2,0,0,0,0
+O92972,Genome polyprotein,1,2,0,2,0,0,0
+Q9HUM0,Protein hfq,1,2,0,2,0,0,0
+P15693,Intestinal-type alkaline phosphatase 1,1,2,0,2,0,0,2
+O95271,Tankyrase-1,1,2,0,0,1,1,0
+P21514,Cyclic di-GMP phosphodiesterase YahA,1,2,0,2,0,0,0
+P9WQA3,Fructose-bisphosphate aldolase,1,2,1,1,0,0,0
+A0A0H3KB22,7-carboxy-7-deazaguanine synthase,1,2,0,2,0,0,0
+P55263,Adenosine kinase,1,2,0,2,0,0,0
+Q8RE65,C4-dicarboxylate-binding protein,1,2,2,0,0,0,0
+P49333,Ethylene receptor 1,1,2,1,1,0,0,0
+Q9JYV4,Aminopeptidase N,2,2,0,2,0,0,0
+P06746,DNA polymerase beta,2,2,0,1,1,0,2
+G7CBN9,Argininosuccinate synthase,1,2,0,0,2,0,0
+A0A0J9X284,TRAP TRANSPORTER SOLUTE BINDING PROTEIN,1,2,2,0,0,0,2
+Q8EGK4,Omega-3 polyunsaturated fatty acid synthase subunit PfaD,1,2,0,2,0,0,0
+A0A3A9QNK2,1-deoxy-D-xylulose 5-phosphate reductoisomerase,1,2,0,2,0,0,0
+Q9ELS6,POLYHEDRIN,1,2,0,0,2,0,0
+P29600,SUBTILISIN SAVINASE,1,2,0,0,2,0,2
+P29597,Non-receptor tyrosine-protein kinase TYK2,1,2,0,2,0,0,2
+Q13237,cGMP-dependent protein kinase 2,1,2,0,2,0,0,0
+Q4JH30,Acidocalcisomal pyrophosphatase,1,2,0,0,0,2,0
+B0VKR7,Histidine--tRNA ligase,1,2,0,0,2,0,0
+E0SRA9,Ketol-acid reductoisomerase,1,2,0,2,0,0,0
+Q9FNB0,"Magnesium-chelatase subunit ChlH, chloroplastic",1,2,0,0,2,0,0
+Q5CWN3,Aminoacyl-tRNA synthetase,1,2,0,0,2,0,0
+Q9H3R0,LYSINE-SPECIFIC DEMETHYLASE 4C,1,2,2,0,0,0,0
+A0A7J5NYJ4,TPR DOMAIN PROTEIN,1,2,0,0,0,2,0
+P39748,FLAP ENDONUCLEASE 1,1,2,0,2,0,0,0
+P41229,HISTONE DEMETHYLASE JARID1C,1,2,2,0,0,0,0
+A0ABZ1ZSJ2,Putative secreted lipase,1,2,2,0,0,0,0
+O60825,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2",1,2,0,1,1,0,0
+Q8U194,NADH-dependent Ferredoxin:NADP Oxidoreductase subunit beta,2,2,0,2,0,0,0
+P9WJL9,UDP-N-acetylenolpyruvoylglucosamine reductase,1,2,0,2,0,0,0
+Q6P179,Endoplasmic reticulum aminopeptidase 2,2,2,0,2,0,0,0
+P37025,"RNA 2',3'-cyclic phosphodiesterase",1,2,0,0,2,0,0
+Q9UIQ6,"Leucyl-cystinyl aminopeptidase, pregnancy serum form",2,2,0,2,0,0,0
+P03038,"Tetracycline Repressor, class A",1,2,0,0,2,0,0
+Q9BYP7,Serine/threonine-protein kinase WNK3,1,2,0,2,0,0,0
+Q46085,Collagenase ColH,2,2,0,2,0,0,0
+A0A173FE28,Beta-lactamase VIM-2,1,2,0,2,0,0,0
+O15178,T-box transcription factor T,2,2,1,1,0,0,0
+P9WNX1,Dihydrofolate reductase,2,2,0,2,0,0,0
+F8GV06,Semialdehyde dehydrogenase NAD-binding protein,1,2,0,2,0,0,0
+Q3M6C3,3-dehydroquinate synthase,1,2,0,2,0,0,0
+F9UST4,Lactate racemization operon protein LarE,1,2,0,0,2,0,0
+A0A024B7W1,MRNA cap 0-1 NS5-type methyltransferase,1,2,0,0,2,0,0
+Q96KS0,Egl nine homolog 2,1,2,1,1,0,0,0
+P0DPI1,Botulinum neurotoxin type A,1,2,0,2,0,0,0
+B1Z4S0,"Catechol 1,2-dioxygenase",1,2,0,2,0,0,2
+P23971,2-succinylbenzoate--CoA ligase,1,2,0,0,2,0,0
+Q9LUT0,Protein kinase superfamily protein,1,2,0,2,0,0,0
+A3FJ48,Glucose dehydrogenase,1,2,2,0,0,0,0
+P0AD57,Octaprenyl diphosphate synthase,1,2,0,2,0,0,2
+A0A4V8GZK8,"Catechol 2,3-dioxygenase, extradiol protein",2,2,1,1,0,0,1
+A0A227M497,Proline--tRNA ligase,2,2,0,0,2,0,0
+P06802,"Ectonucleotide pyrophosphatase/phosphodiesterase 1, isoform CRA_d",2,2,0,2,0,0,1
+A5K7E9,Hypoxanthine phosphoribosyltransferase,1,2,0,2,0,0,0
+A0A0Q2QQL1,Alcohol dehydrogenase,2,2,0,2,0,0,0
+Q9HVB9,Carbonic anhydrase,2,2,2,0,0,0,1
+Q99ZT1,Polysaccharide deacetylase,1,2,2,0,0,0,0
+D1MEN9,Metallo-beta-lactamase VIM-2,1,2,0,2,0,0,0
+Q4FQF7,ATP phosphoribosyltransferase,2,2,0,0,2,0,0
+P29218,Inositol monophosphatase 1,1,2,0,2,0,0,0
+P43410,Adenylate kinase,1,2,0,0,2,0,0
+G0S061,Pentafunctional AROM polypeptide,1,2,0,2,0,0,0
+Q8IJA9,Adenosine deaminase,1,2,1,1,0,0,2
+M5A8V4,Acetophenone reductase,1,2,0,2,0,0,0
+A8P0V4,Extracellular PQQ-dependent sugar dehydrogenase,1,2,2,0,0,0,0
+A0A1B4ZC85,Five-membered-cyclitol-phosphate synthase,1,2,0,2,0,0,0
+B8CQB6,Polyunsaturated fatty acid synthase PfaD,1,2,0,2,0,0,0
+T2B7E1,Ferritin,1,2,2,0,0,0,0
+A0A0H2XBX7,Isocitrate dehydrogenase,1,2,0,2,0,0,0
+A0QUZ2,"Hydrolase, NUDIX family protein",2,2,2,0,0,0,0
+Q5NHF3,Succinate--CoA ligase [ADP-forming] subunit beta,1,2,0,0,2,0,0
+Q5NHF4,Succinate--CoA ligase [ADP-forming] subunit alpha,1,2,0,0,2,0,0
+B5II98,Carbon regulatory PII-like protein SbtB,1,2,0,2,0,0,0
+A0A2K6VKP7,Uncharacterized protein,1,2,0,0,2,0,0
+Q9KNI7,Adenosine deaminase,1,2,0,2,0,0,2
+Q07729,Probable guanine deaminase,1,2,1,1,0,0,2
+A0A0S4TJL4,Cleavage and Polyadenylation Specificity Factor 3 (CPSF3),1,2,0,2,0,0,0
+P37800,RNA-dependent RNA polymerase,1,2,0,2,0,0,0
+Q04771,Activin receptor type-1,2,2,0,0,0,2,0
+P9WP99,Corrinoid adenosyltransferase,2,2,0,2,0,0,0
+P62495,Eukaryotic peptide chain release factor subunit 1,2,2,0,1,1,0,0
+A0ABR6NDA2,Dioxygenase,2,2,0,2,0,0,0
+P22234,Multifunctional protein ADE2,1,2,2,0,0,0,0
+Q9I4X0,Transcriptional regulator MvfR,1,2,0,0,2,0,0
+P9WFX1,Salicylate synthase,1,2,0,2,0,0,2
+P62241,40S ribosomal protein S8,2,2,0,2,0,0,0
+Q9H816,5' exonuclease Apollo,1,2,0,2,0,0,0
+Q9UZY3,Pbp11 protein,1,2,2,0,0,0,0
+P0AGJ9,Tyrosine--tRNA ligase,1,2,0,2,0,0,0
+Q3J3H6,Vitamin B12-dependent ribonucleotide reductase,2,2,0,0,2,0,2
+N1S495,"2,3-dihydroxybenzoate decarboxylase",2,2,0,2,0,0,1
+P27250,Alcohol dehydrogenase,1,2,0,2,0,0,0
+Q8A4P9,Leucine aminopeptidase,2,2,2,0,0,0,2
+P02768,Serum albumin,1,2,0,0,2,0,2
+A0AAD2UT50,Peptidase M23,2,2,0,2,0,0,0
+Q9NQ11,Isoform 3 of Polyamine-transporting ATPase 13A2,2,2,0,0,2,0,0
+P22102,Trifunctional purine biosynthetic protein adenosine-3,1,2,0,2,0,0,0
+P29678,Dual specificity mitogen-activated protein kinase kinase 1,2,2,0,2,0,0,0
+P22392,Nucleoside diphosphate kinase B,1,2,0,0,0,2,2
+O15296,Polyunsaturated fatty acid lipoxygenase ALOX15B,1,2,0,2,0,0,0
+Q816E8,DNA-7-methylguanine glycosylase,2,2,0,0,2,0,0
+P35790,Choline kinase alpha,1,2,0,2,0,0,0
+Q9GZT4,Serine racemase,1,2,0,2,0,0,0
+A0A0S2GKZ1,Auxiliary activity 9,2,2,2,0,0,0,2
+A0A7R9KAR8,"GH92 alpha-1,2-mannosidase",1,2,0,2,0,0,0
+O35904,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",2,2,0,0,0,2,0
+A0A8X6EH16,Ketol-acid reductoisomerase from Methanothermococcus thermolithotrophicus,1,2,0,2,0,0,0
+P51531,Probable global transcription activator SNF2L2,2,2,1,1,0,0,0
+Q24WN9,Ferric-anguibactin-binding protein FatB,1,2,0,2,0,0,2
+Q0X0A9,Excinuclease ABC subunit UvrA,1,2,0,2,0,0,0
+P19157,Glutathione S-transferase P 1,1,2,0,0,2,0,2
+P9WKZ1,Alpha-ketoglutarate-dependent sulfate ester dioxygenase,1,2,1,1,0,0,2
+P46776,Large ribosomal subunit protein uL15,2,2,0,0,2,0,0
+O43837,"Isoform A of Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial",1,2,0,2,0,0,0
+P50213,Human IDH3 alpha subunit,1,2,0,2,0,0,0
+P08253,Matrix metalloproteinase-2,1,2,0,2,0,0,0
+O33477,"2-aminophenol 1,6-dioxygenase beta subunit",1,2,0,2,0,0,2
+P16110,Galectin-3,1,2,0,0,0,2,0
+A0A182M1F8,PROLYL-TRNA SYNTHETASE,1,2,0,0,2,0,0
+A0AAJ6N6I6,selenoneine synthase SenA,2,2,2,0,0,0,0
+Q13686,Nucleic acid dioxygenase ALKBH1,1,2,2,0,0,0,0
+A0QWT2,Coenzyme A biosynthesis bifunctional protein CoaBC,1,2,0,2,0,0,0
+A0A316E3U6,Piwi domain-containing protein,1,2,0,0,0,2,2
+A0A316E683,TIR domain-containing protein,1,2,0,0,0,2,2
+Q00169,Phosphatidylinositol transfer protein alpha isoform,2,2,2,0,0,0,0
+E1BVB1,Ribosomal protein L32,1,2,0,2,0,0,0
+P49642,DNA primase small subunit,1,2,0,0,2,0,0
+W1DN50,Beta-lactamase,2,2,0,2,0,0,0
+P0A6K3,Peptide deformylase,1,2,0,2,0,0,0
+P42330,Aldo-keto reductase family 1 member C3,1,2,1,1,0,0,0
+Q4QFG2,Putative 60S ribosomal protein L13a,1,2,0,2,0,0,0
+P31749,RAC-alpha serine/threonine-protein kinase,2,2,0,2,0,0,0
+P04839,Cytochrome b-245 heavy chain,2,2,0,2,0,0,0
+A0A562IS02,alcohol dehydrogenase,2,2,0,2,0,0,0
+A0A0U1C370,NAD(+) diphosphatase,1,2,0,2,0,0,0
+Q8IVT5,Kinase suppressor of Ras 1,1,2,0,2,0,0,0
+Q65XK0,"Ketol-acid reductoisomerase, chloroplastic",1,2,0,2,0,0,0
+A0A3G6JS83,Anaerobic ribonucleoside-triphosphate reductase,1,2,0,2,0,0,2
+Q96NY9,Crossover junction endonuclease MUS81,1,2,0,2,0,0,0
+O49923,Adenosine kinase,1,2,0,2,0,0,2
+A0A395TF31,Histone deacetylase,1,2,0,2,0,0,0
+Q6N021,Methylcytosine dioxygenase TET2,1,2,1,1,0,0,0
+P48067,Isoform GlyT-1B of Sodium- and chloride-dependent glycine transporter 1,1,2,0,2,0,0,2
+Q0INZ4,"Probable solanesyl-diphosphate synthase 3, chloroplastic",1,2,0,2,0,0,2
+A0A921QCV5,Solanesyl diphosphate synthase,1,2,0,2,0,0,2
+O58517,375aa long hypothetical alchol dehydrogenase,1,2,0,2,0,0,0
+Q9I2C4,NAD+ dependent aldehyde dehydrogenase ExaC,1,2,0,0,2,0,0
+P0ABQ4,Dihydrofolate reductase,1,2,0,2,0,0,0
+Q5CR64,nucleoside-diphosphate kinase,1,2,0,0,2,0,2
+P61175,50S ribosomal protein L22,1,2,0,0,2,0,2
+A0A2B7ITY5,50S ribosomal protein L22,1,2,0,0,2,0,2
+A0A2C6LEQ5,50S ribosomal protein L23,1,2,0,0,2,0,2
+Q8DYG3,"Peptide ABC transporter, peptide-binding protein",1,2,2,0,0,0,0
+P30837,"Aldehyde dehydrogenase X, mitochondrial",2,2,0,0,2,0,0
+Q6QGD4,Nicking endonuclease,2,2,2,0,0,0,0
+Q9HVQ7,PKHD-type hydroxylase PiuC,1,2,2,0,0,0,0
+A0AAA9WVN6,Ribosomal protein L32,1,2,0,2,0,0,0
+A0A9W5PE21,Transcriptional regulator,1,2,1,1,0,0,0
+P05186,"Alkaline phosphatase, tissue-nonspecific isozyme",1,2,0,2,0,0,0
+P54263,Asparagine--tRNA ligase,1,2,0,2,0,0,0
+D3TI84,RNA helicase,2,2,0,0,2,0,0
+Q08297,DNA repair protein RAD51 homolog 1,1,2,0,2,0,0,0
+Q72547,Reverse transcriptase/RNaseH,1,2,2,0,0,0,0
+Q9HXI4,Nus factor SuhB,1,2,0,2,0,0,0
+A0A4Y2,Malic enzyme,1,2,0,2,0,0,0
+A0A917NHY8,Oxidoreductase,1,2,2,0,0,0,0
+Q3J1A5,Reaction center protein L chain,1,2,2,0,0,0,0
+Q3J1A6,Reaction center protein M chain,1,2,2,0,0,0,0
+Q8WY64,E3 ubiquitin-protein ligase MYLIP,1,1,0,1,0,0,0
+P14418,PHOSPHOLIPASE A2,1,1,0,1,0,0,0
+Q59771,PHENYLALANINE DEHYDROGENASE,1,1,0,1,0,0,0
+P00651,PROTEIN (RIBONUCLEASE T1),1,1,0,0,1,0,1
+P12998,8-AMINO-7-OXONONANOATE SYNTHASE,1,1,0,1,0,0,1
+Q24973,GUANINE PHOSPHORIBOSYLTRANSFERASE,1,1,0,1,0,0,0
+P13716,DELTA-AMINOLEVULINIC ACID DEHYDRATASE,1,1,0,1,0,0,1
+P36017,PROTEIN (GTP-BINDING PROTEIN YPT51),1,1,1,0,0,0,0
+Q59096,BENZYL ALCOHOL DEHYDROGENASE,1,1,0,1,0,0,0
+P29208,O-SUCCINYLBENZOATE SYNTHASE,1,1,0,1,0,0,1
+P9WKI1,INOSITOL-3-PHOSPHATE SYNTHASE,1,1,0,1,0,0,0
+P26663,RNA-DIRECTED RNA POLYMERASE,1,1,0,0,1,0,0
+Q56310,CHEMOTAXIS PROTEIN CHEA,1,1,0,1,0,0,0
+P06762,Heme Oxygenase-1,1,1,1,0,0,0,0
+P08536,SULFATE ADENYLYLTRANSFERASE,1,1,0,0,0,1,0
+P32816,Glycerol dehydrogenase,1,1,0,1,0,0,0
+P14489,Beta-lactamase PSE-2,1,1,0,1,0,0,1
+Q46444,quinohemoprotein alcohol dehydrogenase,1,1,1,0,0,0,0
+Q9GPQ4,inosine-adenosine-guanosine preferring nucleoside hydrolase,1,1,1,0,0,0,1
+Q8GR64,TYPE II QUINOHEMOPROTEIN ALCOHOL DEHYDROGENASE,1,1,1,0,0,0,0
+Q9TVW2,adenosine kinase,1,1,0,0,1,0,0
+Q64520,Guanylate kinase,1,1,0,1,0,0,1
+P9WIL5,Pantothenate synthetase,1,1,0,0,1,0,0
+P05373,DELTA-AMINOLEVULINIC ACID DEHYDRATASE,1,1,0,1,0,0,1
+Q9U8D3,Adenylosuccinate Synthetase,1,1,0,1,0,0,1
+Q16775,PROTEIN (HYDROXYACYLGLUTATHIONE HYDROLASE),1,1,0,1,0,0,1
+P51512,Matrix metalloproteinase-16,1,1,0,1,0,0,1
+P24408,Ras-related protein Rab-9A,1,1,0,1,0,0,0
+Q5AU62,nitrogen metabolite repression regulator NmrA,1,1,0,1,0,0,0
+O28126,tRNA nucleotidyltransferase,1,1,0,1,0,0,0
+P08192,FOLC BIFUNCTIONAL PROTEIN,1,1,0,1,0,0,1
+O70239,Axin 1 protein,1,1,1,0,0,0,0
+Q9YE81,isocitrate dehydrogenase,1,1,0,1,0,0,0
+O67323,Alanyl-tRNA synthetase,1,1,0,0,1,0,0
+Q4W6G0,Quinohemoprotein alcohol dehydrogenase,1,1,1,0,0,0,0
+P00436,"Protocatechuate 3,4-dioxygenase alpha chain",1,1,0,1,0,0,0
+P44886,Putative acyl-CoA thioester hydrolase HI0827,1,1,0,0,1,0,0
+Q9HX21,Probable nicotinate-nucleotide adenylyltransferase,1,1,0,1,0,0,0
+P28523,"PROTEIN KINASE CK2, ALPHA SUBUNIT",1,1,0,1,0,0,1
+P0DKX7,CyaA with C-terminal Calmodulin,1,1,0,0,1,0,0
+A0A4Z2CZR5,thioredoxin-disulfide reductase (NADPH),1,1,0,1,0,0,0
+P62617,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",1,1,0,1,0,0,0
+P53590,"Succinyl-CoA ligase [GDP-forming] beta-chain, mitochondrial",1,1,0,0,1,0,0
+Q1R5Y2,Protein chain elongation factor EF-Tu,1,1,0,1,0,0,1
+P52732,Kinesin-like protein KIF11,1,1,0,0,0,1,0
+Q2VZ87,COG1633: Uncharacterized conserved protein,1,1,1,0,0,0,0
+Q89NG0,Blr3880 protein,1,1,0,1,0,0,1
+Q6R661,AvrL567-A,1,1,1,0,0,0,0
+Q9X034,Uncharacterized protein,1,1,0,1,0,0,0
+O87988,Putative nucleotide sugar epimerase/ dehydratase,1,1,0,0,0,1,0
+P13513,Trichodiene synthase,1,1,0,1,0,0,0
+Q9RYW8,"EXCINUCLEASE ABC, SUBUNIT A.",1,1,0,0,1,0,0
+O25318,TNF-ALPHA INDUCER PROTEIN,1,1,1,0,0,0,0
+O95861,"3'(2')\, 5'-BISPHOSPHATE NUCLEOTIDASE 1",1,1,0,1,0,0,0
+P10723,"ASPARAGINYL-TRNA SYNTHETASE\, CYTOPLASMIC\, PUTATIVE",1,1,0,0,1,0,0
+B8QGZ7,DELTA TOXIN,1,1,1,0,0,0,0
+P0C6T4,3C-LIKE PROTEINASE,1,1,1,0,0,0,0
+Q15418,Ribosomal protein S6 kinase alpha-1,1,1,0,1,0,0,0
+O96048,29-kDa galactose-binding lectin,1,1,1,0,0,0,0
+Q4QIU2,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",1,1,0,0,1,0,0
+P45985,Dual specificity mitogen-activated protein kinase kinase 4,1,1,0,1,0,0,0
+Q6BBK3,CP12,1,1,0,1,0,0,0
+O95363,"Phenylalanyl-tRNA synthetase, mitochondrial",1,1,0,0,1,0,0
+P0A6U8,Glycogen synthase,1,1,0,1,0,0,0
+Q9Z571,Putative oxidoreductase,1,1,1,0,0,0,0
+P9WHM5,Probable 5'-phosphoribosylglycinamide formyltransferase purN,1,1,0,0,1,0,1
+Q81RQ4,uncharacterized protein AsbF,1,1,0,1,0,0,0
+P70080,Tryptophan 5-hydroxylase 1,1,1,1,0,0,0,0
+Q9KKU4,"Organic hydroperoxide resistance protein, putative",1,1,1,0,0,0,0
+P9WNK7,6 kDa early secretory antigenic target,1,1,1,0,0,0,0
+Q3M3X1,SAM-dependent methyltransferase,1,1,1,0,0,0,0
+Q46372,Biphenyl dioxygenase subunit alpha,1,1,0,1,0,0,0
+Q81JG3,Holo-[acyl-carrier-protein] synthase,1,1,0,0,1,0,1
+Q8WS25,Farnesyl pyrophosphate synthase,1,1,0,1,0,0,0
+A8R5D9,AgI/II,1,1,0,1,0,0,1
+P94951,F420-dependent methylenetetrahydromethanopterin dehydrogenase,1,1,0,0,0,1,1
+Q11B79,Putative metallopeptidase,1,1,1,0,0,0,0
+Q8ABD0,5-methyltetrahydrofolate-homocysteine methyltransferase,1,1,0,0,0,1,1
+Q97H19,putative peptidase,1,1,1,0,0,0,0
+Q8E565,Redox-sensing transcriptional repressor rex,1,1,0,0,1,0,0
+Q8X5Q7,D-lyxose isomerase,1,1,0,1,0,0,0
+Q13418,Integrin-linked kinase,1,1,0,1,0,0,0
+P00592,"Phospholipase A2, major isoenzyme",1,1,0,1,0,0,0
+P62799,Histone H4,1,1,1,0,0,0,0
+P06897,Histone H2A,1,1,1,0,0,0,0
+P02281,Histone H2B 1.1,1,1,1,0,0,0,0
+A0A2U2H3Y1,Adenylate cyclase 2,1,1,0,1,0,0,0
+Q96LI5,CCR4-NOT transcription complex subunit 6-like,1,1,0,1,0,0,0
+A4VVQ2,Dehydrogenase with different specificities,1,1,0,1,0,0,0
+A1A2L3,putative metal-dependent phosphoesterase,1,1,0,1,0,0,0
+P02791,Ferritin light chain,1,1,1,0,0,0,0
+Q5ZXC3,Succinyl-diaminopimelate desuccinylase,1,1,1,0,0,0,0
+P26393,Glucose-1-phosphate thymidylyltransferase,1,1,0,0,1,0,1
+Q9UGP5,DNA polymerase lambda,1,1,0,0,1,0,0
+Q6FPH0,Strain CBS138 chromosome J complete sequence,1,1,0,0,0,1,0
+B4EXV8,Putative phophotriesterase,1,1,0,1,0,0,0
+P25524,Cytosine deaminase,1,1,0,1,0,0,0
+P58687,3-dehydroquinate dehydratase,1,1,1,0,0,0,0
+P21760,Extracellular fatty acid-binding protein,1,1,0,0,1,0,1
+Q9CYK2,Glutaminyl-peptide cyclotransferase,1,1,1,0,0,0,0
+B7JBP8,"Sulfide-quinone reductase, putative",1,1,0,1,0,0,0
+A0ABX2C8M7,Mandelate racemase/muconate lactonizing enzyme,1,1,0,1,0,0,1
+P52564,Dual specificity mitogen-activated protein kinase kinase 6,1,1,0,1,0,0,0
+P0A029,Cell division protein FtsZ,1,1,0,1,0,0,0
+Q9C9G4,Endonuclease 2,1,1,0,1,0,0,1
+Q5NTE5,Gallate dioxygenase,1,1,0,1,0,0,0
+Q64444,CARBONIC ANHYDRASE IV,1,1,0,1,0,0,1
+P15494,MAJOR POLLEN ALLERGEN BET V 1-A,1,1,0,1,0,0,1
+Q8GNY5,Far1,1,1,0,1,0,0,0
+Q841A2,FERRIC ENTEROBACTIN RECEPTOR,1,1,1,0,0,0,0
+P01308,INSULIN,1,1,1,0,0,0,0
+A3DC45,ISOCITRATE DEHYDROGENASE [NADP],1,1,0,1,0,0,0
+Q6AQ66,ISOCITRATE DEHYDROGENASE [NADP],1,1,0,1,0,0,0
+B0SWV2,"MANNOSYL-OLIGOSACCHARIDE 1,2-ALPHA-MANNOSIDASE",1,1,0,1,0,0,0
+Q5B153,"ARABINOGALACTAN ENDO-1,4-BETA-GALACTOSIDASE A",1,1,1,0,0,0,0
+P0AE82,SENSOR PROTEIN CPXA,1,1,0,1,0,0,0
+O42703,CARBONYL REDUCTASE CPCR2,1,1,0,1,0,0,0
+Q8QN58,M2-1,1,1,0,1,0,0,0
+A0ACD6BAT9,ATP-DEPENDENT DNA LIGASE,1,1,0,1,0,0,0
+Q5U925,Activator of 2-hydroxyisocaproyl-CoA dehydratase,1,1,0,1,0,0,0
+Q81XD4,Conserved domain protein,1,1,1,0,0,0,0
+Q8G2R2,Histidinol dehydrogenase,1,1,1,0,0,0,0
+Q54AI1,Heme oxygenase,1,1,1,0,0,0,0
+P18827,Syndecan-1,1,1,0,0,0,1,1
+Q13009,T-lymphoma invasion and metastasis-inducing protein 1,1,1,0,0,0,1,1
+A9CEQ8,Putative uncharacterized protein,1,1,1,0,0,0,0
+P9WQ55,Long chain fatty acid CoA ligase FadD10,1,1,0,0,0,1,0
+Q2YRK4,GCN5-related N-acetyltransferase,1,1,0,1,0,0,0
+Q46E80,PylD,1,1,0,1,0,0,0
+P21802,Fibroblast growth factor receptor 2,1,1,0,0,1,0,0
+G3XDA2,3-oxoacyl-[acyl-carrier-protein] synthase 2,1,1,0,0,1,0,0
+P43403,Tyrosine-protein kinase ZAP-70,1,1,0,1,0,0,0
+P9WMN3,Bifunctional protein GlmU,1,1,0,0,1,0,0
+O96693,"1-deoxy-D-xylulose 5-phosphate reductoisomerase, apicoplast",1,1,0,1,0,0,0
+Q96533,Alcohol dehydrogenase class-3,1,1,0,1,0,0,0
+P63048,Polyubiquitin-C,1,1,1,0,0,0,0
+Q96EP0,E3 ubiquitin-protein ligase RNF31,1,1,1,0,0,0,0
+Q4WP27,CaaX farnesyltransferase alpha subunit Ram2,1,1,0,0,1,0,1
+P08631,Tyrosine-protein kinase HCK,1,1,0,1,0,0,0
+Q9QZL0,Receptor-interacting serine/threonine-protein kinase 3,1,1,0,1,0,0,0
+A0ABF7PFU3,Sorbose dehydrogenase,1,1,0,0,1,0,0
+B7QK46,"Glutaminyl cyclase, putative",1,1,1,0,0,0,0
+Q6P6C2,RNA demethylase ALKBH5,1,1,1,0,0,0,0
+A4ZPY8,DepH,1,1,0,1,0,0,0
+Q7SID2,Cobalt-containing nitrile hydratase subunit alpha,1,1,0,1,0,0,1
+Q96IY4,Carboxypeptidase B2,1,1,1,0,0,0,0
+A0ABF7PFH9,TRAP dicarboxylate transporter-DctP subunit,1,1,1,0,0,0,0
+Q8S532,Cytosolic aldehyde dehydrogenase RF2C,1,1,0,0,1,0,0
+A0A0A6YVN8,D-tagatose 3-epimerase,1,1,1,0,0,0,0
+Q9Y6E0,SERINE/THREONINE-PROTEIN KINASE 24,1,1,0,1,0,0,0
+A0A0D6FXK4,Methionyl-tRNA synthetase,1,1,0,1,0,0,0
+P25043,Proteasome subunit beta type-2,1,1,0,1,0,0,0
+P38624,Proteasome subunit beta type-1,1,1,0,1,0,0,0
+P30656,Proteasome subunit beta type-5,1,1,0,0,1,0,0
+Q40577,5-epi-aristolochene synthase,1,1,0,1,0,0,0
+P06525,Alcohol Dehydrogenase,1,1,0,1,0,0,0
+C4LVZ4,Pyridoxal kinase,1,1,0,1,0,0,0
+P48730,Casein kinase I isoform delta,1,1,0,0,1,0,0
+P16304,Adenylate kinase,1,1,0,1,0,0,1
+O33336,Phosphopantetheinyl transferase PptT,1,1,0,1,0,0,0
+Q8Y614,CELL CYCLE PROTEIN GPSB,1,1,1,0,0,0,0
+Q5UB51,NS5 POLYMERASE,1,1,0,0,1,0,0
+P53323,EKC/KEOPS complex subunit BUD32,1,1,0,1,0,0,0
+Q8VDS3,Chromobox protein homolog 7,1,1,0,1,0,0,0
+G7CI90,Glycoside hydrolase family protein,1,1,0,1,0,0,0
+P62913,60S ribosomal protein L11,1,1,1,0,0,0,0
+Q00987,E3 ubiquitin-protein ligase Mdm2,1,1,1,0,0,0,0
+A0A0H3LP08,TRAP TRANSPORTER SOLUTE BINDING PROTEIN,1,1,1,0,0,0,1
+Q6L8Q7,"2',5'-phosphodiesterase 12",1,1,0,1,0,0,0
+Q97W22,Purine phosphoribosyltransferase (GpT-2),1,1,0,0,1,0,1
+C1I209,Hydroquinone dioxygenase large subunit,1,1,0,1,0,0,0
+Q6NER4,UDP-galactopyranose mutase,1,1,0,1,0,0,0
+P32882,Tubulin beta-2 chain,1,1,0,1,0,0,0
+Q6X3H6,"Aminoglycoside Nucleotidyltransferase (2"")-Ia",1,1,0,0,1,0,0
+Q9ULX7,Carbonic anhydrase 14,1,1,0,1,0,0,0
+O27289,ATP-dependent RNA ligase,1,1,0,1,0,0,0
+P0A0K8,DNA gyrase subunit B,1,1,0,1,0,0,0
+Q9Z1W9,STE20/SPS1-related proline-alanine-rich protein kinase,1,1,0,0,1,0,0
+A0A0C5I0W4,Inositol monophosphatase,1,1,0,1,0,0,0
+A4GRC7,Dehydrofolate reductase type I,1,1,0,0,0,1,0
+P61586,Transforming protein RhoA,1,1,0,1,0,0,0
+P33316,"Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial",1,1,1,0,0,0,0
+O67099,Thymidylate kinase,1,1,0,1,0,0,0
+Q5JFV8,Homoisocitrate dehydrogenase,1,1,0,1,0,0,0
+Q96PN6,Adenylate cyclase type 10,1,1,0,1,0,0,0
+P71615,Uncharacterized protein Rv2837c,1,1,0,1,0,0,0
+P61823,Ribonuclease pancreatic,1,1,0,1,0,0,0
+Q07010,Hypoxanthine-guanine phosphoribosyltransferase,1,1,0,1,0,0,1
+O62137,Acyl-coenzyme A oxidase,1,1,0,0,1,0,0
+Q7YW97,L-threonine 3-dehydrogenase,1,1,0,1,0,0,0
+Q8EEB0,3-deoxy-alpha-D-manno-octulosonate 8-oxidase,1,1,0,1,0,0,0
+P0DP23,Calmodulin-1,1,1,0,1,0,0,0
+P55264,Adenosine kinase,1,1,0,0,1,0,0
+M9XB82,Polyphosphate:AMP phosphotransferase,1,1,0,1,0,0,0
+Q50859,Putative O-methyltransferase,1,1,0,1,0,0,1
+A7BT71,Beta subunit of photoactivated adenylyl cyclase,1,1,0,1,0,0,0
+Q9HXH7,Diguanylate phosphodiesterase,1,1,0,1,0,0,0
+P0ACB2,Delta-aminolevulinic acid dehydratase,1,1,0,1,0,0,1
+D6N9X1,Progesterone 5-beta-reductase,1,1,0,1,0,0,0
+P33981,Dual specificity protein kinase TTK,1,1,0,1,0,0,0
+A0A2R2JFJ4,indoxyl UDP-glucosyltransferase,1,1,0,0,1,0,1
+P32440,"5,10-methenyltetrahydromethanopterin hydrogenase",1,1,0,1,0,0,0
+A7XNI2,ADP-ribosyl-(Dinitrogen reductase) hydrolase,1,1,0,1,0,0,0
+P14240,RNA-directed RNA polymerase L,1,1,0,1,0,0,0
+P9WI81,Serine/threonine-protein kinase PknB,1,1,0,1,0,0,1
+P9WMN1,ATP phosphoribosyltransferase,1,1,0,0,1,0,0
+P23381,"Tryptophan--tRNA ligase, cytoplasmic",1,1,0,1,0,0,1
+Q9Y4U1,Methylmalonic aciduria and homocystinuria type C protein,1,1,0,0,1,0,1
+K7VIQ3,Putative leucine-rich repeat protein kinase family protein,1,1,0,1,0,0,0
+I6TYZ3,Ferredoxin-NADP(+) reductase subunit alpha,1,1,0,1,0,0,0
+Q5F973,Phosphoribosylformylglycinamidine cyclo-ligase,1,1,0,1,0,0,0
+C5XC49,Cinnamyl alcohol dehydrogenases (SbCAD4),1,1,0,1,0,0,0
+P00523,Proto-oncogene tyrosine-protein kinase Src,1,1,0,1,0,0,0
+P0A1C1,Probable ATP synthase SpaL/MxiB,1,1,0,0,0,1,0
+P95189,Histidinol-phosphatase,1,1,0,1,0,0,1
+L8NZJ8,Cupin domain protein,1,1,0,1,0,0,1
+Q13188,Serine/threonine-protein kinase 3,1,1,0,1,0,0,0
+Q4WCL5,Acetyl-CoA acetyltransferase,1,1,0,1,0,0,0
+A0A060GYS1,Phosphotriesterase,1,1,0,1,0,0,0
+A0A089QYG8,Anion transporter,1,1,0,0,1,0,0
+P13497,Bone morphogenetic protein 1,1,1,0,1,0,0,0
+P07900,Heat shock protein HSP 90-alpha,1,1,0,1,0,0,0
+B9ZW32,Hypoxanthine phosphoribosyltransferase,1,1,0,1,0,0,1
+Q8TDQ0,Hepatitis A virus cellular receptor 2,1,1,0,1,0,0,0
+P00970,DNA ligase,1,1,0,1,0,0,0
+W4I9J7,Pf-M17,1,1,0,1,0,0,0
+Q9NWZ3,Interleukin-1 receptor-associated kinase 4,1,1,0,1,0,0,0
+P48827,Endochitinase 42,1,1,1,0,0,0,0
+Q83X90,Amine oxidase LkcE,1,1,0,1,0,0,0
+Q93YN9,Inositol-pentakisphosphate 2-kinase,1,1,0,1,0,0,0
+Q84HF5,Kynurenine 3-monooxygenase,1,1,0,0,1,0,0
+Q2UNF9,Catechol oxidase,1,1,0,1,0,0,1
+Q6ZZJ1,deacetylase,1,1,1,0,0,0,0
+P35970,DNA ligase,1,1,0,0,0,1,0
+P56817,Beta-secretase 1,1,1,0,0,0,1,0
+Q57179,Ketol-acid reductoisomerase (NADP(+)),1,1,0,1,0,0,0
+Q6V4H0,10-hydroxygeraniol oxidoreductase,1,1,0,1,0,0,0
+P77212,Pyridine nucleotide-disulphide oxidoreductase dimerisation region,1,1,0,1,0,0,0
+Q04M32,Ketol-acid reductoisomerase (NADP(+)),1,1,0,1,0,0,0
+Q9NR30,Nucleolar RNA helicase 2,1,1,0,0,1,0,0
+P11609,Antigen-presenting glycoprotein CD1d1,1,1,0,0,1,0,0
+Q9F3C7,Formylglycine-generating enzyme,1,1,0,1,0,0,0
+P09917,Arachidonate 5-lipoxygenase,1,1,0,1,0,0,0
+Q8ZPL9,Adenosine deaminase,1,1,0,1,0,0,1
+Q9UK39,Nocturnin,1,1,0,1,0,0,0
+Q9X6W1,Beta-lactamase,1,1,1,0,0,0,0
+A1E8I9,N-ethylmaleimide reductase,1,1,0,1,0,0,0
+A8M6W6,CymD prenyltransferase,1,1,0,1,0,0,0
+P18858,DNA ligase 1,1,1,0,0,1,0,0
+A0A0B5GUD2,Txo1,1,1,0,1,0,0,0
+O15151,Protein Mdm4,1,1,0,1,0,0,0
+Q02543,60S ribosomal protein L18a,1,1,0,1,0,0,0
+Q5VTE6,Protein angel homolog 2,1,1,0,0,1,0,0
+Q5SHL3,"(P)ppGpp synthetase I, SpoT/RelA",1,1,0,0,1,0,0
+P51955,Serine/threonine-protein kinase Nek2,1,1,0,0,0,1,0
+Q92841,Probable ATP-dependent RNA helicase DDX17,1,1,0,0,1,0,0
+A9A1Y2,Vinylacetyl-CoA Delta-isomerase,1,1,0,1,0,0,0
+P0AEW6,Inosine-guanosine kinase,1,1,0,0,1,0,0
+Q3V872,4-hydroxythreonine-4-phosphate dehydrogenase,1,1,0,1,0,0,0
+P43860,3-isopropylmalate dehydrogenase,1,1,0,1,0,0,0
+Q1K6P0,50S ribosomal protein L5,1,1,0,1,0,0,0
+M5BPX4,Glutathione transferase,1,1,0,0,0,1,1
+A0A3Q0KFL1,Thioredoxin glutathione reductase,1,1,0,0,1,0,0
+P60723,Large ribosomal subunit protein uL4,1,1,0,1,0,0,0
+P56137,Adenylosuccinate synthetase,1,1,0,1,0,0,1
+P54132,"Bloom syndrome protein,Bloom syndrome protein",1,1,0,0,1,0,0
+Q8NB49,ATP11C,1,1,0,0,1,0,0
+A0A2D0TC04,Venom phosphodiesterase,1,1,0,1,0,0,1
+P00953,Tryptophan--tRNA ligase,1,1,0,0,1,0,0
+Q9KDJ7,Transcriptional regulator NiaR,1,1,0,1,0,0,1
+G8T6H8,O-methyltransferase family 3,1,1,0,1,0,0,0
+Q6VAB6,Kinase suppressor of Ras 2,1,1,0,1,0,0,0
+P32660,Phospholipid-transporting ATPase DNF1,1,1,0,0,1,0,0
+A0A0D5YII6,MarR family multidrug resistance pump transcriptional regulator,1,1,0,0,0,1,1
+J9VFT1,Acetyl-coenzyme A synthetase,1,1,0,1,0,0,0
+Q9WZJ0,Epoxyqueuosine reductase QueH,1,1,0,1,0,0,1
+Q6IDD9,Isoform B of NAD(+) hydrolase sarm1,1,1,0,0,1,0,1
+C6Y633,Protein PA-X,1,1,0,1,0,0,1
+P39524,"Probable phospholipid-transporting ATPase DRS2,Probable phospholipid-transporting ATPase DRS2",1,1,0,0,1,0,0
+A0A1B1JH81,Histone deacetylase DAC2,1,1,0,1,0,0,1
+A9CG24,NADQ transcription factor,1,1,0,0,1,0,0
+H2J4R1,TPR_REGION domain-containing protein,1,1,0,0,1,0,0
+Q6N3R9,Beta-propeller lactonase,1,1,0,1,0,0,1
+Q980T8,DNA ligase,1,1,0,1,0,0,0
+P31153,S-adenosylmethionine synthase isoform type-2,1,1,0,0,1,0,0
+P04311,DNA repair NTP-phosphohydrolase,1,1,0,0,1,0,1
+Q7N3A2,TauD/TfdA family dioxygenase,1,1,0,1,0,0,0
+Q9H999,Pantothenate kinase 3,1,1,0,0,1,0,0
+B7WQT1,Rieske (2Fe-2S) domain protein,1,1,0,1,0,0,1
+P28482,Mitogen-activated protein kinase 1,1,1,0,0,0,1,1
+Q9TXT9,"Beta-Carotene 15,15'-MonoOxygenase",1,1,1,0,0,0,0
+Q9H078,Isoform 2 of Caseinolytic peptidase B protein homolog,1,1,0,0,1,0,0
+A0A7M1LFL5,Isocitrate dehydrogenase [NADP],1,1,0,0,0,1,0
+P62010,30S ribosomal protein S11,1,1,0,1,0,0,0
+P63104,14-3-3 protein zeta/delta,1,1,0,0,1,0,0
+P24785,Dosage compensation regulator,1,1,0,1,0,0,0
+G1T6D1,Ribosomal protein L23,1,1,0,1,0,0,0
+F8UNI4,Chitinase B,1,1,1,0,0,0,0
+Q8TL28,Ulilysin,1,1,0,1,0,0,1
+K0BRZ6,Genome polyprotein,1,1,0,0,1,0,0
+P49643,DNA primase large subunit,1,1,0,1,0,0,0
+P00573,T7 RNA polymerase,1,1,0,0,1,0,0
+A0A6A5Q1M9,RPL32 isoform 1,1,1,0,1,0,0,0
+P08987,Glucosyltransferase-I,1,1,0,0,1,0,0
+K9XWB7,RimK domain-containing protein ATP-grasp,1,1,0,0,1,0,0
+I1S104,Longiborneol synthase CLM1,1,1,0,1,0,0,0
+Q01433,AMP deaminase 2,1,1,0,1,0,0,0
+Q9RMI1,Beta-lactamase,1,1,1,0,0,0,0
+D0C9M9,Phosphopantetheine adenylyltransferase,1,1,0,0,1,0,1
+Q99312,IMP-specific 5'-nucleotidase 1,1,1,0,0,1,0,1
+A0A861B387,AetD,1,1,0,1,0,0,0
+A6TGD6,Glycerol dehydrogenase,1,1,0,1,0,0,0
+G1SNY0,60S ribosomal protein L27a,1,1,0,0,1,0,0
+P62942,Peptidyl-prolyl cis-trans isomerase FKBP1A,1,1,0,0,0,1,0
+Q5ZJZ2,Ribosomal protein uL3,1,1,0,0,1,0,1
+F1NB02,40S ribosomal protein S8,1,1,0,1,0,0,0
+A0AAN4PQV1,6-phosphogluconate dehydrogenase NADP-binding domain-containing protein,1,1,0,0,1,0,0
+Q91IE3,Polyhedrin,1,1,0,0,1,0,0
+P01116,GTPase KRas,1,1,0,0,1,0,0
+P50613,Cyclin-dependent kinase 7,1,1,0,1,0,0,0
+Q4QC11,60S ribosomal protein L32,1,1,0,1,0,0,0
+E9AFK0,Putative 60S ribosomal protein L27A/L29,1,1,0,0,1,0,0
+Q96GD0,Chronophin,1,1,0,1,0,0,0
+G1TJW1,40S ribosomal protein S8,1,1,0,1,0,0,0
+A4I093,Acetyl-coenzyme A synthetase,1,1,0,1,0,0,0
+P97438,Potassium channel subfamily K member 2,1,1,0,0,0,1,0
+Q8NDL9,Cytosolic carboxypeptidase-like protein 5,1,1,1,0,0,0,0
+A0A978T1Y9,Sulfoxide synthase EgtB-IV,1,1,1,0,0,0,0
+Q5SHN9,50S ribosomal protein L4,1,1,0,0,1,0,0
+P0AD49,Ribosome-associated inhibitor A,1,1,0,0,1,0,0
+Q84EX5,R-specific alcohol dehydrogenase,1,1,0,0,1,0,0
+P0DPA8,4-hydroxytryptamine kinase,1,1,0,1,0,0,1
+P03956,MMP-1,1,1,0,1,0,0,1
+Q07817,"Apoptosis regulator Bcl-2,Bcl-2-like protein 1",1,1,0,0,1,0,0
+P10398,Serine/threonine-protein kinase A-Raf,1,1,0,1,0,0,0
+A0A5K0UB63,RNA ligase1,1,1,0,1,0,0,0
+Q8NEB9,Phosphatidylinositol 3-kinase catalytic subunit type 3,1,1,0,0,0,1,0
+Q9X1T8,Probable transcription repressor NiaR,1,1,1,0,0,0,1
+A0A1B0VBT5,RelA/SpoT family protein,1,1,0,1,0,0,0
+Q9F663,Carbapenem-hydrolyzing beta-lactamase KPC,1,1,0,1,0,0,0
+Q9H611,ATP-dependent DNA helicase PIF1,1,1,0,1,0,0,0
+Q73LY9,Glycoside hydrolase family 20 catalytic domain-containing protein,1,1,1,0,0,0,0
+A0A0E1CQ35,Fosfomycin resistance protein,1,1,0,1,0,0,0
+Q1M964,Multifunctional alkaline phosphatase superfamily protein pRL90232,1,1,0,1,0,0,0
+O95848,Uridine diphosphate glucose pyrophosphatase NUDT14,1,1,0,1,0,0,0
+P46063,ATP-dependent DNA helicase Q1,1,1,0,1,0,0,0
+D0VWU9,DNA polymerase,1,1,0,0,1,0,0
+Q9LIR4,"Dihydroxy-acid dehydratase, chloroplastic",1,1,0,1,0,0,0
+A0A2R3INH2,"DNA gyrase subunit B,DNA gyrase subunit A",1,1,0,0,1,0,1
+P10415,"Apoptosis regulator Bcl-2,Bcl-2-like protein 1",1,1,1,0,0,0,0
+Q92934,stapled BAD BH3 peptide BAD SAHB 4.2,1,1,1,0,0,0,0
+Q8PUB8,Type 2 DNA topoisomerase 6 subunit B,1,1,0,1,0,0,0
+P03960,Potassium-transporting ATPase ATP-binding subunit,1,1,0,0,1,0,0
+A0A2G9LI54,Panoptes OptS minimal CRISPR polymerase (mCpol),1,1,0,1,0,0,0
+A7ZSK2,Large ribosomal subunit protein uL16,1,1,0,0,1,0,0
+B8I0Y7,Butirosin biosynthesis protein H N-terminal domain-containing protein,1,1,1,0,0,0,0
+P27170,Serum paraoxonase/arylesterase 1,1,1,0,1,0,0,1
+Q8DNS0,Serine/threonine-protein kinase StkP,1,1,0,1,0,0,0
+Q38CL1,"60S ribosomal protein L32, putative",1,1,0,1,0,0,0
+Q9VDU7,nicotinamidase,1,1,1,0,0,0,0
+A0A0M5KLS1,RNA-directed RNA polymerase L,1,1,0,1,0,0,0
+Q8ZUN8,Glucose/Sorbosone dehydrogenase domain-containing protein,1,1,1,0,0,0,0
+A0A4Q0WMG2,7-cyano-7-deazaguanine synthase,1,1,0,0,1,0,0
+P55229,"Glucose-1-phosphate adenylyltransferase large subunit 1, chloroplastic",1,1,0,0,1,0,0

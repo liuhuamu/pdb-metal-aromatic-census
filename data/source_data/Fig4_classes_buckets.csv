@@ -1,0 +1,65 @@
+protein_type,metal_bucket,contacts,pct
+Other,A,2056,37.97
+Other,B,1900,35.09
+Other,C,1443,26.65
+Other,D,16,0.3
+Ribosome,A,1,0.07
+Ribosome,B,1433,99.79
+Ribosome,C,2,0.14
+Ribosome,D,0,0.0
+Carbonic anhydrase,A,987,100.0
+Carbonic anhydrase,B,0,0.0
+Carbonic anhydrase,C,0,0.0
+Carbonic anhydrase,D,0,0.0
+Protease,A,663,81.55
+Protease,B,28,3.44
+Protease,C,122,15.01
+Protease,D,0,0.0
+Dehydrogenase,A,388,64.03
+Dehydrogenase,B,170,28.05
+Dehydrogenase,C,48,7.92
+Dehydrogenase,D,0,0.0
+Phosphodiesterase,A,268,63.21
+Phosphodiesterase,B,156,36.79
+Phosphodiesterase,C,0,0.0
+Phosphodiesterase,D,0,0.0
+Histone demethylase,A,156,37.86
+Histone demethylase,B,0,0.0
+Histone demethylase,C,256,62.14
+Histone demethylase,D,0,0.0
+Transferase,A,57,20.5
+Transferase,B,194,69.78
+Transferase,C,27,9.71
+Transferase,D,0,0.0
+Dehydratase/lyase,A,3,1.1
+Dehydratase/lyase,B,1,0.37
+Dehydratase/lyase,C,269,98.53
+Dehydratase/lyase,D,0,0.0
+Deaminase,A,246,96.09
+Deaminase,B,8,3.12
+Deaminase,C,2,0.78
+Deaminase,D,0,0.0
+Glyoxalase,A,35,16.67
+Glyoxalase,B,0,0.0
+Glyoxalase,C,175,83.33
+Glyoxalase,D,0,0.0
+Hydrolase,A,132,62.86
+Hydrolase,B,55,26.19
+Hydrolase,C,23,10.95
+Hydrolase,D,0,0.0
+Tubulin,A,0,0.0
+Tubulin,B,190,100.0
+Tubulin,C,0,0.0
+Tubulin,D,0,0.0
+Histone deacetylase,A,177,100.0
+Histone deacetylase,B,0,0.0
+Histone deacetylase,C,0,0.0
+Histone deacetylase,D,0,0.0
+2OG-Fe oxygenase,A,10,6.49
+2OG-Fe oxygenase,B,0,0.0
+2OG-Fe oxygenase,C,144,93.51
+2OG-Fe oxygenase,D,0,0.0
+Periplasmic binding protein,A,14,9.86
+Periplasmic binding protein,B,0,0.0
+Periplasmic binding protein,C,128,90.14
+Periplasmic binding protein,D,0,0.0

@@ -1,0 +1,42 @@
+panel,key,n,faceon_pct,lo,hi
+a,Dehydratase/lyase,273,0.0,0.0,0.0
+a,Histone demethylase,412,0.0,0.0,0.0
+a,Tubulin,189,0.0,0.0,0.0
+a,Carbonic anhydrase,975,0.2,0.0,0.5
+a,Dehydrogenase,594,0.5,0.0,1.4
+a,Glyoxalase,210,0.5,0.0,1.6
+a,Ferritin,101,1.0,0.0,7.7
+a,Periplasmic binding protein,142,1.4,0.0,3.5
+a,Histone deacetylase,177,2.3,0.0,6.4
+a,Transferase,266,2.3,0.0,5.3
+a,Polyprenyl synthase,136,3.7,0.8,7.0
+a,Protein kinase,108,3.7,0.0,9.3
+a,Ribosome,119,7.6,2.8,14.6
+a,2OG-Fe oxygenase,154,11.0,2.7,18.8
+a,Hydrolase,206,12.6,3.8,23.0
+a,Phosphodiesterase,422,18.5,12.7,24.3
+a,Protease,805,24.5,19.6,30.0
+a,Deaminase,254,37.8,28.6,47.3
+b,inner,115,11.7,,
+b,stacked,203,20.7,,
+b,outer,663,67.6,,
+c,CN1,685,7.2,,
+c,CN2,744,7.8,,
+c,CN3,1043,11.3,,
+c,CN4,3027,8.0,,
+c,CN5,2697,9.0,,
+c,CN6,3958,4.5,,
+c,N+O,4076,8.2,,
+c,O only,3806,3.6,,
+c,N only,1958,16.0,,
+c,with S,1168,4.4,,
+d,K|carbocycle,107,18.7,,
+d,K|N-heteroarene,180,7.8,,
+d,Na|carbocycle,109,17.4,,
+d,Na|N-heteroarene,135,5.9,,
+d,Zn|carbocycle,2661,12.0,,
+d,Zn|N-heteroarene,2125,10.3,,
+d,Mg|carbocycle,586,3.2,,
+d,Mg|N-heteroarene,3141,4.7,,
+d,Fe|carbocycle,947,6.7,,
+d,Fe|N-heteroarene,305,11.5,,
