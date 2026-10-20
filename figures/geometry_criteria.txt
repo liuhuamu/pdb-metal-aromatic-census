@@ -1,0 +1,31 @@
+
+Geometry classification criteria (2026-10-16, all distances in Angstrom):
+
+  quantities:
+    d_centroid : metal ... ring centroid distance
+    d_plane    : perpendicular distance from metal to the least-squares
+                 ring plane (SVD)
+    offset     : lateral offset = sqrt(d_centroid^2 - d_plane^2)
+    theta      : angle between (metal - centroid) and the plane normal
+    theta_plane: angle between (metal - centroid) and the ring plane
+                 (= 90 deg - theta)
+    min_dist   : closest metal ... ring-atom distance
+
+  classes:
+    face-on  : lateral projection offset < 2.5 A from the ring centre
+               (the atomic-envelope radius of an aromatic ring)
+    edge-on  : offset >= 2.5 A, with d_centroid <= 6 A
+    excluded : contacts with porphyrin-family ligands (tetrapyrrole /
+               corrin / phthalocyanine macrocycles: heme, chlorophyll,
+               cobalamin, siroheme, ...) or with a metal embedded in the
+               ligand itself (incl. Ru-polypyridyl complexes)
+    contacts with d_centroid > 6 A are not stored
+
+  rationale:
+    - Alkali/alkaline-earth metals (Na, Ca) close to ring atoms are ionic
+      edge contacts, not chelation; they are classified by the same angle
+      criterion as all other metals (no separate 'chelated' class).
+    - Porphyrin-type macrocycles bind their metal through directed
+      covalent coordination by ring nitrogens - a fundamentally different
+      interaction from metal-aromatic contacts of ordinary ligands, hence
+      excluded from the census.
