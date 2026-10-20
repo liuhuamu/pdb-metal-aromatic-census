@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the manuscript and this repository."
+title: "Metal-aromatic contacts in the Protein Data Bank: geometry-resolved census (13,231 contacts in 5,107 entries)"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-18
+license: CC-BY-4.0
+repository-code: "https://github.com/liuhuamu/pdb-metal-aromatic-census"
+keywords:
+  - metalloprotein
+  - cation-pi
+  - metal-pi interaction
+  - Protein Data Bank
+  - structural database
+  - drug discovery
+authors:
+  - name: "Liuhua Mu"
+preferred-citation:
+  type: article
+  title: "How Metal Ions Engage Aromatic Ligands: A Geometry-Resolved PDB Census"
+  authors:
+    - name: "Liuhua Mu"
+  journal: "Journal of Chemical Information and Modeling"
+  status: submitted
