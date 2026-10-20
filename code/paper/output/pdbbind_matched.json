@@ -1,0 +1,827 @@
+{
+ "n_general": 19443,
+ "n_refined": 5316,
+ "n_with_uniprot": 19280,
+ "general": {
+  "bridge-near_vs_no-metal__uniprot": {
+   "group1": "bridge-near",
+   "group2": "no-metal",
+   "strat": "uniprot",
+   "n_strata": 4,
+   "n1": 41,
+   "n2": 83,
+   "median_delta": 0.7000000000000001,
+   "mean_delta": 0.55,
+   "n_positive": 2,
+   "n_negative": 2,
+   "iqr": [
+    -0.57,
+    1.82
+   ],
+   "p_perm_median": 0.1026,
+   "p_perm_mean": 0.3208,
+   "table": [
+    {
+     "stratum": "P14324",
+     "n1": 18,
+     "n2": 26,
+     "med1": 7.08,
+     "med2": 5.47,
+     "delta": 1.61
+    },
+    {
+     "stratum": "P26281",
+     "n1": 17,
+     "n2": 3,
+     "med1": 5.17,
+     "med2": 5.38,
+     "delta": -0.21
+    },
+    {
+     "stratum": "P04585",
+     "n1": 3,
+     "n2": 50,
+     "med1": 6.87,
+     "med2": 8.52,
+     "delta": -1.65
+    },
+    {
+     "stratum": "A5K4U6",
+     "n1": 3,
+     "n2": 4,
+     "med1": 6.57,
+     "med2": 4.12,
+     "delta": 2.45
+    }
+   ],
+   "sign_test_p": 1.0
+  },
+  "bridge-near_vs_no-contact__uniprot": {
+   "group1": "bridge-near",
+   "group2": "no-contact",
+   "strat": "uniprot",
+   "n_strata": 25,
+   "n1": 562,
+   "n2": 514,
+   "median_delta": 0.37,
+   "mean_delta": 0.58,
+   "n_positive": 19,
+   "n_negative": 6,
+   "iqr": [
+    0.04,
+    1.12
+   ],
+   "p_perm_median": 0.01,
+   "p_perm_mean": 0.0,
+   "table": [
+    {
+     "stratum": "P00918",
+     "n1": 298,
+     "n2": 70,
+     "med1": 7.73,
+     "med2": 5.46,
+     "delta": 2.27
+    },
+    {
+     "stratum": "P39900",
+     "n1": 36,
+     "n2": 11,
+     "med1": 7.82,
+     "med2": 7.17,
+     "delta": 0.65
+    },
+    {
+     "stratum": "P45452",
+     "n1": 18,
+     "n2": 16,
+     "med1": 8.09,
+     "med2": 7.77,
+     "delta": 0.32
+    },
+    {
+     "stratum": "A5H660",
+     "n1": 17,
+     "n2": 5,
+     "med1": 6.72,
+     "med2": 4.22,
+     "delta": 2.5
+    },
+    {
+     "stratum": "P0AE18",
+     "n1": 16,
+     "n2": 6,
+     "med1": 5.93,
+     "med2": 6.21,
+     "delta": -0.29
+    },
+    {
+     "stratum": "P08254",
+     "n1": 15,
+     "n2": 3,
+     "med1": 7.74,
+     "med2": 7.7,
+     "delta": 0.04
+    },
+    {
+     "stratum": "P22734",
+     "n1": 15,
+     "n2": 10,
+     "med1": 7.96,
+     "med2": 5.66,
+     "delta": 2.3
+    },
+    {
+     "stratum": "P78536",
+     "n1": 15,
+     "n2": 3,
+     "med1": 8.1,
+     "med2": 7.22,
+     "delta": 0.88
+    },
+    {
+     "stratum": "C3W5S0",
+     "n1": 14,
+     "n2": 21,
+     "med1": 6.42,
+     "med2": 6.54,
+     "delta": -0.12
+    },
+    {
+     "stratum": "Q08499",
+     "n1": 13,
+     "n2": 41,
+     "med1": 8.04,
+     "med2": 6.29,
+     "delta": 1.75
+    },
+    {
+     "stratum": "Q9K2N0",
+     "n1": 13,
+     "n2": 7,
+     "med1": 5.11,
+     "med2": 7.15,
+     "delta": -2.04
+    },
+    {
+     "stratum": "P15917",
+     "n1": 11,
+     "n2": 7,
+     "med1": 5.77,
+     "med2": 4.65,
+     "delta": 1.12
+    },
+    {
+     "stratum": "P22894",
+     "n1": 9,
+     "n2": 5,
+     "med1": 7.24,
+     "med2": 4.52,
+     "delta": 2.72
+    },
+    {
+     "stratum": "C7C422",
+     "n1": 9,
+     "n2": 4,
+     "med1": 4.96,
+     "med2": 4.41,
+     "delta": 0.55
+    },
+    {
+     "stratum": "F8W4B7",
+     "n1": 9,
+     "n2": 7,
+     "med1": 7.92,
+     "med2": 8.85,
+     "delta": -0.93
+    },
+    {
+     "stratum": "Q07343",
+     "n1": 8,
+     "n2": 21,
+     "med1": 7.89,
+     "med2": 7.6,
+     "delta": 0.29
+    },
+    {
+     "stratum": "A0A8V0Z8P0",
+     "n1": 8,
+     "n2": 6,
+     "med1": 5.74,
+     "med2": 5.38,
+     "delta": 0.37
+    },
+    {
+     "stratum": "O00408",
+     "n1": 7,
+     "n2": 25,
+     "med1": 8.77,
+     "med2": 7.85,
+     "delta": 0.92
+    },
+    {
+     "stratum": "Q9Y233",
+     "n1": 7,
+     "n2": 57,
+     "med1": 9.15,
+     "med2": 7.96,
+     "delta": 1.19
+    },
+    {
+     "stratum": "P50579",
+     "n1": 6,
+     "n2": 7,
+     "med1": 7.0,
+     "med2": 7.13,
+     "delta": -0.13
+    }
+   ],
+   "sign_test_p": 0.0146
+  },
+  "bridge-direct_vs_no-metal__uniprot": null,
+  "bridge-near_vs_no-metal__ptype": {
+   "group1": "bridge-near",
+   "group2": "no-metal",
+   "strat": "ptype",
+   "n_strata": 12,
+   "n1": 348,
+   "n2": 7383,
+   "median_delta": -0.05,
+   "mean_delta": 0.64,
+   "n_positive": 5,
+   "n_negative": 7,
+   "iqr": [
+    -0.81,
+    1.72
+   ],
+   "p_perm_median": 0.781,
+   "p_perm_mean": 0.0082,
+   "table": [
+    {
+     "stratum": "Protease",
+     "n1": 159,
+     "n2": 1039,
+     "med1": 7.49,
+     "med2": 7.52,
+     "delta": -0.03
+    },
+    {
+     "stratum": "Phosphodiesterase",
+     "n1": 40,
+     "n2": 10,
+     "med1": 8.14,
+     "med2": 3.01,
+     "delta": 5.13
+    },
+    {
+     "stratum": "Other",
+     "n1": 37,
+     "n2": 3273,
+     "med1": 5.77,
+     "med2": 6.27,
+     "delta": -0.5
+    },
+    {
+     "stratum": "Polyprenyl synthase",
+     "n1": 27,
+     "n2": 32,
+     "med1": 6.92,
+     "med2": 5.43,
+     "delta": 1.49
+    },
+    {
+     "stratum": "HPPK",
+     "n1": 23,
+     "n2": 4,
+     "med1": 5.41,
+     "med2": 5.48,
+     "delta": -0.07
+    },
+    {
+     "stratum": "Transferase",
+     "n1": 16,
+     "n2": 305,
+     "med1": 8.09,
+     "med2": 6.01,
+     "delta": 2.08
+    },
+    {
+     "stratum": "Protein kinase",
+     "n1": 15,
+     "n2": 2484,
+     "med1": 6.63,
+     "med2": 7.46,
+     "delta": -0.83
+    },
+    {
+     "stratum": "Glyoxalase",
+     "n1": 13,
+     "n2": 4,
+     "med1": 7.92,
+     "med2": 6.31,
+     "delta": 1.61
+    },
+    {
+     "stratum": "Hydrolase",
+     "n1": 7,
+     "n2": 134,
+     "med1": 5.71,
+     "med2": 6.51,
+     "delta": -0.8
+    },
+    {
+     "stratum": "Periplasmic binding protein",
+     "n1": 5,
+     "n2": 14,
+     "med1": 7.74,
+     "med2": 5.69,
+     "delta": 2.05
+    },
+    {
+     "stratum": "Metallo-beta-lactamase",
+     "n1": 3,
+     "n2": 54,
+     "med1": 4.71,
+     "med2": 5.83,
+     "delta": -1.12
+    },
+    {
+     "stratum": "RNase H",
+     "n1": 3,
+     "n2": 30,
+     "med1": 6.87,
+     "med2": 8.26,
+     "delta": -1.39
+    }
+   ],
+   "sign_test_p": 0.7744
+  },
+  "bridge-near_vs_no-contact__ptype": {
+   "group1": "bridge-near",
+   "group2": "no-contact",
+   "strat": "ptype",
+   "n_strata": 15,
+   "n1": 705,
+   "n2": 2719,
+   "median_delta": 0.28,
+   "mean_delta": 0.29,
+   "n_positive": 10,
+   "n_negative": 5,
+   "iqr": [
+    -0.31,
+    0.72
+   ],
+   "p_perm_median": 0.0272,
+   "p_perm_mean": 0.1394,
+   "table": [
+    {
+     "stratum": "Carbonic anhydrase",
+     "n1": 347,
+     "n2": 70,
+     "med1": 7.7,
+     "med2": 5.46,
+     "delta": 2.24
+    },
+    {
+     "stratum": "Protease",
+     "n1": 159,
+     "n2": 782,
+     "med1": 7.49,
+     "med2": 7.03,
+     "delta": 0.46
+    },
+    {
+     "stratum": "Phosphodiesterase",
+     "n1": 40,
+     "n2": 219,
+     "med1": 8.14,
+     "med2": 7.57,
+     "delta": 0.57
+    },
+    {
+     "stratum": "Other",
+     "n1": 37,
+     "n2": 1142,
+     "med1": 5.77,
+     "med2": 6.19,
+     "delta": -0.42
+    },
+    {
+     "stratum": "Polyprenyl synthase",
+     "n1": 27,
+     "n2": 4,
+     "med1": 6.92,
+     "med2": 6.05,
+     "delta": 0.87
+    },
+    {
+     "stratum": "Histone deacetylase",
+     "n1": 21,
+     "n2": 22,
+     "med1": 7.05,
+     "med2": 7.25,
+     "delta": -0.2
+    },
+    {
+     "stratum": "Transferase",
+     "n1": 16,
+     "n2": 180,
+     "med1": 8.09,
+     "med2": 5.85,
+     "delta": 2.24
+    },
+    {
+     "stratum": "Protein kinase",
+     "n1": 15,
+     "n2": 186,
+     "med1": 6.63,
+     "med2": 7.18,
+     "delta": -0.55
+    },
+    {
+     "stratum": "Phospholipase",
+     "n1": 12,
+     "n2": 5,
+     "med1": 6.69,
+     "med2": 6.49,
+     "delta": 0.2
+    },
+    {
+     "stratum": "Tubulin",
+     "n1": 10,
+     "n2": 9,
+     "med1": 5.74,
+     "med2": 5.46,
+     "delta": 0.28
+    },
+    {
+     "stratum": "Hydrolase",
+     "n1": 7,
+     "n2": 74,
+     "med1": 5.71,
+     "med2": 5.17,
+     "delta": 0.54
+    },
+    {
+     "stratum": "Periplasmic binding protein",
+     "n1": 5,
+     "n2": 7,
+     "med1": 7.74,
+     "med2": 5.35,
+     "delta": 2.39
+    },
+    {
+     "stratum": "Cupin",
+     "n1": 3,
+     "n2": 5,
+     "med1": 4.08,
+     "med2": 6.17,
+     "delta": -2.09
+    },
+    {
+     "stratum": "Metallo-beta-lactamase",
+     "n1": 3,
+     "n2": 8,
+     "med1": 4.71,
+     "med2": 6.89,
+     "delta": -2.18
+    },
+    {
+     "stratum": "RNase H",
+     "n1": 3,
+     "n2": 6,
+     "med1": 6.87,
+     "med2": 6.83,
+     "delta": 0.04
+    }
+   ],
+   "sign_test_p": 0.3018
+  },
+  "bridge-direct_vs_no-metal__ptype": {
+   "group1": "bridge-direct",
+   "group2": "no-metal",
+   "strat": "ptype",
+   "n_strata": 4,
+   "n1": 101,
+   "n2": 4623,
+   "median_delta": -0.34,
+   "mean_delta": 0.06,
+   "n_positive": 2,
+   "n_negative": 2,
+   "iqr": [
+    -0.94,
+    0.66
+   ],
+   "p_perm_median": 0.318,
+   "p_perm_mean": 0.9742,
+   "table": [
+    {
+     "stratum": "Protease",
+     "n1": 46,
+     "n2": 1039,
+     "med1": 6.6,
+     "med2": 7.52,
+     "delta": -0.92
+    },
+    {
+     "stratum": "Transferase",
+     "n1": 38,
+     "n2": 305,
+     "med1": 7.92,
+     "med2": 6.01,
+     "delta": 1.91
+    },
+    {
+     "stratum": "Other",
+     "n1": 14,
+     "n2": 3273,
+     "med1": 5.28,
+     "med2": 6.27,
+     "delta": -0.99
+    },
+    {
+     "stratum": "Dehydratase/lyase",
+     "n1": 3,
+     "n2": 6,
+     "med1": 7.64,
+     "med2": 7.4,
+     "delta": 0.24
+    }
+   ],
+   "sign_test_p": 1.0
+  },
+  "faceon_vs_edgeon": null,
+  "faceon_entry_contrast": {
+   "n_faceon": 160,
+   "n_edgeon": 1003,
+   "med_faceon": 7.44,
+   "med_edgeon": 6.96,
+   "delta": 0.48,
+   "p_perm": 0.0086
+  }
+ },
+ "refined": {
+  "bridge-near_vs_no-metal__uniprot": null,
+  "bridge-near_vs_no-contact__uniprot": {
+   "group1": "bridge-near",
+   "group2": "no-contact",
+   "strat": "uniprot",
+   "n_strata": 5,
+   "n1": 229,
+   "n2": 80,
+   "median_delta": 0.75,
+   "mean_delta": 1.75,
+   "n_positive": 3,
+   "n_negative": 2,
+   "iqr": [
+    -0.11,
+    2.39
+   ],
+   "p_perm_median": 0.0052,
+   "p_perm_mean": 0.0,
+   "table": [
+    {
+     "stratum": "P00918",
+     "n1": 196,
+     "n2": 49,
+     "med1": 7.85,
+     "med2": 5.46,
+     "delta": 2.39
+    },
+    {
+     "stratum": "P39900",
+     "n1": 22,
+     "n2": 5,
+     "med1": 7.92,
+     "med2": 7.17,
+     "delta": 0.75
+    },
+    {
+     "stratum": "C7C422",
+     "n1": 4,
+     "n2": 4,
+     "med1": 3.82,
+     "med2": 4.41,
+     "delta": -0.59
+    },
+    {
+     "stratum": "P08254",
+     "n1": 4,
+     "n2": 3,
+     "med1": 7.59,
+     "med2": 7.7,
+     "delta": -0.11
+    },
+    {
+     "stratum": "Q9Y233",
+     "n1": 3,
+     "n2": 19,
+     "med1": 9.82,
+     "med2": 3.52,
+     "delta": 6.3
+    }
+   ],
+   "sign_test_p": 1.0
+  },
+  "bridge-direct_vs_no-metal__uniprot": null,
+  "bridge-near_vs_no-metal__ptype": {
+   "group1": "bridge-near",
+   "group2": "no-metal",
+   "strat": "ptype",
+   "n_strata": 6,
+   "n1": 78,
+   "n2": 1770,
+   "median_delta": -0.65,
+   "mean_delta": -0.45,
+   "n_positive": 1,
+   "n_negative": 5,
+   "iqr": [
+    -0.85,
+    -0.27
+   ],
+   "p_perm_median": 0.0524,
+   "p_perm_mean": 0.1448,
+   "table": [
+    {
+     "stratum": "Protease",
+     "n1": 50,
+     "n2": 287,
+     "med1": 7.82,
+     "med2": 8.0,
+     "delta": -0.18
+    },
+    {
+     "stratum": "Hydrolase",
+     "n1": 7,
+     "n2": 25,
+     "med1": 5.71,
+     "med2": 6.59,
+     "delta": -0.88
+    },
+    {
+     "stratum": "Transferase",
+     "n1": 7,
+     "n2": 72,
+     "med1": 7.47,
+     "med2": 5.59,
+     "delta": 1.88
+    },
+    {
+     "stratum": "Other",
+     "n1": 6,
+     "n2": 1016,
+     "med1": 3.98,
+     "med2": 6.22,
+     "delta": -2.24
+    },
+    {
+     "stratum": "Glyoxalase",
+     "n1": 5,
+     "n2": 3,
+     "med1": 5.92,
+     "med2": 6.67,
+     "delta": -0.75
+    },
+    {
+     "stratum": "Protein kinase",
+     "n1": 3,
+     "n2": 367,
+     "med1": 7.0,
+     "med2": 7.55,
+     "delta": -0.55
+    }
+   ],
+   "sign_test_p": 0.2188
+  },
+  "bridge-near_vs_no-contact__ptype": {
+   "group1": "bridge-near",
+   "group2": "no-contact",
+   "strat": "ptype",
+   "n_strata": 8,
+   "n1": 307,
+   "n2": 767,
+   "median_delta": 1.41,
+   "mean_delta": 0.73,
+   "n_positive": 5,
+   "n_negative": 3,
+   "iqr": [
+    -0.56,
+    2.2
+   ],
+   "p_perm_median": 0.0014,
+   "p_perm_mean": 0.108,
+   "table": [
+    {
+     "stratum": "Carbonic anhydrase",
+     "n1": 224,
+     "n2": 49,
+     "med1": 7.79,
+     "med2": 5.46,
+     "delta": 2.33
+    },
+    {
+     "stratum": "Protease",
+     "n1": 50,
+     "n2": 326,
+     "med1": 7.82,
+     "med2": 6.88,
+     "delta": 0.94
+    },
+    {
+     "stratum": "Transferase",
+     "n1": 7,
+     "n2": 59,
+     "med1": 7.47,
+     "med2": 5.59,
+     "delta": 1.88
+    },
+    {
+     "stratum": "Hydrolase",
+     "n1": 7,
+     "n2": 20,
+     "med1": 5.71,
+     "med2": 5.91,
+     "delta": -0.2
+    },
+    {
+     "stratum": "Other",
+     "n1": 6,
+     "n2": 256,
+     "med1": 3.98,
+     "med2": 5.64,
+     "delta": -1.66
+    },
+    {
+     "stratum": "Histone deacetylase",
+     "n1": 6,
+     "n2": 5,
+     "med1": 7.05,
+     "med2": 8.96,
+     "delta": -1.91
+    },
+    {
+     "stratum": "Phosphodiesterase",
+     "n1": 4,
+     "n2": 31,
+     "med1": 8.79,
+     "med2": 6.63,
+     "delta": 2.16
+    },
+    {
+     "stratum": "Protein kinase",
+     "n1": 3,
+     "n2": 21,
+     "med1": 7.0,
+     "med2": 4.69,
+     "delta": 2.31
+    }
+   ],
+   "sign_test_p": 0.7266
+  },
+  "bridge-direct_vs_no-metal__ptype": {
+   "group1": "bridge-direct",
+   "group2": "no-metal",
+   "strat": "ptype",
+   "n_strata": 2,
+   "n1": 21,
+   "n2": 1303,
+   "median_delta": -1.395,
+   "mean_delta": -1.4,
+   "n_positive": 0,
+   "n_negative": 2,
+   "iqr": [
+    -1.41,
+    -1.38
+   ],
+   "p_perm_median": 0.0426,
+   "p_perm_mean": 0.0426,
+   "table": [
+    {
+     "stratum": "Protease",
+     "n1": 18,
+     "n2": 287,
+     "med1": 6.63,
+     "med2": 8.0,
+     "delta": -1.37
+    },
+    {
+     "stratum": "Other",
+     "n1": 3,
+     "n2": 1016,
+     "med1": 4.8,
+     "med2": 6.22,
+     "delta": -1.42
+    }
+   ],
+   "sign_test_p": 0.5
+  },
+  "faceon_vs_edgeon": null,
+  "faceon_entry_contrast": {
+   "n_faceon": 36,
+   "n_edgeon": 398,
+   "med_faceon": 7.57,
+   "med_edgeon": 7.33,
+   "delta": 0.25,
+   "p_perm": 0.4017
+  }
+ }
+}

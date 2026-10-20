@@ -1,0 +1,1857 @@
+{
+ "n_contacts": 13231,
+ "n_entries": 5107,
+ "n_faceon": 981,
+ "n_edgeon": 12250,
+ "sensitivity": [
+  {
+   "offset_cut": 1.5,
+   "theta_cut": "none",
+   "n": 321,
+   "pct": 2.43,
+   "fo_K": 3.0,
+   "fo_Na": 4.6,
+   "fo_Zn": 4.0,
+   "fo_Mg": 1.2,
+   "fo_Fe": 1.9,
+   "fo_Mn": 0.6
+  },
+  {
+   "offset_cut": 1.5,
+   "theta_cut": 45,
+   "n": 321,
+   "pct": 2.43,
+   "fo_K": 3.0,
+   "fo_Na": 4.6,
+   "fo_Zn": 4.0,
+   "fo_Mg": 1.2,
+   "fo_Fe": 1.9,
+   "fo_Mn": 0.6
+  },
+  {
+   "offset_cut": 1.5,
+   "theta_cut": 30,
+   "n": 319,
+   "pct": 2.41,
+   "fo_K": 3.0,
+   "fo_Na": 4.2,
+   "fo_Zn": 3.9,
+   "fo_Mg": 1.2,
+   "fo_Fe": 1.9,
+   "fo_Mn": 0.6
+  },
+  {
+   "offset_cut": 2.0,
+   "theta_cut": "none",
+   "n": 593,
+   "pct": 4.48,
+   "fo_K": 5.9,
+   "fo_Na": 6.2,
+   "fo_Zn": 7.1,
+   "fo_Mg": 2.3,
+   "fo_Fe": 4.0,
+   "fo_Mn": 1.0
+  },
+  {
+   "offset_cut": 2.0,
+   "theta_cut": 45,
+   "n": 593,
+   "pct": 4.48,
+   "fo_K": 5.9,
+   "fo_Na": 6.2,
+   "fo_Zn": 7.1,
+   "fo_Mg": 2.3,
+   "fo_Fe": 4.0,
+   "fo_Mn": 1.0
+  },
+  {
+   "offset_cut": 2.0,
+   "theta_cut": 30,
+   "n": 578,
+   "pct": 4.37,
+   "fo_K": 5.9,
+   "fo_Na": 5.8,
+   "fo_Zn": 6.8,
+   "fo_Mg": 2.3,
+   "fo_Fe": 4.0,
+   "fo_Mn": 1.0
+  },
+  {
+   "offset_cut": 2.5,
+   "theta_cut": "none",
+   "n": 981,
+   "pct": 7.41,
+   "fo_K": 12.8,
+   "fo_Na": 10.8,
+   "fo_Zn": 10.9,
+   "fo_Mg": 4.5,
+   "fo_Fe": 8.0,
+   "fo_Mn": 1.7
+  },
+  {
+   "offset_cut": 2.5,
+   "theta_cut": 45,
+   "n": 963,
+   "pct": 7.28,
+   "fo_K": 12.8,
+   "fo_Na": 10.8,
+   "fo_Zn": 10.8,
+   "fo_Mg": 4.3,
+   "fo_Fe": 7.7,
+   "fo_Mn": 1.5
+  },
+  {
+   "offset_cut": 2.5,
+   "theta_cut": 30,
+   "n": 805,
+   "pct": 6.08,
+   "fo_K": 11.5,
+   "fo_Na": 8.1,
+   "fo_Zn": 8.8,
+   "fo_Mg": 4.0,
+   "fo_Fe": 6.3,
+   "fo_Mn": 1.1
+  },
+  {
+   "offset_cut": 3.0,
+   "theta_cut": "none",
+   "n": 1569,
+   "pct": 11.86,
+   "fo_K": 17.8,
+   "fo_Na": 16.2,
+   "fo_Zn": 16.4,
+   "fo_Mg": 9.0,
+   "fo_Fe": 12.0,
+   "fo_Mn": 3.0
+  },
+  {
+   "offset_cut": 3.0,
+   "theta_cut": 45,
+   "n": 1378,
+   "pct": 10.41,
+   "fo_K": 17.4,
+   "fo_Na": 16.2,
+   "fo_Zn": 14.0,
+   "fo_Mg": 8.7,
+   "fo_Fe": 10.5,
+   "fo_Mn": 1.9
+  },
+  {
+   "offset_cut": 3.0,
+   "theta_cut": 30,
+   "n": 869,
+   "pct": 6.57,
+   "fo_K": 12.2,
+   "fo_Na": 10.4,
+   "fo_Zn": 9.1,
+   "fo_Mg": 4.6,
+   "fo_Fe": 6.6,
+   "fo_Mn": 1.2
+  }
+ ],
+ "faceon_theta": {
+  "median": 22.6,
+  "q90": 34.3,
+  "max": 87.5,
+  "n_gt30": 176,
+  "n_gt45": 18,
+  "n_gt60": 3,
+  "pct_gt45": 1.8,
+  "n_theta_gt60": [
+   {
+    "pdb_id": "2VZ5",
+    "metal_element": "Zn",
+    "ligand_comp_id": "IMD",
+    "d_centroid": "2.421",
+    "offset": "2.419",
+    "theta_deg": "87.5",
+    "ring_type": "imidazole"
+   },
+   {
+    "pdb_id": "4ME4",
+    "metal_element": "Fe",
+    "ligand_comp_id": "IMD",
+    "d_centroid": "2.612",
+    "offset": "2.294",
+    "theta_deg": "61.4",
+    "ring_type": "imidazole"
+   },
+   {
+    "pdb_id": "5WO2",
+    "metal_element": "Zn",
+    "ligand_comp_id": "IMD",
+    "d_centroid": "2.609",
+    "offset": "2.276",
+    "theta_deg": "60.7",
+    "ring_type": "imidazole"
+   }
+  ]
+ },
+ "edgeon_theta": {
+  "median": 72.6,
+  "min": 24.9,
+  "n_lt30": 63,
+  "pct_lt30": 0.5
+ },
+ "boundary": {
+  "n": 876,
+  "pct": 6.6
+ },
+ "ring_class": [
+  {
+   "ring_class": "N-heteroarene",
+   "n": 7441,
+   "fo": 451,
+   "pct": 6.1
+  },
+  {
+   "ring_class": "carbocycle",
+   "n": 5224,
+   "fo": 490,
+   "pct": 9.4
+  },
+  {
+   "ring_class": "S/O-heteroarene",
+   "n": 564,
+   "fo": 40,
+   "pct": 7.1
+  },
+  {
+   "ring_class": "unknown",
+   "n": 2,
+   "fo": 0,
+   "pct": 0.0
+  }
+ ],
+ "ring_class_by_size": [
+  {
+   "ring_class": "N-heteroarene",
+   "ring_size": 5.0,
+   "n": 4906,
+   "fo": 256,
+   "pct": 5.2
+  },
+  {
+   "ring_class": "N-heteroarene",
+   "ring_size": 6.0,
+   "n": 2535,
+   "fo": 195,
+   "pct": 7.7
+  },
+  {
+   "ring_class": "S/O-heteroarene",
+   "ring_size": 5.0,
+   "n": 528,
+   "fo": 40,
+   "pct": 7.6
+  },
+  {
+   "ring_class": "S/O-heteroarene",
+   "ring_size": 6.0,
+   "n": 36,
+   "fo": 0,
+   "pct": 0.0
+  },
+  {
+   "ring_class": "carbocycle",
+   "ring_size": 6.0,
+   "n": 5224,
+   "fo": 490,
+   "pct": 9.4
+  }
+ ],
+ "ring_class_by_metal": {
+  "Zn": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 2125,
+    "fo": 219,
+    "pct": 10.3
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 356,
+    "fo": 24,
+    "pct": 6.7
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 2661,
+    "fo": 318,
+    "pct": 12.0
+   }
+  ],
+  "Mg": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 3141,
+    "fo": 149,
+    "pct": 4.7
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 21,
+    "fo": 0,
+    "pct": 0.0
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 586,
+    "fo": 19,
+    "pct": 3.2
+   },
+   {
+    "ring_class": "unknown",
+    "n": 2,
+    "fo": 0,
+    "pct": 0.0
+   }
+  ],
+  "Fe": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 305,
+    "fo": 35,
+    "pct": 11.5
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 42,
+    "fo": 5,
+    "pct": 11.9
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 947,
+    "fo": 63,
+    "pct": 6.7
+   }
+  ],
+  "Mn": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 688,
+    "fo": 5,
+    "pct": 0.7
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 48,
+    "fo": 4,
+    "pct": 8.3
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 254,
+    "fo": 8,
+    "pct": 3.1
+   }
+  ],
+  "K": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 180,
+    "fo": 14,
+    "pct": 7.8
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 17,
+    "fo": 5,
+    "pct": 29.4
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 107,
+    "fo": 20,
+    "pct": 18.7
+   }
+  ],
+  "Na": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 135,
+    "fo": 8,
+    "pct": 5.9
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 15,
+    "fo": 1,
+    "pct": 6.7
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 109,
+    "fo": 19,
+    "pct": 17.4
+   }
+  ],
+  "Ca": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 311,
+    "fo": 8,
+    "pct": 2.6
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 11,
+    "fo": 1,
+    "pct": 9.1
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 97,
+    "fo": 8,
+    "pct": 8.2
+   }
+  ],
+  "Ni": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 224,
+    "fo": 10,
+    "pct": 4.5
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 25,
+    "fo": 0,
+    "pct": 0.0
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 131,
+    "fo": 17,
+    "pct": 13.0
+   }
+  ]
+ },
+ "ring_class_by_category": {
+  "drug-approved": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 205,
+    "fo": 29,
+    "pct": 14.1
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 38,
+    "fo": 0,
+    "pct": 0.0
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 225,
+    "fo": 7,
+    "pct": 3.1
+   }
+  ],
+  "cofactor": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 3523,
+    "fo": 204,
+    "pct": 5.8
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 35,
+    "fo": 3,
+    "pct": 8.6
+   }
+  ],
+  "other": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 2493,
+    "fo": 120,
+    "pct": 4.8
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 386,
+    "fo": 30,
+    "pct": 7.8
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 3869,
+    "fo": 358,
+    "pct": 9.3
+   }
+  ],
+  "additive": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 567,
+    "fo": 30,
+    "pct": 5.3
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 173,
+    "fo": 3,
+    "pct": 1.7
+   }
+  ],
+  "drug-experimental": [
+   {
+    "ring_class": "N-heteroarene",
+    "n": 509,
+    "fo": 57,
+    "pct": 11.2
+   },
+   {
+    "ring_class": "S/O-heteroarene",
+    "n": 103,
+    "fo": 10,
+    "pct": 9.7
+   },
+   {
+    "ring_class": "carbocycle",
+    "n": 778,
+    "fo": 112,
+    "pct": 14.4
+   },
+   {
+    "ring_class": "unknown",
+    "n": 2,
+    "fo": 0,
+    "pct": 0.0
+   }
+  ]
+ },
+ "ring_type_single": [
+  {
+   "ring_type": "benzene",
+   "n": 4403,
+   "fo": 377,
+   "pct": 8.6
+  },
+  {
+   "ring_type": "imidazole",
+   "n": 3960,
+   "fo": 250,
+   "pct": 6.3
+  },
+  {
+   "ring_type": "pyridine",
+   "n": 483,
+   "fo": 17,
+   "pct": 3.5
+  },
+  {
+   "ring_type": "triazole",
+   "n": 206,
+   "fo": 0,
+   "pct": 0.0
+  },
+  {
+   "ring_type": "pyrrole",
+   "n": 130,
+   "fo": 4,
+   "pct": 3.1
+  },
+  {
+   "ring_type": "furan",
+   "n": 38,
+   "fo": 1,
+   "pct": 2.6
+  },
+  {
+   "ring_type": "thiophene",
+   "n": 34,
+   "fo": 3,
+   "pct": 8.8
+  },
+  {
+   "ring_type": "thiazole",
+   "n": 31,
+   "fo": 0,
+   "pct": 0.0
+  }
+ ],
+ "cn_faceon": [
+  {
+   "cn": 0,
+   "n": 342,
+   "fo": 47,
+   "pct": 13.7
+  },
+  {
+   "cn": 1,
+   "n": 685,
+   "fo": 49,
+   "pct": 7.2
+  },
+  {
+   "cn": 2,
+   "n": 744,
+   "fo": 58,
+   "pct": 7.8
+  },
+  {
+   "cn": 3,
+   "n": 1043,
+   "fo": 118,
+   "pct": 11.3
+  },
+  {
+   "cn": 4,
+   "n": 3027,
+   "fo": 242,
+   "pct": 8.0
+  },
+  {
+   "cn": 5,
+   "n": 2697,
+   "fo": 243,
+   "pct": 9.0
+  },
+  {
+   "cn": 6,
+   "n": 3958,
+   "fo": 180,
+   "pct": 4.5
+  },
+  {
+   "cn": 7,
+   "n": 431,
+   "fo": 20,
+   "pct": 4.6
+  },
+  {
+   "cn": 8,
+   "n": 304,
+   "fo": 24,
+   "pct": 7.9
+  }
+ ],
+ "cn_bin": [
+  {
+   "cn_bin": "0-2",
+   "n": "1771",
+   "fo": "154",
+   "pct": "8.7"
+  },
+  {
+   "cn_bin": "3-4",
+   "n": "4070",
+   "fo": "360",
+   "pct": "8.8"
+  },
+  {
+   "cn_bin": "5",
+   "n": "2697",
+   "fo": "243",
+   "pct": "9.0"
+  },
+  {
+   "cn_bin": "6",
+   "n": "3958",
+   "fo": "180",
+   "pct": "4.5"
+  },
+  {
+   "cn_bin": "7",
+   "n": "431",
+   "fo": "20",
+   "pct": "4.6"
+  },
+  {
+   "cn_bin": "8+",
+   "n": "304",
+   "fo": "24",
+   "pct": "7.9"
+  }
+ ],
+ "donor_class": [
+  {
+   "donor_class": "N+O",
+   "n": 4076,
+   "fo": 336,
+   "pct": 8.2
+  },
+  {
+   "donor_class": "O only",
+   "n": 3806,
+   "fo": 137,
+   "pct": 3.6
+  },
+  {
+   "donor_class": "N only",
+   "n": 1958,
+   "fo": 313,
+   "pct": 16.0
+  },
+  {
+   "donor_class": "none",
+   "n": 1918,
+   "fo": 127,
+   "pct": 6.6
+  },
+  {
+   "donor_class": "with S",
+   "n": 1168,
+   "fo": 51,
+   "pct": 4.4
+  },
+  {
+   "donor_class": "other",
+   "n": 209,
+   "fo": 14,
+   "pct": 6.7
+  },
+  {
+   "donor_class": "S only",
+   "n": 96,
+   "fo": 3,
+   "pct": 3.1
+  }
+ ],
+ "cn_stats": {
+  "median": 5.0,
+  "water_zero_pct": 58.4,
+  "selflig_pct": 55.0
+ },
+ "cn_contrast": {
+  "low_n": 5841,
+  "low_pct": 8.8,
+  "high_n": 4693,
+  "high_pct": 4.8
+ },
+ "cn_contrast_metal": {
+  "Zn": {
+   "low_n": 2857,
+   "low_pct": 10.2,
+   "high_n": 840,
+   "high_pct": 10.4
+  },
+  "Mg": {
+   "low_n": 1827,
+   "low_pct": 6.2,
+   "high_n": 1523,
+   "high_pct": 3.1
+  },
+  "Fe": {
+   "low_n": 210,
+   "low_pct": 17.1,
+   "high_n": 759,
+   "high_pct": 3.0
+  }
+ },
+ "bridge": [
+  {
+   "bridging_class": "bridge-direct",
+   "n": 2034,
+   "fo": 45,
+   "pct": 2.2
+  },
+  {
+   "bridging_class": "bridge-near",
+   "n": 7854,
+   "fo": 773,
+   "pct": 9.8
+  },
+  {
+   "bridging_class": "ligand-held",
+   "n": 3001,
+   "fo": 116,
+   "pct": 3.9
+  },
+  {
+   "bridging_class": "unannotated",
+   "n": 342,
+   "fo": 47,
+   "pct": 13.7
+  }
+ ],
+ "bridge_direct_faceon": {
+  "n": 45,
+  "n_min_dist_lt25": 27,
+  "examples": [
+   {
+    "pdb_id": "10NH",
+    "metal_element": "Zn",
+    "ligand_comp_id": "IMD",
+    "d_centroid": "2.912",
+    "min_dist": "2.767",
+    "theta_deg": "18.8",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "10NH",
+    "metal_element": "Zn",
+    "ligand_comp_id": "IMD",
+    "d_centroid": "3.118",
+    "min_dist": "2.749",
+    "theta_deg": "34.6",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "10NH",
+    "metal_element": "Zn",
+    "ligand_comp_id": "IMD",
+    "d_centroid": "2.903",
+    "min_dist": "2.503",
+    "theta_deg": "38.2",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "1KRM",
+    "metal_element": "Zn",
+    "ligand_comp_id": "PRH",
+    "d_centroid": "2.951",
+    "min_dist": "2.313",
+    "theta_deg": "49.1",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "2BI4",
+    "metal_element": "Fe",
+    "ligand_comp_id": "NAD",
+    "d_centroid": "3.127",
+    "min_dist": "2.367",
+    "theta_deg": "49.5",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "2BL4",
+    "metal_element": "Fe",
+    "ligand_comp_id": "NAD",
+    "d_centroid": "2.94",
+    "min_dist": "2.084",
+    "theta_deg": "56.0",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "2BL4",
+    "metal_element": "Fe",
+    "ligand_comp_id": "NAD",
+    "d_centroid": "3.008",
+    "min_dist": "2.315",
+    "theta_deg": "47.2",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "2VZ5",
+    "metal_element": "Zn",
+    "ligand_comp_id": "IMD",
+    "d_centroid": "2.421",
+    "min_dist": "1.242",
+    "theta_deg": "87.5",
+    "ring_class": "N-heteroarene"
+   }
+  ]
+ },
+ "resolution": [
+  {
+   "resbin": "[0.8, 1.5)",
+   "n": "1649",
+   "fo": "71",
+   "pct": "4.3"
+  },
+  {
+   "resbin": "[1.5, 1.8)",
+   "n": "1978",
+   "fo": "121",
+   "pct": "6.1"
+  },
+  {
+   "resbin": "[1.8, 2.0)",
+   "n": "1963",
+   "fo": "176",
+   "pct": "9.0"
+  },
+  {
+   "resbin": "[2.0, 2.3)",
+   "n": "2606",
+   "fo": "208",
+   "pct": "8.0"
+  },
+  {
+   "resbin": "[2.3, 2.6)",
+   "n": "1989",
+   "fo": "149",
+   "pct": "7.5"
+  },
+  {
+   "resbin": "[2.6, 3.01)",
+   "n": "2021",
+   "fo": "166",
+   "pct": "8.2"
+  }
+ ],
+ "resolution_metal": {
+  "Zn": [
+   {
+    "resbin": "[0.8, 1.5)",
+    "n": "1204",
+    "fo": "50",
+    "pct": "4.2"
+   },
+   {
+    "resbin": "[1.5, 1.8)",
+    "n": "864",
+    "fo": "79",
+    "pct": "9.1"
+   },
+   {
+    "resbin": "[1.8, 2.0)",
+    "n": "742",
+    "fo": "96",
+    "pct": "12.9"
+   },
+   {
+    "resbin": "[2.0, 2.3)",
+    "n": "1043",
+    "fo": "121",
+    "pct": "11.6"
+   },
+   {
+    "resbin": "[2.3, 2.6)",
+    "n": "641",
+    "fo": "89",
+    "pct": "13.9"
+   },
+   {
+    "resbin": "[2.6, 3.01)",
+    "n": "556",
+    "fo": "88",
+    "pct": "15.8"
+   }
+  ],
+  "Mg": [
+   {
+    "resbin": "[0.8, 1.5)",
+    "n": "155",
+    "fo": "9",
+    "pct": "5.8"
+   },
+   {
+    "resbin": "[1.5, 1.8)",
+    "n": "284",
+    "fo": "11",
+    "pct": "3.9"
+   },
+   {
+    "resbin": "[1.8, 2.0)",
+    "n": "369",
+    "fo": "26",
+    "pct": "7.0"
+   },
+   {
+    "resbin": "[2.0, 2.3)",
+    "n": "632",
+    "fo": "14",
+    "pct": "2.2"
+   },
+   {
+    "resbin": "[2.3, 2.6)",
+    "n": "699",
+    "fo": "21",
+    "pct": "3.0"
+   },
+   {
+    "resbin": "[2.6, 3.01)",
+    "n": "913",
+    "fo": "42",
+    "pct": "4.6"
+   }
+  ],
+  "Fe": [
+   {
+    "resbin": "[0.8, 1.5)",
+    "n": "46",
+    "fo": "0",
+    "pct": "0.0"
+   },
+   {
+    "resbin": "[1.5, 1.8)",
+    "n": "206",
+    "fo": "6",
+    "pct": "2.9"
+   },
+   {
+    "resbin": "[1.8, 2.0)",
+    "n": "310",
+    "fo": "32",
+    "pct": "10.3"
+   },
+   {
+    "resbin": "[2.0, 2.3)",
+    "n": "347",
+    "fo": "41",
+    "pct": "11.8"
+   },
+   {
+    "resbin": "[2.3, 2.6)",
+    "n": "198",
+    "fo": "14",
+    "pct": "7.1"
+   },
+   {
+    "resbin": "[2.6, 3.01)",
+    "n": "157",
+    "fo": "7",
+    "pct": "4.5"
+   }
+  ]
+ },
+ "method": [
+  {
+   "method": "ELECTRON CRYSTALLOGRAPHY",
+   "n": 11,
+   "fo": 3,
+   "pct": 27.3
+  },
+  {
+   "method": "ELECTRON MICROSCOPY",
+   "n": 2119,
+   "fo": 162,
+   "pct": 7.6
+  },
+  {
+   "method": "X-RAY DIFFRACTION",
+   "n": 11101,
+   "fo": 816,
+   "pct": 7.4
+  }
+ ],
+ "highres": {
+  "n": 1649,
+  "pct": 4.3,
+  "n_entries": 886,
+  "metals": {
+   "Zn": 1204,
+   "Mg": 155,
+   "Mn": 71,
+   "Fe": 46,
+   "Ca": 45
+  }
+ },
+ "drugs": {
+  "contacts": 468,
+  "entries": 235,
+  "n_faceon": 36,
+  "pct": 7.7,
+  "n_drugs_with_faceon": 11,
+  "n_drugs": 73,
+  "by_metal": [
+   {
+    "metal_element": "Ca",
+    "n": 15,
+    "fo": 0,
+    "pct": 0.0
+   },
+   {
+    "metal_element": "Co",
+    "n": 9,
+    "fo": 0,
+    "pct": 0.0
+   },
+   {
+    "metal_element": "Cu",
+    "n": 7,
+    "fo": 0,
+    "pct": 0.0
+   },
+   {
+    "metal_element": "Fe",
+    "n": 36,
+    "fo": 0,
+    "pct": 0.0
+   },
+   {
+    "metal_element": "K",
+    "n": 19,
+    "fo": 2,
+    "pct": 10.5
+   },
+   {
+    "metal_element": "Mg",
+    "n": 225,
+    "fo": 9,
+    "pct": 4.0
+   },
+   {
+    "metal_element": "Mn",
+    "n": 8,
+    "fo": 0,
+    "pct": 0.0
+   },
+   {
+    "metal_element": "Na",
+    "n": 16,
+    "fo": 0,
+    "pct": 0.0
+   },
+   {
+    "metal_element": "Ni",
+    "n": 5,
+    "fo": 0,
+    "pct": 0.0
+   },
+   {
+    "metal_element": "Zn",
+    "n": 128,
+    "fo": 25,
+    "pct": 19.5
+   }
+  ],
+  "faceon": [
+   {
+    "pdb_id": "1A4L",
+    "metal_element": "Zn",
+    "ligand_comp_id": "DCF",
+    "ligand_name": "2'-DEOXYCOFORMYCIN",
+    "d_centroid": "3.999",
+    "theta_deg": "32.1",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "1A4L",
+    "metal_element": "Zn",
+    "ligand_comp_id": "DCF",
+    "ligand_name": "2'-DEOXYCOFORMYCIN",
+    "d_centroid": "3.731",
+    "theta_deg": "34.0",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "1A4L",
+    "metal_element": "Zn",
+    "ligand_comp_id": "DCF",
+    "ligand_name": "2'-DEOXYCOFORMYCIN",
+    "d_centroid": "3.914",
+    "theta_deg": "32.2",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "1XMU",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ROF",
+    "ligand_name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",
+    "d_centroid": "5.259",
+    "theta_deg": "18.8",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "1XMU",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ROF",
+    "ligand_name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",
+    "d_centroid": "5.292",
+    "theta_deg": "20.3",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "1XOQ",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ROF",
+    "ligand_name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",
+    "d_centroid": "5.256",
+    "theta_deg": "20.7",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "1XOQ",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ROF",
+    "ligand_name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",
+    "d_centroid": "5.332",
+    "theta_deg": "21.1",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "1YHL",
+    "metal_element": "Mg",
+    "ligand_comp_id": "RIS",
+    "ligand_name": "1-HYDROXY-2-(3-PYRIDINYL)ETHYLIDENE BIS-PHOSPHONIC ACID",
+    "d_centroid": "4.998",
+    "theta_deg": "29.1",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "1YQ7",
+    "metal_element": "Mg",
+    "ligand_comp_id": "RIS",
+    "ligand_name": "1-HYDROXY-2-(3-PYRIDINYL)ETHYLIDENE BIS-PHOSPHONIC ACID",
+    "d_centroid": "4.795",
+    "theta_deg": "28.8",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "2PGF",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ADN",
+    "ligand_name": "ADENOSINE",
+    "d_centroid": "3.771",
+    "theta_deg": "39.4",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "2PGF",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ADN",
+    "ligand_name": "ADENOSINE",
+    "d_centroid": "3.788",
+    "theta_deg": "39.8",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "2PGR",
+    "metal_element": "Zn",
+    "ligand_comp_id": "DCF",
+    "ligand_name": "2'-DEOXYCOFORMYCIN",
+    "d_centroid": "3.861",
+    "theta_deg": "39.7",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "3G4L",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ROF",
+    "ligand_name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",
+    "d_centroid": "5.397",
+    "theta_deg": "23.6",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "3G4L",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ROF",
+    "ligand_name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",
+    "d_centroid": "5.483",
+    "theta_deg": "26.0",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "3G4L",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ROF",
+    "ligand_name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",
+    "d_centroid": "5.538",
+    "theta_deg": "25.7",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "3G4L",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ROF",
+    "ligand_name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",
+    "d_centroid": "5.477",
+    "theta_deg": "23.3",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "3RYS",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ADE",
+    "ligand_name": "ADENINE",
+    "d_centroid": "3.721",
+    "theta_deg": "40.3",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "4Q23",
+    "metal_element": "Mg",
+    "ligand_comp_id": "RIS",
+    "ligand_name": "1-HYDROXY-2-(3-PYRIDINYL)ETHYLIDENE BIS-PHOSPHONIC ACID",
+    "d_centroid": "5.181",
+    "theta_deg": "28.4",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "5I3A",
+    "metal_element": "Zn",
+    "ligand_comp_id": "HQE",
+    "ligand_name": "benzene-1,4-diol",
+    "d_centroid": "3.809",
+    "theta_deg": "25.5",
+    "bridging_class": "bridge-near",
+    "ring_class": "carbocycle"
+   },
+   {
+    "pdb_id": "5I3B",
+    "metal_element": "Zn",
+    "ligand_comp_id": "HQE",
+    "ligand_name": "benzene-1,4-diol",
+    "d_centroid": "4.09",
+    "theta_deg": "15.1",
+    "bridging_class": "bridge-near",
+    "ring_class": "carbocycle"
+   },
+   {
+    "pdb_id": "5I3B",
+    "metal_element": "Zn",
+    "ligand_comp_id": "HQE",
+    "ligand_name": "benzene-1,4-diol",
+    "d_centroid": "2.777",
+    "theta_deg": "58.3",
+    "bridging_class": "bridge-direct",
+    "ring_class": "carbocycle"
+   },
+   {
+    "pdb_id": "5I3B",
+    "metal_element": "Zn",
+    "ligand_comp_id": "HQE",
+    "ligand_name": "benzene-1,4-diol",
+    "d_centroid": "4.051",
+    "theta_deg": "25.2",
+    "bridging_class": "bridge-near",
+    "ring_class": "carbocycle"
+   },
+   {
+    "pdb_id": "5X24",
+    "metal_element": "K",
+    "ligand_comp_id": "LSN",
+    "ligand_name": "[2-butyl-5-chloranyl-3-[[4-[2-(2H-1,2,3,4-tetrazol-5-yl)phenyl]phenyl]methyl]imidazol-4-yl]methanol",
+    "d_centroid": "4.432",
+    "theta_deg": "29.5",
+    "bridging_class": "unannotated",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "6AK4",
+    "metal_element": "Zn",
+    "ligand_comp_id": "PD9",
+    "ligand_name": "(~{E})-2-cyano-~{N},~{N}-diethyl-3-[3-nitro-4,5-bis(oxidanyl)phenyl]prop-2-enamide",
+    "d_centroid": "4.403",
+    "theta_deg": "25.9",
+    "bridging_class": "bridge-near",
+    "ring_class": "carbocycle"
+   },
+   {
+    "pdb_id": "6G31",
+    "metal_element": "Mg",
+    "ligand_comp_id": "ZOL",
+    "ligand_name": "ZOLEDRONIC ACID",
+    "d_centroid": "4.741",
+    "theta_deg": "31.3",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "6G31",
+    "metal_element": "Mg",
+    "ligand_comp_id": "ZOL",
+    "ligand_name": "ZOLEDRONIC ACID",
+    "d_centroid": "4.632",
+    "theta_deg": "13.5",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "6N91",
+    "metal_element": "Zn",
+    "ligand_comp_id": "DCF",
+    "ligand_name": "2'-DEOXYCOFORMYCIN",
+    "d_centroid": "3.786",
+    "theta_deg": "35.7",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "6N91",
+    "metal_element": "Zn",
+    "ligand_comp_id": "DCF",
+    "ligand_name": "2'-DEOXYCOFORMYCIN",
+    "d_centroid": "3.823",
+    "theta_deg": "35.4",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "6N9M",
+    "metal_element": "Zn",
+    "ligand_comp_id": "DCF",
+    "ligand_name": "2'-DEOXYCOFORMYCIN",
+    "d_centroid": "3.794",
+    "theta_deg": "35.8",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "7DCW",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ADN",
+    "ligand_name": "ADENOSINE",
+    "d_centroid": "4.256",
+    "theta_deg": "14.8",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "7DCW",
+    "metal_element": "Zn",
+    "ligand_comp_id": "ADN",
+    "ligand_name": "ADENOSINE",
+    "d_centroid": "4.159",
+    "theta_deg": "16.3",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "7UJ4",
+    "metal_element": "Mg",
+    "ligand_comp_id": "OQ4",
+    "ligand_name": "2-({4-[7-({(1r,4r)-4-[(ethanesulfonyl)amino]cyclohexyl}methyl)-2,7-diazaspiro[3.5]nonan-2-yl]pyrimidin-5-yl}oxy)-N-ethyl-5-fluoro-N-(propan-2-yl)benzamide",
+    "d_centroid": "5.439",
+    "theta_deg": "23.6",
+    "bridging_class": "bridge-near",
+    "ring_class": "carbocycle"
+   },
+   {
+    "pdb_id": "7UJ4",
+    "metal_element": "Mg",
+    "ligand_comp_id": "OQ4",
+    "ligand_name": "2-({4-[7-({(1r,4r)-4-[(ethanesulfonyl)amino]cyclohexyl}methyl)-2,7-diazaspiro[3.5]nonan-2-yl]pyrimidin-5-yl}oxy)-N-ethyl-5-fluoro-N-(propan-2-yl)benzamide",
+    "d_centroid": "5.531",
+    "theta_deg": "22.5",
+    "bridging_class": "bridge-near",
+    "ring_class": "carbocycle"
+   },
+   {
+    "pdb_id": "8FC3",
+    "metal_element": "Mg",
+    "ligand_comp_id": "TEL",
+    "ligand_name": "TELITHROMYCIN",
+    "d_centroid": "3.571",
+    "theta_deg": "2.2",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "8FC6",
+    "metal_element": "Mg",
+    "ligand_comp_id": "TEL",
+    "ligand_name": "TELITHROMYCIN",
+    "d_centroid": "2.906",
+    "theta_deg": "2.4",
+    "bridging_class": "bridge-near",
+    "ring_class": "N-heteroarene"
+   },
+   {
+    "pdb_id": "8VZ7",
+    "metal_element": "K",
+    "ligand_comp_id": "LSN",
+    "ligand_name": "[2-butyl-5-chloranyl-3-[[4-[2-(2H-1,2,3,4-tetrazol-5-yl)phenyl]phenyl]methyl]imidazol-4-yl]methanol",
+    "d_centroid": "4.345",
+    "theta_deg": "34.0",
+    "bridging_class": "unannotated",
+    "ring_class": "N-heteroarene"
+   }
+  ],
+  "top": [
+   {
+    "ligand_comp_id": "ZOL",
+    "ligand_name": "ZOLEDRONIC ACID",
+    "n": "66",
+    "fo": "2",
+    "pct": "3.0"
+   },
+   {
+    "ligand_comp_id": "RIS",
+    "ligand_name": "1-HYDROXY-2-(3-PYRIDINYL)ETHYLIDENE BIS-PHOSPHONIC ACID",
+    "n": "27",
+    "fo": "3",
+    "pct": "11.1"
+   },
+   {
+    "ligand_comp_id": "DXT",
+    "ligand_name": "(4S,4AR,5S,5AR,6R,12AS)-4-(DIMETHYLAMINO)-3,5,10,12,12A-PENTAHYDROXY-6-METHYL-1,11-DIOXO-1,4,4A,5,5A,6,11,12A-OCTAHYDROTETRACENE-2-CARBOXAMIDE",
+    "n": "21",
+    "fo": "0",
+    "pct": "0.0"
+   },
+   {
+    "ligand_comp_id": "ADE",
+    "ligand_name": "ADENINE",
+    "n": "21",
+    "fo": "1",
+    "pct": "4.8"
+   },
+   {
+    "ligand_comp_id": "TAC",
+    "ligand_name": "TETRACYCLINE",
+    "n": "20",
+    "fo": "0",
+    "pct": "0.0"
+   },
+   {
+    "ligand_comp_id": "EZL",
+    "ligand_name": "6-ethoxy-1,3-benzothiazole-2-sulfonamide",
+    "n": "18",
+    "fo": "0",
+    "pct": "0.0"
+   },
+   {
+    "ligand_comp_id": "ROF",
+    "ligand_name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY)BENZAMIDE",
+    "n": "16",
+    "fo": "8",
+    "pct": "50.0"
+   },
+   {
+    "ligand_comp_id": "LDP",
+    "ligand_name": "L-DOPAMINE",
+    "n": "16",
+    "fo": "0",
+    "pct": "0.0"
+   },
+   {
+    "ligand_comp_id": "DAH",
+    "ligand_name": "3,4-DIHYDROXYPHENYLALANINE",
+    "n": "13",
+    "fo": "0",
+    "pct": "0.0"
+   },
+   {
+    "ligand_comp_id": "DCF",
+    "ligand_name": "2'-DEOXYCOFORMYCIN",
+    "n": "12",
+    "fo": "7",
+    "pct": "58.3"
+   },
+   {
+    "ligand_comp_id": "MFX",
+    "ligand_name": "1-cyclopropyl-6-fluoro-8-methoxy-7-[(4aS,7aS)-octahydro-6H-pyrrolo[3,4-b]pyridin-6-yl]-4-oxo-1,4-dihydroquinoline-3-carboxylic acid",
+    "n": "12",
+    "fo": "0",
+    "pct": "0.0"
+   },
+   {
+    "ligand_comp_id": "657",
+    "ligand_name": "6-(trifluoromethoxy)-1,3-benzothiazol-2-amine",
+    "n": "12",
+    "fo": "0",
+    "pct": "0.0"
+   },
+   {
+    "ligand_comp_id": "MIY",
+    "ligand_name": "(4S,4AS,5AR,12AS)-4,7-BIS(DIMETHYLAMINO)-3,10,12,12A-TETRAHYDROXY-1,11-DIOXO-1,4,4A,5,5A,6,11,12A-OCTAHYDROTETRACENE-2-\nCARBOXAMIDE",
+    "n": "11",
+    "fo": "0",
+    "pct": "0.0"
+   },
+   {
+    "ligand_comp_id": "LSN",
+    "ligand_name": "[2-butyl-5-chloranyl-3-[[4-[2-(2H-1,2,3,4-tetrazol-5-yl)phenyl]phenyl]methyl]imidazol-4-yl]methanol",
+    "n": "10",
+    "fo": "2",
+    "pct": "20.0"
+   },
+   {
+    "ligand_comp_id": "SAL",
+    "ligand_name": "2-HYDROXYBENZOIC ACID",
+    "n": "9",
+    "fo": "0",
+    "pct": "0.0"
+   }
+  ]
+ },
+ "cofactors": {
+  "contacts": 3558,
+  "pct": 5.8,
+  "top": [
+   {
+    "ligand_comp_id": "NAD",
+    "n": 547,
+    "fo": 30,
+    "pct": 5.5
+   },
+   {
+    "ligand_comp_id": "OMG",
+    "n": 455,
+    "fo": 56,
+    "pct": 12.3
+   },
+   {
+    "ligand_comp_id": "ATP",
+    "n": 382,
+    "fo": 55,
+    "pct": 14.4
+   },
+   {
+    "ligand_comp_id": "2MG",
+    "n": 309,
+    "fo": 8,
+    "pct": 2.6
+   },
+   {
+    "ligand_comp_id": "A2M",
+    "n": 251,
+    "fo": 8,
+    "pct": 3.2
+   },
+   {
+    "ligand_comp_id": "GDP",
+    "n": 230,
+    "fo": 4,
+    "pct": 1.7
+   },
+   {
+    "ligand_comp_id": "ANP",
+    "n": 171,
+    "fo": 4,
+    "pct": 2.3
+   },
+   {
+    "ligand_comp_id": "6MZ",
+    "n": 135,
+    "fo": 1,
+    "pct": 0.7
+   },
+   {
+    "ligand_comp_id": "NAP",
+    "n": 132,
+    "fo": 19,
+    "pct": 14.4
+   },
+   {
+    "ligand_comp_id": "GTP",
+    "n": 113,
+    "fo": 7,
+    "pct": 6.2
+   },
+   {
+    "ligand_comp_id": "AMP",
+    "n": 96,
+    "fo": 2,
+    "pct": 2.1
+   },
+   {
+    "ligand_comp_id": "PQQ",
+    "n": 89,
+    "fo": 0,
+    "pct": 0.0
+   }
+  ]
+ },
+ "targets": {
+  "n": 1230,
+  "top_faceon": [
+   {
+    "uniprot": "P08254",
+    "n": 30,
+    "fo": 22,
+    "entries": 21,
+    "pct": 73.3
+   },
+   {
+    "uniprot": "P14780",
+    "n": 36,
+    "fo": 23,
+    "entries": 14,
+    "pct": 63.9
+   },
+   {
+    "uniprot": "P45452",
+    "n": 62,
+    "fo": 36,
+    "entries": 22,
+    "pct": 58.1
+   },
+   {
+    "uniprot": "P39900",
+    "n": 104,
+    "fo": 60,
+    "entries": 51,
+    "pct": 57.7
+   },
+   {
+    "uniprot": "Q84II6",
+    "n": 62,
+    "fo": 34,
+    "entries": 14,
+    "pct": 54.8
+   },
+   {
+    "uniprot": "P78536",
+    "n": 36,
+    "fo": 19,
+    "entries": 16,
+    "pct": 52.8
+   },
+   {
+    "uniprot": "A0A286D6Z1",
+    "n": 32,
+    "fo": 16,
+    "entries": 2,
+    "pct": 50.0
+   },
+   {
+    "uniprot": "Q5AR53",
+    "n": 50,
+    "fo": 24,
+    "entries": 23,
+    "pct": 48.0
+   },
+   {
+    "uniprot": "Q2T3G7",
+    "n": 23,
+    "fo": 11,
+    "entries": 6,
+    "pct": 47.8
+   },
+   {
+    "uniprot": "Q9Y233",
+    "n": 44,
+    "fo": 19,
+    "entries": 11,
+    "pct": 43.2
+   },
+   {
+    "uniprot": "P37333",
+    "n": 43,
+    "fo": 17,
+    "entries": 5,
+    "pct": 39.5
+   },
+   {
+    "uniprot": "Q07343",
+    "n": 39,
+    "fo": 15,
+    "entries": 10,
+    "pct": 38.5
+   }
+  ],
+  "top_count": [
+   {
+    "uniprot": "P00918",
+    "n": 662,
+    "fo": 2,
+    "entries": 620,
+    "pct": 0.3
+   },
+   {
+    "uniprot": "O75164",
+    "n": 252,
+    "fo": 0,
+    "entries": 44,
+    "pct": 0.0
+   },
+   {
+    "uniprot": "P00327",
+    "n": 220,
+    "fo": 0,
+    "entries": 71,
+    "pct": 0.0
+   },
+   {
+    "uniprot": "Q9K2N0",
+    "n": 206,
+    "fo": 24,
+    "entries": 58,
+    "pct": 11.7
+   },
+   {
+    "uniprot": "Q9XAY4",
+    "n": 198,
+    "fo": 1,
+    "entries": 65,
+    "pct": 0.5
+   },
+   {
+    "uniprot": "Q64610",
+    "n": 169,
+    "fo": 2,
+    "entries": 70,
+    "pct": 1.2
+   },
+   {
+    "uniprot": "O43570",
+    "n": 145,
+    "fo": 0,
+    "entries": 37,
+    "pct": 0.0
+   },
+   {
+    "uniprot": "A0A062XY19",
+    "n": 139,
+    "fo": 46,
+    "entries": 12,
+    "pct": 33.1
+   },
+   {
+    "uniprot": "P93836",
+    "n": 131,
+    "fo": 1,
+    "entries": 100,
+    "pct": 0.8
+   },
+   {
+    "uniprot": "P00437",
+    "n": 120,
+    "fo": 0,
+    "entries": 23,
+    "pct": 0.0
+   }
+  ],
+  "overall_pct": 7.6,
+  "n_with": 11022,
+  "equal_weight_pct": 7.5
+ },
+ "redundancy": {
+  "max_entries": 620,
+  "top": [
+   {
+    "uniprot": "P00918",
+    "n": 662,
+    "fo": 2,
+    "entries": 620,
+    "pct": 0.3
+   },
+   {
+    "uniprot": "P93836",
+    "n": 131,
+    "fo": 1,
+    "entries": 100,
+    "pct": 0.8
+   },
+   {
+    "uniprot": "P81947",
+    "n": 90,
+    "fo": 0,
+    "entries": 90,
+    "pct": 0.0
+   },
+   {
+    "uniprot": "P00327",
+    "n": 220,
+    "fo": 0,
+    "entries": 71,
+    "pct": 0.0
+   },
+   {
+    "uniprot": "Q64610",
+    "n": 169,
+    "fo": 2,
+    "entries": 70,
+    "pct": 1.2
+   }
+  ]
+ }
+}

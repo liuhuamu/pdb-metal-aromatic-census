@@ -1,0 +1,402 @@
+{
+ "CLA": {
+  "name": "CHLOROPHYLL A",
+  "drugbank": "DB02133"
+ },
+ "HEM": {
+  "name": "PROTOPORPHYRIN IX CONTAINING FE",
+  "drugbank": "DB18267"
+ },
+ "HEC": {
+  "name": "HEME C",
+  "drugbank": "DB03317"
+ },
+ "CHL": {
+  "name": "CHLOROPHYLL B",
+  "drugbank": "DB04506"
+ },
+ "HEA": {
+  "name": "HEME-A",
+  "drugbank": ""
+ },
+ "CL7": {
+  "name": "CHLOROPHYLL D",
+  "drugbank": ""
+ },
+ "NAD": {
+  "name": "NICOTINAMIDE-ADENINE-DINUCLEOTIDE",
+  "drugbank": "DB14128"
+ },
+ "IMD": {
+  "name": "IMIDAZOLE",
+  "drugbank": "DB03366"
+ },
+ "OMG": {
+  "name": "O2'-METHYLGUANOSINE-5'-MONOPHOSPHATE",
+  "drugbank": ""
+ },
+ "ATP": {
+  "name": "ADENOSINE-5'-TRIPHOSPHATE",
+  "drugbank": "DB00171"
+ },
+ "BCB": {
+  "name": "BACTERIOCHLOROPHYLL B",
+  "drugbank": ""
+ },
+ "2MG": {
+  "name": "2N-METHYLGUANOSINE-5'-MONOPHOSPHATE",
+  "drugbank": ""
+ },
+ "A2M": {
+  "name": "2'-O-methyladenosine 5'-(dihydrogen phosphate)",
+  "drugbank": ""
+ },
+ "GDP": {
+  "name": "GUANOSINE-5'-DIPHOSPHATE",
+  "drugbank": "DB04315"
+ },
+ "RKL": {
+  "name": "Ru(tap)2(dppz) complex",
+  "drugbank": ""
+ },
+ "07D": {
+  "name": "Trans-Geranyl BACTERIOCHLOROPHYLL A",
+  "drugbank": ""
+ },
+ "ANP": {
+  "name": "PHOSPHOAMINOPHOSPHONIC ACID-ADENYLATE ESTER",
+  "drugbank": ""
+ },
+ "F6C": {
+  "name": "Chlorophyll F",
+  "drugbank": ""
+ },
+ "6MZ": {
+  "name": "N6-METHYLADENOSINE-5'-MONOPHOSPHATE",
+  "drugbank": ""
+ },
+ "NAP": {
+  "name": "NADP NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE",
+  "drugbank": "DB03461"
+ },
+ "5LD": {
+  "name": "[(2R)-2-hydroxy-3-(1H-1,2,4-triazol-1-yl)propyl]phosphonic acid",
+  "drugbank": ""
+ },
+ "GTP": {
+  "name": "GUANOSINE-5'-TRIPHOSPHATE",
+  "drugbank": "DB04137"
+ },
+ "KC1": {
+  "name": "Chlorophyll c1",
+  "drugbank": ""
+ },
+ "B12": {
+  "name": "COBALAMIN",
+  "drugbank": ""
+ },
+ "97U": {
+  "name": "(2~{S})-2-[[(3~{R})-5-chloranyl-3-methyl-8-oxidanyl-1-oxidanylidene-3,4-dihydroisochromen-7-yl]carbonylamino]-3-phenyl-propanoic acid",
+  "drugbank": ""
+ },
+ "AMP": {
+  "name": "ADENOSINE MONOPHOSPHATE",
+  "drugbank": "DB00131"
+ },
+ "MBO": {
+  "name": "MERCURIBENZOIC ACID",
+  "drugbank": "DB03975"
+ },
+ "A1LZM": {
+  "name": "Trans-Geranyl Bacteriochlorophyll B",
+  "drugbank": ""
+ },
+ "PQQ": {
+  "name": "PYRROLOQUINOLINE QUINONE",
+  "drugbank": "DB03205"
+ },
+ "KSB": {
+  "name": "lambda-[Ru(tap2-dppz-CN)]2+",
+  "drugbank": ""
+ },
+ "NAJ": {
+  "name": "NICOTINAMIDE-ADENINE-DINUCLEOTIDE (ACIDIC FORM)",
+  "drugbank": "DB14128"
+ },
+ "FEC": {
+  "name": "1,3,5,8-TETRAMETHYL-PORPHINE-2,4,6,7-TETRAPROPIONIC ACID FERROUS COMPLEX",
+  "drugbank": ""
+ },
+ "APC": {
+  "name": "DIPHOSPHOMETHYLPHOSPHONIC ACID ADENOSYL ESTER",
+  "drugbank": "DB02596"
+ },
+ "ADP": {
+  "name": "ADENOSINE-5'-DIPHOSPHATE",
+  "drugbank": "DB16833"
+ },
+ "KC2": {
+  "name": "Chlorophyll c2",
+  "drugbank": ""
+ },
+ "1MG": {
+  "name": "1N-METHYLGUANOSINE-5'-MONOPHOSPHATE",
+  "drugbank": ""
+ },
+ "2MA": {
+  "name": "2-METHYLADENOSINE-5'-MONOPHOSPHATE",
+  "drugbank": ""
+ },
+ "QBQ": {
+  "name": "7-deaza-GTP",
+  "drugbank": ""
+ },
+ "CL0": {
+  "name": "CHLOROPHYLL A ISOMER",
+  "drugbank": ""
+ },
+ "HDD": {
+  "name": "CIS-HEME D HYDROXYCHLORIN GAMMA-SPIROLACTONE",
+  "drugbank": ""
+ },
+ "BEZ": {
+  "name": "BENZOIC ACID",
+  "drugbank": "DB03793"
+ },
+ "SRM": {
+  "name": "SIROHEME",
+  "drugbank": "DB02832"
+ },
+ "ZOL": {
+  "name": "ZOLEDRONIC ACID",
+  "drugbank": "DB00399"
+ },
+ "CNC": {
+  "name": "CYANOCOBALAMIN",
+  "drugbank": "DB00115"
+ },
+ "RKP": {
+  "name": "Lambda-Ru(phen)2(dppz) complex",
+  "drugbank": ""
+ },
+ "RML": {
+  "name": "(11,12-dimethyldipyrido[3,2-a:2',3'-c]phenazine-kappa~2~N~4~,N~5~)[bis(pyrazino[2,3-f]quinoxaline-kappa~2~N~1~,N~10~)]ruthenium(2+)",
+  "drugbank": ""
+ },
+ "80M": {
+  "name": "sulfonato-thiacalix[4]arene",
+  "drugbank": ""
+ },
+ "QUE": {
+  "name": "3,5,7,3',4'-PENTAHYDROXYFLAVONE",
+  "drugbank": "DB04216"
+ },
+ "PXX": {
+  "name": "N-1,10-phenanthrolin-5-ylacetamide",
+  "drugbank": "DB08440"
+ },
+ "PFB": {
+  "name": "2,3,4,5,6-PENTAFLUOROBENZYL ALCOHOL",
+  "drugbank": "DB01711"
+ },
+ "IG2": {
+  "name": "(2S,3S)-2,3-dihydroxy-3-(1H-imidazol-5-yl)propyl dihydrogen phosphate",
+  "drugbank": ""
+ },
+ "DHB": {
+  "name": "3,4-DIHYDROXYBENZOIC ACID",
+  "drugbank": "DB03946"
+ },
+ "3TR": {
+  "name": "3-AMINO-1,2,4-TRIAZOLE",
+  "drugbank": ""
+ },
+ "BM0": {
+  "name": "1-butyl-3-methyl-1H-imidazol-3-ium",
+  "drugbank": ""
+ },
+ "BE7": {
+  "name": "(4-CARBOXYPHENYL)(CHLORO)MERCURY",
+  "drugbank": ""
+ },
+ "HAS": {
+  "name": "HEME-AS",
+  "drugbank": ""
+ },
+ "R1Z": {
+  "name": "Delta-[Ru(bpy)2dppz]2+",
+  "drugbank": ""
+ },
+ "9CA": {
+  "name": "9H-CARBAZOLE",
+  "drugbank": "DB07301"
+ },
+ "1MA": {
+  "name": "6-HYDRO-1-METHYLADENOSINE-5'-MONOPHOSPHATE",
+  "drugbank": "DB03318"
+ },
+ "EB4": {
+  "name": "N,N',N''-[(3S,7S,11S)-2,6,10-trioxo-1,5,9-trioxacyclododecane-3,7,11-triyl]tris(2,3-dihydroxybenzamide)",
+  "drugbank": ""
+ },
+ "BNL": {
+  "name": "BIPHENYL",
+  "drugbank": ""
+ },
+ "DBH": {
+  "name": "2,3-DIHYDROXY-BENZOIC ACID",
+  "drugbank": "DB01672"
+ },
+ "UN9": {
+  "name": "N-[(1-CHLORO-4-HYDROXYISOQUINOLIN-3-YL)CARBONYL]GLYCINE",
+  "drugbank": "DB08687"
+ },
+ "FAD": {
+  "name": "FLAVIN-ADENINE DINUCLEOTIDE",
+  "drugbank": "DB03147"
+ },
+ "DTP": {
+  "name": "2'-DEOXYADENOSINE 5'-TRIPHOSPHATE",
+  "drugbank": "DB03222"
+ },
+ "V9D": {
+  "name": "N~1~,N~3~-dihydroxybenzene-1,3-dicarboxamide",
+  "drugbank": ""
+ },
+ "V7F": {
+  "name": "ruthenium polypyridyl complex (lambda enantiomer)",
+  "drugbank": ""
+ },
+ "M2G": {
+  "name": "N2-DIMETHYLGUANOSINE-5'-MONOPHOSPHATE",
+  "drugbank": ""
+ },
+ "IU3": {
+  "name": "3-[4-(3-aminophenyl)-1,2,3-triazol-1-yl]phthalic acid",
+  "drugbank": ""
+ },
+ "CAQ": {
+  "name": "CATECHOL",
+  "drugbank": "DB02232"
+ },
+ "NAI": {
+  "name": "1,4-DIHYDRONICOTINAMIDE ADENINE DINUCLEOTIDE",
+  "drugbank": "DB00157"
+ },
+ "COH": {
+  "name": "PROTOPORPHYRIN IX CONTAINING CO",
+  "drugbank": "DB02110"
+ },
+ "R4A": {
+  "name": "(OC-6-3'3-C)-bis(2,2'-bipyridine-kappa~2~N~1~,N~1'~){N,N-dimethyl-3-[4-(1,10-phenanthrolin-4-yl-kappa~2~N~1~,N~10~)butoxy]aniline}ruthenium",
+  "drugbank": ""
+ },
+ "PD2": {
+  "name": "PYRIDINE-2,4-DICARBOXYLIC ACID",
+  "drugbank": ""
+ },
+ "CPH": {
+  "name": "(1S)-5-deoxy-1-O-methyl-1-C-[(2R,3S)-3,5,7,10-tetrahydroxy-6-methyl-4-oxo-1,2,3,4-tetrahydroanthracen-2-yl]-D-xylulose",
+  "drugbank": ""
+ },
+ "RIS": {
+  "name": "1-HYDROXY-2-(3-PYRIDINYL)ETHYLIDENE BIS-PHOSPHONIC ACID",
+  "drugbank": "DB00884"
+ },
+ "GBF": {
+  "name": "Bacteriochlorophyll g",
+  "drugbank": ""
+ },
+ "EQQ": {
+  "name": "Ruthenium (bis-(tetraazaphenanthrene)) (11,12-dicyano-dipyridophenazine)",
+  "drugbank": ""
+ },
+ "BAH": {
+  "name": "BIS(5-AMIDINO-2-BENZIMIDAZOLYL)METHANE KETONE HYDRATE",
+  "drugbank": "DB04301"
+ },
+ "0TN": {
+  "name": "Delta-Ru(phen)2(dppz) complex",
+  "drugbank": ""
+ },
+ "HIC": {
+  "name": "4-METHYL-HISTIDINE",
+  "drugbank": "DB04151"
+ },
+ "BAK": {
+  "name": "BIS(5-AMIDINO-2-BENZIMIDAZOLYL)METHANE KETONE",
+  "drugbank": "DB03213"
+ },
+ "5GP": {
+  "name": "GUANOSINE-5'-MONOPHOSPHATE",
+  "drugbank": "DB01972"
+ },
+ "XAN": {
+  "name": "XANTHINE",
+  "drugbank": "DB02134"
+ },
+ "HEB": {
+  "name": "HEME B/C",
+  "drugbank": "DB02182"
+ },
+ "4NC": {
+  "name": "4-NITROCATECHOL",
+  "drugbank": "DB03407"
+ },
+ "TYQ": {
+  "name": "3-AMINO-6-HYDROXY-TYROSINE",
+  "drugbank": "DB02928"
+ },
+ "QKQ": {
+  "name": "~{N}-(3-imidazol-1-ylpropyl)-8-(4-methoxyphenyl)-1,6-naphthyridine-2-carboxamide",
+  "drugbank": ""
+ },
+ "NPM": {
+  "name": "N-[(1E)-PYRIDIN-2-YLMETHYLENE]-N-[4-(4-{[(1E)-PYRIDIN-2-YLMETHYLENE]AMINO}BENZYL)PHENYL]AMINE",
+  "drugbank": ""
+ },
+ "HGB": {
+  "name": "4-(HYDROXYMERCURY)BENZOIC ACID",
+  "drugbank": "DB01671"
+ },
+ "DHY": {
+  "name": "2-(3,4-DIHYDROXYPHENYL)ACETIC ACID",
+  "drugbank": "DB01702"
+ },
+ "A1D93": {
+  "name": "N-(1H-benzo[d]imidazol-5-yl)-1-phenylmethanesulfonamide",
+  "drugbank": ""
+ },
+ "A1D5C": {
+  "name": "(3~{Z})-3-(1~{H}-benzimidazol-5-ylmethylidene)-4-[(3~{R})-1-ethanoylpyrrolidin-3-yl]oxy-1~{H}-indol-2-one",
+  "drugbank": ""
+ },
+ "A1D48": {
+  "name": "(3~{Z})-3-(1~{H}-benzimidazol-5-ylmethylidene)-4-oxidanyl-1~{H}-indol-2-one",
+  "drugbank": ""
+ },
+ "2GO": {
+  "name": "(T-4-S)-[(3S,4S,13R,14R,21R,23R,25R)-9-acetyl-14-ethyl-21-(methoxycarbonyl)-4,8,13,18-tetramethyl-20-oxo-3-(3-oxo-3-{[(2E,7R,11R)-3,7,11,15-tetramethylhexadec-2-en-1-yl]oxy}propyl)-23,25-didehydro-13,14-dihydrophorbine-23,25-diido-kappa~4~N~23~,N~24~,N~25~,N~26~]zinc",
+  "drugbank": ""
+ },
+ "0K8": {
+  "name": "Ruthenium bis-(phenanthroline) 12,17-dihydro-naphthodipyridophenazine-12,17-dione",
+  "drugbank": ""
+ },
+ "PIT": {
+  "name": "PICEATANNOL",
+  "drugbank": "DB08399"
+ },
+ "T1C": {
+  "name": "TIGECYCLINE",
+  "drugbank": ""
+ },
+ "DXT": {
+  "name": "(4S,4AR,5S,5AR,6R,12AS)-4-(DIMETHYLAMINO)-3,5,10,12,12A-PENTAHYDROXY-6-METHYL-1,11-DIOXO-1,4,4A,5,5A,6,11,12A-OCTAHYDROTETRACENE-2-CARBOXAMIDE",
+  "drugbank": "DB00254"
+ },
+ "ADE": {
+  "name": "ADENINE",
+  "drugbank": "DB00173"
+ }
+}

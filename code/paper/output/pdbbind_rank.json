@@ -1,0 +1,194 @@
+{
+ "general|uniprot": {
+  "n": 14808,
+  "strata": 985,
+  "groups": {
+   "no-metal": 7900,
+   "outside": 2981,
+   "no-contact": 2818,
+   "bridge-near": 852,
+   "bridge-direct": 196,
+   "ligand-held": 46,
+   "unannotated": 15
+  },
+  "tests": [
+   {
+    "group1": "bridge-near",
+    "group2": "no-contact",
+    "n1": 852,
+    "n2": 2818,
+    "n_strata": 448,
+    "mean_rank1": 0.573,
+    "mean_rank2": 0.52,
+    "delta": 0.053,
+    "p": 4.999750012499375e-05
+   },
+   {
+    "group1": "bridge-near",
+    "group2": "no-metal",
+    "n1": 852,
+    "n2": 7900,
+    "n_strata": 715,
+    "mean_rank1": 0.573,
+    "mean_rank2": 0.538,
+    "delta": 0.036,
+    "p": 0.013649317534123294
+   },
+   {
+    "group1": "bridge-direct",
+    "group2": "no-contact",
+    "n1": 196,
+    "n2": 2818,
+    "n_strata": 427,
+    "mean_rank1": 0.555,
+    "mean_rank2": 0.52,
+    "delta": 0.034,
+    "p": 0.3047847607619619
+   }
+  ]
+ },
+ "general|ptype": {
+  "n": 15621,
+  "strata": 36,
+  "groups": {
+   "no-metal": 7775,
+   "outside": 3978,
+   "no-contact": 2844,
+   "bridge-near": 767,
+   "bridge-direct": 196,
+   "ligand-held": 45,
+   "unannotated": 16
+  },
+  "tests": [
+   {
+    "group1": "bridge-near",
+    "group2": "no-contact",
+    "n1": 767,
+    "n2": 2844,
+    "n_strata": 33,
+    "mean_rank1": 0.57,
+    "mean_rank2": 0.495,
+    "delta": 0.075,
+    "p": 4.999750012499375e-05
+   },
+   {
+    "group1": "bridge-near",
+    "group2": "no-metal",
+    "n1": 767,
+    "n2": 7775,
+    "n_strata": 33,
+    "mean_rank1": 0.57,
+    "mean_rank2": 0.533,
+    "delta": 0.037,
+    "p": 0.03134843257837108
+   },
+   {
+    "group1": "bridge-direct",
+    "group2": "no-contact",
+    "n1": 196,
+    "n2": 2844,
+    "n_strata": 31,
+    "mean_rank1": 0.538,
+    "mean_rank2": 0.495,
+    "delta": 0.043,
+    "p": 0.13734313284335783
+   }
+  ]
+ },
+ "refined|uniprot": {
+  "n": 3481,
+  "strata": 298,
+  "groups": {
+   "no-metal": 1736,
+   "no-contact": 736,
+   "outside": 637,
+   "bridge-near": 328,
+   "bridge-direct": 28,
+   "unannotated": 9,
+   "ligand-held": 7
+  },
+  "tests": [
+   {
+    "group1": "bridge-near",
+    "group2": "no-contact",
+    "n1": 328,
+    "n2": 736,
+    "n_strata": 127,
+    "mean_rank1": 0.582,
+    "mean_rank2": 0.52,
+    "delta": 0.062,
+    "p": 4.999750012499375e-05
+   },
+   {
+    "group1": "bridge-near",
+    "group2": "no-metal",
+    "n1": 328,
+    "n2": 1736,
+    "n_strata": 229,
+    "mean_rank1": 0.582,
+    "mean_rank2": 0.553,
+    "delta": 0.029,
+    "p": 0.4312784360781961
+   },
+   {
+    "group1": "bridge-direct",
+    "group2": "no-contact",
+    "n1": 28,
+    "n2": 736,
+    "n_strata": 112,
+    "mean_rank1": 0.518,
+    "mean_rank2": 0.52,
+    "delta": -0.002,
+    "p": 0.9732513374331283
+   }
+  ]
+ },
+ "refined|ptype": {
+  "n": 4046,
+  "strata": 27,
+  "groups": {
+   "no-metal": 1867,
+   "outside": 972,
+   "no-contact": 812,
+   "bridge-near": 334,
+   "bridge-direct": 39,
+   "ligand-held": 13,
+   "unannotated": 9
+  },
+  "tests": [
+   {
+    "group1": "bridge-near",
+    "group2": "no-contact",
+    "n1": 334,
+    "n2": 812,
+    "n_strata": 24,
+    "mean_rank1": 0.575,
+    "mean_rank2": 0.46,
+    "delta": 0.115,
+    "p": 4.999750012499375e-05
+   },
+   {
+    "group1": "bridge-near",
+    "group2": "no-metal",
+    "n1": 334,
+    "n2": 1867,
+    "n_strata": 22,
+    "mean_rank1": 0.575,
+    "mean_rank2": 0.543,
+    "delta": 0.032,
+    "p": 0.7032648367581621
+   },
+   {
+    "group1": "bridge-direct",
+    "group2": "no-contact",
+    "n1": 39,
+    "n2": 812,
+    "n_strata": 24,
+    "mean_rank1": 0.415,
+    "mean_rank2": 0.46,
+    "delta": -0.045,
+    "p": 0.3264836758162092
+   }
+  ]
+ }
+}

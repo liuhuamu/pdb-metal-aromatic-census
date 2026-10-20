@@ -1,0 +1,653 @@
+{
+ "excluded": {
+  "contacts": 44347,
+  "entries": 3012,
+  "metals": {
+   "Mg": 28229,
+   "Fe": 14310,
+   "Ru": 809,
+   "Cu": 355,
+   "Co": 282,
+   "Hg": 168,
+   "Zn": 41,
+   "Os": 34
+  },
+  "ligands": {
+   "CLA": 24673,
+   "HEM": 10285,
+   "HEC": 2563,
+   "CHL": 1563,
+   "HEA": 1463,
+   "CL7": 918,
+   "BCB": 325,
+   "RKL": 216,
+   "07D": 193,
+   "F6C": 145
+  },
+  "median_d": 3.24,
+  "median_min": 2.04,
+  "embedded": 43906,
+  "by_ligfam": {
+   "chlorophyll": 27658,
+   "heme": 14448
+  }
+ },
+ "excluded_by_metal": [
+  {
+   "metal_element": "Mg",
+   "n": 28229,
+   "med_d": 3.23,
+   "med_min": 2.03,
+   "med_theta": 87.7,
+   "entries": 260
+  },
+  {
+   "metal_element": "Fe",
+   "n": 14310,
+   "med_d": 3.24,
+   "med_min": 2.05,
+   "med_theta": 87.4,
+   "entries": 2616
+  },
+  {
+   "metal_element": "Ru",
+   "n": 809,
+   "med_d": 3.44,
+   "med_min": 2.07,
+   "med_theta": 89.3,
+   "entries": 68
+  },
+  {
+   "metal_element": "Cu",
+   "n": 355,
+   "med_d": 4.59,
+   "med_min": 4.5,
+   "med_theta": 14.1,
+   "entries": 185
+  },
+  {
+   "metal_element": "Co",
+   "n": 282,
+   "med_d": 4.02,
+   "med_min": 3.09,
+   "med_theta": 88.5,
+   "entries": 62
+  },
+  {
+   "metal_element": "Hg",
+   "n": 168,
+   "med_d": 3.52,
+   "med_min": 2.15,
+   "med_theta": 89.7,
+   "entries": 154
+  }
+ ],
+ "mmp": {
+  "targets": 14,
+  "contacts": 271,
+  "entries": 132,
+  "fo": 164,
+  "pct": 60.5,
+  "boot": {
+   "pct": 60.5,
+   "lo": 52.2,
+   "hi": 69.1
+  },
+  "median_d_faceon": 4.93,
+  "by_target": [
+   {
+    "uniprot": "P39900",
+    "uname": "macrophage elastase MMP-12",
+    "n": "104",
+    "fo": "60",
+    "entries": "51",
+    "pct": "57.7"
+   },
+   {
+    "uniprot": "P45452",
+    "uname": "Collagenase 3",
+    "n": "62",
+    "fo": "36",
+    "entries": "22",
+    "pct": "58.1"
+   },
+   {
+    "uniprot": "P14780",
+    "uname": "Matrix metalloproteinase-9 (EC 3.4.24.35) (MMP-9) (92 kDa type IV collagenase) (92 kDa gelatinase) (Gelatinase B) (GELB)",
+    "n": "36",
+    "fo": "23",
+    "entries": "14",
+    "pct": "63.9"
+   },
+   {
+    "uniprot": "P08254",
+    "uname": "STROMELYSIN-1",
+    "n": "30",
+    "fo": "22",
+    "entries": "21",
+    "pct": "73.3"
+   },
+   {
+    "uniprot": "P22894",
+    "uname": "NEUTROPHIL COLLAGENASE",
+    "n": "18",
+    "fo": "11",
+    "entries": "13",
+    "pct": "61.1"
+   },
+   {
+    "uniprot": "P09238",
+    "uname": "Stromelysin-2",
+    "n": "6",
+    "fo": "3",
+    "entries": "2",
+    "pct": "50.0"
+   },
+   {
+    "uniprot": "Q9X721",
+    "uname": "Collagenase ColG",
+    "n": "3",
+    "fo": "0",
+    "entries": "2",
+    "pct": "0.0"
+   },
+   {
+    "uniprot": "P33435",
+    "uname": "PROTEIN (COLLAGENASE-3)",
+    "n": "2",
+    "fo": "2",
+    "entries": "1",
+    "pct": "100.0"
+   },
+   {
+    "uniprot": "P08253",
+    "uname": "Matrix metalloproteinase-2",
+    "n": "2",
+    "fo": "2",
+    "entries": "1",
+    "pct": "100.0"
+   },
+   {
+    "uniprot": "P15167",
+    "uname": "Snake venom metalloproteinase atrolysin-D",
+    "n": "2",
+    "fo": "0",
+    "entries": "1",
+    "pct": "0.0"
+   },
+   {
+    "uniprot": "Q9UHI8",
+    "uname": "A disintegrin and metalloproteinase with thrombospondin motifs 1",
+    "n": "2",
+    "fo": "2",
+    "entries": "1",
+    "pct": "100.0"
+   },
+   {
+    "uniprot": "P78325",
+    "uname": "Disintegrin and metalloproteinase domain-containing protein 8",
+    "n": "2",
+    "fo": "2",
+    "entries": "1",
+    "pct": "100.0"
+   },
+   {
+    "uniprot": "P03956",
+    "uname": "MMP-1",
+    "n": "1",
+    "fo": "1",
+    "entries": "1",
+    "pct": "100.0"
+   },
+   {
+    "uniprot": "P51512",
+    "uname": "Matrix metalloproteinase-16",
+    "n": "1",
+    "fo": "0",
+    "entries": "1",
+    "pct": "0.0"
+   }
+  ]
+ },
+ "ca2": {
+  "contacts": 662,
+  "entries": 620,
+  "fo": 2,
+  "pct": 0.3,
+  "boot": {
+   "pct": 0.3,
+   "lo": 0.0,
+   "hi": 0.8
+  }
+ },
+ "zn_protease_vs_ca": {
+  "mmp_zn": 270,
+  "mmp_zn_pct": 60.7,
+  "ca_zn_pct": 0.2
+ },
+ "target_distribution": {
+  "n_targets": 1225,
+  "n_big": 112,
+  "zero_all": 1046,
+  "zero_big": 72,
+  "zero_pct_all": 85.4,
+  "zero_pct_big": 64.3,
+  "q": [
+   0.0,
+   0.0,
+   0.0,
+   25.0
+  ],
+  "mean_pct": 7.5,
+  "median_pct": 0.0
+ },
+ "table4": [
+  {
+   "ptype": "Deaminase",
+   "contacts": 254,
+   "entries": 68,
+   "faceon": 96,
+   "pct": 37.8,
+   "lo": 28.6,
+   "hi": 47.3,
+   "top_metal": "Zn",
+   "top_metal_pct": 96.9,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Protease",
+   "contacts": 805,
+   "entries": 318,
+   "faceon": 197,
+   "pct": 24.5,
+   "lo": 19.6,
+   "hi": 30.0,
+   "top_metal": "Zn",
+   "top_metal_pct": 80.7,
+   "top_ring": "carbocycle"
+  },
+  {
+   "ptype": "Phosphodiesterase",
+   "contacts": 422,
+   "entries": 128,
+   "faceon": 78,
+   "pct": 18.5,
+   "lo": 12.7,
+   "hi": 24.3,
+   "top_metal": "Zn",
+   "top_metal_pct": 63.0,
+   "top_ring": "carbocycle"
+  },
+  {
+   "ptype": "Hydrolase",
+   "contacts": 206,
+   "entries": 48,
+   "faceon": 26,
+   "pct": 12.6,
+   "lo": 3.8,
+   "hi": 23.0,
+   "top_metal": "Zn",
+   "top_metal_pct": 63.1,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "2OG-Fe oxygenase",
+   "contacts": 154,
+   "entries": 51,
+   "faceon": 17,
+   "pct": 11.0,
+   "lo": 2.7,
+   "hi": 18.8,
+   "top_metal": "Fe",
+   "top_metal_pct": 50.6,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Ribosome",
+   "contacts": 119,
+   "entries": 51,
+   "faceon": 9,
+   "pct": 7.6,
+   "lo": 2.8,
+   "hi": 14.6,
+   "top_metal": "Mg",
+   "top_metal_pct": 85.7,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Other",
+   "contacts": 1172,
+   "entries": 549,
+   "faceon": 77,
+   "pct": 6.6,
+   "lo": 4.9,
+   "hi": 8.3,
+   "top_metal": "Mg",
+   "top_metal_pct": 32.8,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Protein kinase",
+   "contacts": 108,
+   "entries": 77,
+   "faceon": 4,
+   "pct": 3.7,
+   "lo": 0.0,
+   "hi": 9.3,
+   "top_metal": "Mg",
+   "top_metal_pct": 90.7,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Polyprenyl synthase",
+   "contacts": 136,
+   "entries": 60,
+   "faceon": 5,
+   "pct": 3.7,
+   "lo": 0.8,
+   "hi": 7.0,
+   "top_metal": "Mg",
+   "top_metal_pct": 89.7,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Transferase",
+   "contacts": 266,
+   "entries": 178,
+   "faceon": 6,
+   "pct": 2.3,
+   "lo": 0.0,
+   "hi": 5.3,
+   "top_metal": "Mg",
+   "top_metal_pct": 56.0,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Histone deacetylase",
+   "contacts": 177,
+   "entries": 83,
+   "faceon": 4,
+   "pct": 2.3,
+   "lo": 0.0,
+   "hi": 6.4,
+   "top_metal": "Zn",
+   "top_metal_pct": 100.0,
+   "top_ring": "carbocycle"
+  },
+  {
+   "ptype": "Periplasmic binding protein",
+   "contacts": 142,
+   "entries": 38,
+   "faceon": 2,
+   "pct": 1.4,
+   "lo": 0.0,
+   "hi": 3.5,
+   "top_metal": "Fe",
+   "top_metal_pct": 86.6,
+   "top_ring": "carbocycle"
+  },
+  {
+   "ptype": "Ferritin",
+   "contacts": 101,
+   "entries": 8,
+   "faceon": 1,
+   "pct": 1.0,
+   "lo": 0.0,
+   "hi": 7.7,
+   "top_metal": "Au",
+   "top_metal_pct": 47.5,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Glyoxalase",
+   "contacts": 210,
+   "entries": 129,
+   "faceon": 1,
+   "pct": 0.5,
+   "lo": 0.0,
+   "hi": 1.6,
+   "top_metal": "Co",
+   "top_metal_pct": 66.2,
+   "top_ring": "carbocycle"
+  },
+  {
+   "ptype": "Dehydrogenase",
+   "contacts": 594,
+   "entries": 192,
+   "faceon": 3,
+   "pct": 0.5,
+   "lo": 0.0,
+   "hi": 1.4,
+   "top_metal": "Zn",
+   "top_metal_pct": 63.3,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Carbonic anhydrase",
+   "contacts": 975,
+   "entries": 743,
+   "faceon": 2,
+   "pct": 0.2,
+   "lo": 0.0,
+   "hi": 0.5,
+   "top_metal": "Zn",
+   "top_metal_pct": 99.3,
+   "top_ring": "carbocycle"
+  },
+  {
+   "ptype": "Dehydratase/lyase",
+   "contacts": 273,
+   "entries": 26,
+   "faceon": 0,
+   "pct": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "top_metal": "Mn",
+   "top_metal_pct": 98.5,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Histone demethylase",
+   "contacts": 412,
+   "entries": 132,
+   "faceon": 0,
+   "pct": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "top_metal": "Zn",
+   "top_metal_pct": 37.9,
+   "top_ring": "N-heteroarene"
+  },
+  {
+   "ptype": "Tubulin",
+   "contacts": 189,
+   "entries": 141,
+   "faceon": 0,
+   "pct": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "top_metal": "Mg",
+   "top_metal_pct": 100.0,
+   "top_ring": "N-heteroarene"
+  }
+ ],
+ "drug_faceon_rows": [
+  {
+   "comp": "ROF",
+   "metal": "Zn",
+   "contacts": 8,
+   "entries": 3,
+   "name": "3-(CYCLOPROPYLMETHOXY)-N-(3,5-DICHLOROPYRIDIN-4-YL)-4-(DIFLUOROMETHOXY",
+   "median_d": 5.36,
+   "median_theta": 22.2,
+   "bridging": "bridge-near"
+  },
+  {
+   "comp": "DCF",
+   "metal": "Zn",
+   "contacts": 7,
+   "entries": 4,
+   "name": "2'-DEOXYCOFORMYCIN",
+   "median_d": 3.82,
+   "median_theta": 35.4,
+   "bridging": "bridge-near"
+  },
+  {
+   "comp": "ADN",
+   "metal": "Zn",
+   "contacts": 4,
+   "entries": 2,
+   "name": "ADENOSINE",
+   "median_d": 3.97,
+   "median_theta": 27.9,
+   "bridging": "bridge-near"
+  },
+  {
+   "comp": "HQE",
+   "metal": "Zn",
+   "contacts": 4,
+   "entries": 2,
+   "name": "benzene-1,4-diol",
+   "median_d": 3.93,
+   "median_theta": 25.4,
+   "bridging": "bridge-near"
+  },
+  {
+   "comp": "RIS",
+   "metal": "Mg",
+   "contacts": 3,
+   "entries": 3,
+   "name": "1-HYDROXY-2-(3-PYRIDINYL)ETHYLIDENE BIS-PHOSPHONIC ACID",
+   "median_d": 5.0,
+   "median_theta": 28.8,
+   "bridging": "bridge-near"
+  },
+  {
+   "comp": "LSN",
+   "metal": "K",
+   "contacts": 2,
+   "entries": 2,
+   "name": "[2-butyl-5-chloranyl-3-[[4-[2-(2H-1,2,3,4-tetrazol-5-yl)phenyl]phenyl]",
+   "median_d": 4.39,
+   "median_theta": 31.8,
+   "bridging": "unannotated"
+  },
+  {
+   "comp": "OQ4",
+   "metal": "Mg",
+   "contacts": 2,
+   "entries": 1,
+   "name": "2-({4-[7-({(1r,4r)-4-[(ethanesulfonyl)amino]cyclohexyl}methyl)-2,7-dia",
+   "median_d": 5.48,
+   "median_theta": 23.1,
+   "bridging": "bridge-near"
+  },
+  {
+   "comp": "TEL",
+   "metal": "Mg",
+   "contacts": 2,
+   "entries": 2,
+   "name": "TELITHROMYCIN",
+   "median_d": 3.24,
+   "median_theta": 2.3,
+   "bridging": "bridge-near"
+  },
+  {
+   "comp": "ZOL",
+   "metal": "Mg",
+   "contacts": 2,
+   "entries": 1,
+   "name": "ZOLEDRONIC ACID",
+   "median_d": 4.69,
+   "median_theta": 22.4,
+   "bridging": "bridge-near"
+  },
+  {
+   "comp": "ADE",
+   "metal": "Zn",
+   "contacts": 1,
+   "entries": 1,
+   "name": "ADENINE",
+   "median_d": 3.72,
+   "median_theta": 40.3,
+   "bridging": "bridge-near"
+  },
+  {
+   "comp": "PD9",
+   "metal": "Zn",
+   "contacts": 1,
+   "entries": 1,
+   "name": "(~{E})-2-cyano-~{N},~{N}-diethyl-3-[3-nitro-4,5-bis(oxidanyl)phenyl]pr",
+   "median_d": 4.4,
+   "median_theta": 25.9,
+   "bridging": "bridge-near"
+  }
+ ],
+ "drug_faceon_n_drugs": 11,
+ "drug_faceon_n_entries": 22,
+ "cofactor_faceon": {
+  "n": 3558,
+  "pct": 5.8,
+  "boot": {
+   "pct": 5.8,
+   "lo": 4.8,
+   "hi": 7.0
+  },
+  "atp": {
+   "n": 382,
+   "pct": 14.4
+  },
+  "nad": {
+   "n": 547,
+   "pct": 5.5
+  },
+  "fad": {
+   "n": 33,
+   "pct": 15.2
+  }
+ },
+ "bridge_faceon": [
+  {
+   "bridging_class": "bridge-direct",
+   "n": 2034,
+   "fo": 45,
+   "pct": 2.2
+  },
+  {
+   "bridging_class": "bridge-near",
+   "n": 7854,
+   "fo": 773,
+   "pct": 9.8
+  },
+  {
+   "bridging_class": "ligand-held",
+   "n": 3001,
+   "fo": 116,
+   "pct": 3.9
+  },
+  {
+   "bridging_class": "unannotated",
+   "n": 342,
+   "fo": 47,
+   "pct": 13.7
+  }
+ ],
+ "bridge_direct_faceon": {
+  "n": 45,
+  "rings": {
+   "N-heteroarene": 22,
+   "carbocycle": 16,
+   "S/O-heteroarene": 7
+  },
+  "metals": {
+   "Zn": 20,
+   "Ru": 9,
+   "Fe": 6,
+   "Mn": 3,
+   "Ni": 2
+  },
+  "median_d": 2.9,
+  "median_min": 2.33,
+  "n_eta": 20
+ }
+}

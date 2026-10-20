@@ -1,0 +1,942 @@
+{
+ "faceon_distance": [
+  {
+   "bin": "[0.0, 2.5)",
+   "n": "12",
+   "median_min_dist": "2.1885",
+   "median_theta": "4.25"
+  },
+  {
+   "bin": "[2.5, 3.0)",
+   "n": "24",
+   "median_min_dist": "2.2885",
+   "median_theta": "47.3"
+  },
+  {
+   "bin": "[3.0, 3.5)",
+   "n": "55",
+   "median_min_dist": "2.845",
+   "median_theta": "34.6"
+  },
+  {
+   "bin": "[3.5, 4.0)",
+   "n": "95",
+   "median_min_dist": "3.364",
+   "median_theta": "32.7"
+  },
+  {
+   "bin": "[4.0, 4.5)",
+   "n": "132",
+   "median_min_dist": "3.8804999999999996",
+   "median_theta": "26.7"
+  },
+  {
+   "bin": "[4.5, 5.0)",
+   "n": "305",
+   "median_min_dist": "4.573",
+   "median_theta": "19.8"
+  },
+  {
+   "bin": "[5.0, 5.5)",
+   "n": "235",
+   "median_min_dist": "4.913",
+   "median_theta": "21.6"
+  },
+  {
+   "bin": "[5.5, 6.01)",
+   "n": "123",
+   "median_min_dist": "5.479",
+   "median_theta": "18.8"
+  }
+ ],
+ "faceon_short": {
+  "n_total": 981,
+  "le25": 12,
+  "le30": 36,
+  "le35": 91,
+  "le37": 115,
+  "le40": 186,
+  "gt45": 663,
+  "pct_le37": 11.7,
+  "pct_gt45": 67.6,
+  "median": 4.83
+ },
+ "faceon_short_metals": {
+  "Zn": 70,
+  "Mg": 12,
+  "Ru": 9,
+  "Fe": 8,
+  "Na": 6,
+  "Ni": 3,
+  "Mn": 3,
+  "Ca": 2
+ },
+ "faceon_long_metals": {
+  "Zn": 355,
+  "Mg": 132,
+  "Fe": 78,
+  "K": 30,
+  "Ni": 23,
+  "Ca": 13,
+  "Mn": 12,
+  "Na": 12
+ },
+ "faceon_regimes": {
+  "inner": {
+   "n": 115,
+   "pct": 11.7,
+   "median_d": 3.31,
+   "median_mindist": 2.81,
+   "top_metals": {
+    "Zn": 70,
+    "Mg": 12,
+    "Ru": 9,
+    "Fe": 8,
+    "Na": 6
+   },
+   "top_rings": {
+    "carbocycle": 54,
+    "N-heteroarene": 51,
+    "S/O-heteroarene": 10
+   },
+   "top_bridge": {
+    "bridge-near": 56,
+    "bridge-direct": 45,
+    "ligand-held": 12,
+    "unannotated": 2
+   }
+  },
+  "stacked": {
+   "n": 203,
+   "pct": 20.7,
+   "median_d": 4.12,
+   "median_mindist": 3.79,
+   "top_metals": {
+    "Zn": 136,
+    "Mg": 24,
+    "Fe": 17,
+    "Na": 10,
+    "K": 9
+   },
+   "top_rings": {
+    "N-heteroarene": 137,
+    "carbocycle": 64,
+    "S/O-heteroarene": 2
+   },
+   "top_bridge": {
+    "bridge-near": 165,
+    "unannotated": 24,
+    "ligand-held": 14
+   }
+  },
+  "outer": {
+   "n": 663,
+   "pct": 67.6,
+   "median_d": 5.04,
+   "median_mindist": 4.81,
+   "top_metals": {
+    "Zn": 355,
+    "Mg": 132,
+    "Fe": 78,
+    "K": 30,
+    "Ni": 23
+   },
+   "top_rings": {
+    "carbocycle": 372,
+    "N-heteroarene": 263,
+    "S/O-heteroarene": 28
+   },
+   "top_bridge": {
+    "bridge-near": 552,
+    "ligand-held": 90,
+    "unannotated": 21
+   }
+  }
+ },
+ "overall_boot": {
+  "pct": 7.4,
+  "lo": 6.7,
+  "hi": 8.2,
+  "entries": 5107
+ },
+ "faceon_by_metal_boot": {
+  "Zn": {
+   "pct": 10.9,
+   "lo": 9.5,
+   "hi": 12.4,
+   "entries": 2128
+  },
+  "Mg": {
+   "pct": 4.5,
+   "lo": 3.7,
+   "hi": 5.3,
+   "entries": 1455
+  },
+  "Fe": {
+   "pct": 8.0,
+   "lo": 5.3,
+   "hi": 11.0,
+   "entries": 438
+  },
+  "Mn": {
+   "pct": 1.7,
+   "lo": 0.8,
+   "hi": 2.8,
+   "entries": 345
+  },
+  "Ca": {
+   "pct": 4.1,
+   "lo": 1.7,
+   "hi": 6.7,
+   "entries": 206
+  },
+  "Ni": {
+   "pct": 7.1,
+   "lo": 4.0,
+   "hi": 11.3,
+   "entries": 123
+  },
+  "K": {
+   "pct": 12.8,
+   "lo": 7.1,
+   "hi": 20.3,
+   "entries": 143
+  },
+  "Na": {
+   "pct": 10.8,
+   "lo": 5.5,
+   "hi": 16.6,
+   "entries": 127
+  },
+  "Cu": {
+   "pct": 2.0,
+   "lo": 0.0,
+   "hi": 5.4,
+   "entries": 60
+  }
+ },
+ "ring_mh": {
+  "or_mh": 1.22,
+  "chi2": 7.8,
+  "p": 0.005342175855313602,
+  "strata": 11
+ },
+ "ring_mh_excl_additive": {
+  "or_mh": 1.22,
+  "chi2": 7.7,
+  "p": 0.005604759647387159,
+  "strata": 11
+ },
+ "ring_boot": {
+  "carbocycle": {
+   "pct": 9.4,
+   "lo": 8.1,
+   "hi": 10.7,
+   "entries": 2567
+  },
+  "N-heteroarene": {
+   "pct": 6.1,
+   "lo": 5.3,
+   "hi": 6.9,
+   "entries": 2776
+  }
+ },
+ "cn_mh": {
+  "or_mh": 1.21,
+  "chi2": 7.9,
+  "p": 0.004937621169650019,
+  "strata": 11
+ },
+ "cn_boot": {
+  "low": {
+   "pct": 8.8,
+   "lo": 7.7,
+   "hi": 9.9,
+   "entries": 2467
+  },
+  "high": {
+   "pct": 4.8,
+   "lo": 3.8,
+   "hi": 5.7,
+   "entries": 2109
+  }
+ },
+ "donor_boot": {
+  "N only": {
+   "pct": 16.0,
+   "lo": 13.5,
+   "hi": 18.6,
+   "entries": 1102
+  },
+  "O only": {
+   "pct": 3.6,
+   "lo": 2.9,
+   "hi": 4.4,
+   "entries": 1699
+  },
+  "none": {
+   "pct": 6.6,
+   "lo": 5.1,
+   "hi": 8.2,
+   "entries": 619
+  }
+ },
+ "donor_mh": {
+  "or_mh": 2.23,
+  "chi2": 91.4,
+  "p": 0.0,
+  "strata": 10
+ },
+ "strict_qc": {
+  "n": 5344,
+  "pct": 7.3,
+  "boot": {
+   "pct": 7.3,
+   "lo": 6.2,
+   "hi": 8.4,
+   "entries": 2627
+  },
+  "metals": {
+   "Zn": {
+    "n": 2625,
+    "pct": 9.1
+   },
+   "K": {
+    "n": 75,
+    "pct": 18.7
+   },
+   "Na": {
+    "n": 137,
+    "pct": 3.6
+   },
+   "Mg": {
+    "n": 881,
+    "pct": 5.2
+   },
+   "Fe": {
+    "n": 523,
+    "pct": 8.8
+   }
+  }
+ },
+ "ultra_high_res": {
+  "boot": {
+   "pct": 4.8,
+   "lo": 3.5,
+   "hi": 6.4,
+   "entries": 982
+  },
+  "n_entries": 982
+ },
+ "ptype": [
+  {
+   "ptype": "Other",
+   "n": 1168,
+   "fo": 77,
+   "entries": 547,
+   "pct": 6.6
+  },
+  {
+   "ptype": "Carbonic anhydrase",
+   "n": 975,
+   "fo": 2,
+   "entries": 743,
+   "pct": 0.2
+  },
+  {
+   "ptype": "Protease",
+   "n": 805,
+   "fo": 197,
+   "entries": 318,
+   "pct": 24.5
+  },
+  {
+   "ptype": "Dehydrogenase",
+   "n": 594,
+   "fo": 3,
+   "entries": 192,
+   "pct": 0.5
+  },
+  {
+   "ptype": "Phosphodiesterase",
+   "n": 422,
+   "fo": 78,
+   "entries": 128,
+   "pct": 18.5
+  },
+  {
+   "ptype": "Histone demethylase",
+   "n": 412,
+   "fo": 0,
+   "entries": 132,
+   "pct": 0.0
+  },
+  {
+   "ptype": "Dehydratase/lyase",
+   "n": 273,
+   "fo": 0,
+   "entries": 26,
+   "pct": 0.0
+  },
+  {
+   "ptype": "Transferase",
+   "n": 266,
+   "fo": 6,
+   "entries": 178,
+   "pct": 2.3
+  },
+  {
+   "ptype": "Deaminase",
+   "n": 254,
+   "fo": 96,
+   "entries": 68,
+   "pct": 37.8
+  },
+  {
+   "ptype": "Glyoxalase",
+   "n": 210,
+   "fo": 1,
+   "entries": 129,
+   "pct": 0.5
+  },
+  {
+   "ptype": "Hydrolase",
+   "n": 206,
+   "fo": 26,
+   "entries": 48,
+   "pct": 12.6
+  },
+  {
+   "ptype": "Tubulin",
+   "n": 189,
+   "fo": 0,
+   "entries": 141,
+   "pct": 0.0
+  },
+  {
+   "ptype": "Histone deacetylase",
+   "n": 177,
+   "fo": 4,
+   "entries": 83,
+   "pct": 2.3
+  },
+  {
+   "ptype": "2OG-Fe oxygenase",
+   "n": 154,
+   "fo": 17,
+   "entries": 51,
+   "pct": 11.0
+  },
+  {
+   "ptype": "Periplasmic binding protein",
+   "n": 142,
+   "fo": 2,
+   "entries": 38,
+   "pct": 1.4
+  }
+ ],
+ "ptype_boot": {
+  "Protease": {
+   "pct": 24.5,
+   "lo": 19.2,
+   "hi": 30.0,
+   "entries": 318
+  },
+  "Carbonic anhydrase": {
+   "pct": 0.2,
+   "lo": 0.0,
+   "hi": 0.5,
+   "entries": 743
+  },
+  "Phosphodiesterase": {
+   "pct": 18.5,
+   "lo": 12.5,
+   "hi": 24.2,
+   "entries": 128
+  },
+  "Nuclease": {
+   "pct": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "entries": 11
+  },
+  "Deaminase": {
+   "pct": 37.8,
+   "lo": 29.1,
+   "hi": 48.4,
+   "entries": 68
+  },
+  "Protein kinase": {
+   "pct": 3.7,
+   "lo": 0.0,
+   "hi": 9.4,
+   "entries": 77
+  },
+  "Dehydrogenase": {
+   "pct": 0.5,
+   "lo": 0.0,
+   "hi": 1.4,
+   "entries": 192
+  }
+ },
+ "mmp": {
+  "targets": 11,
+  "contacts": 340,
+  "entries": 142,
+  "fo": 159,
+  "pct": 46.8,
+  "boot": {
+   "pct": 46.8,
+   "lo": 37.9,
+   "hi": 56.4,
+   "entries": 142
+  },
+  "median_d": 4.93,
+  "by_target": [
+   {
+    "uniprot": "P39900",
+    "uname": "macrophage elastase MMP-12",
+    "n": "104",
+    "fo": "60",
+    "entries": "51",
+    "pct": "57.7"
+   },
+   {
+    "uniprot": "P80188",
+    "uname": "Neutrophil gelatinase-associated lipocalin",
+    "n": "76",
+    "fo": "0",
+    "entries": "14",
+    "pct": "0.0"
+   },
+   {
+    "uniprot": "P45452",
+    "uname": "Collagenase 3",
+    "n": "62",
+    "fo": "36",
+    "entries": "22",
+    "pct": "58.1"
+   },
+   {
+    "uniprot": "P14780",
+    "uname": "Matrix metalloproteinase-9 (EC 3.4.24.35) (MMP-9) (92 kDa type IV collagenase) (92 kDa gelatinase) (Gelatinase B) (GELB)",
+    "n": "36",
+    "fo": "23",
+    "entries": "14",
+    "pct": "63.9"
+   },
+   {
+    "uniprot": "P08254",
+    "uname": "STROMELYSIN-1",
+    "n": "30",
+    "fo": "22",
+    "entries": "21",
+    "pct": "73.3"
+   },
+   {
+    "uniprot": "P22894",
+    "uname": "NEUTROPHIL COLLAGENASE",
+    "n": "18",
+    "fo": "11",
+    "entries": "13",
+    "pct": "61.1"
+   },
+   {
+    "uniprot": "P09238",
+    "uname": "Stromelysin-2",
+    "n": "6",
+    "fo": "3",
+    "entries": "2",
+    "pct": "50.0"
+   },
+   {
+    "uniprot": "Q9X721",
+    "uname": "Collagenase ColG",
+    "n": "3",
+    "fo": "0",
+    "entries": "2",
+    "pct": "0.0"
+   },
+   {
+    "uniprot": "P08253",
+    "uname": "Matrix metalloproteinase-2",
+    "n": "2",
+    "fo": "2",
+    "entries": "1",
+    "pct": "100.0"
+   },
+   {
+    "uniprot": "P33435",
+    "uname": "PROTEIN (COLLAGENASE-3)",
+    "n": "2",
+    "fo": "2",
+    "entries": "1",
+    "pct": "100.0"
+   }
+  ],
+  "ligands": {
+   "NGH": 8,
+   "L29": 8,
+   "CGS": 6,
+   "DPS": 5,
+   "BSI": 4,
+   "CBP": 4,
+   "033": 4,
+   "347": 4,
+   "3KR": 4,
+   "3O2": 4
+  },
+  "cn": {
+   "5": 137,
+   "4": 114,
+   "6": 60,
+   "3": 13,
+   "7": 6,
+   "2": 5
+  },
+  "donor": {
+   "N only": 248,
+   "none": 74,
+   "N+O": 13,
+   "O only": 4,
+   "other": 1
+  },
+  "short_faceon": 6
+ },
+ "ca2": {
+  "contacts": 662,
+  "entries": 620,
+  "fo": 2,
+  "pct": 0.3,
+  "median_d": 5.3,
+  "boot": {
+   "pct": 0.3,
+   "lo": 0.0,
+   "hi": 0.8,
+   "entries": 620
+  }
+ },
+ "targets_min20": [
+  {
+   "uniprot": "P08254",
+   "n": "30",
+   "fo": "22",
+   "entries": "21",
+   "uname": "STROMELYSIN-1",
+   "pct": "73.3",
+   "lo": "55.6",
+   "hi": "85.8"
+  },
+  {
+   "uniprot": "P14780",
+   "n": "36",
+   "fo": "23",
+   "entries": "14",
+   "uname": "Matrix metalloproteinase-9 (EC 3.4.24.35) (MMP-9) (92 kDa type IV collagenase) (92 kDa gelatinase) (Gelatinase B) (GELB)",
+   "pct": "63.9",
+   "lo": "47.6",
+   "hi": "77.5"
+  },
+  {
+   "uniprot": "P45452",
+   "n": "62",
+   "fo": "36",
+   "entries": "22",
+   "uname": "Collagenase 3",
+   "pct": "58.1",
+   "lo": "45.7",
+   "hi": "69.5"
+  },
+  {
+   "uniprot": "P39900",
+   "n": "104",
+   "fo": "60",
+   "entries": "51",
+   "uname": "macrophage elastase MMP-12",
+   "pct": "57.7",
+   "lo": "48.1",
+   "hi": "66.7"
+  },
+  {
+   "uniprot": "Q84II6",
+   "n": "62",
+   "fo": "34",
+   "entries": "14",
+   "uname": "terminal oxygenase component of carbazole",
+   "pct": "54.8",
+   "lo": "42.5",
+   "hi": "66.6"
+  },
+  {
+   "uniprot": "P78536",
+   "n": "36",
+   "fo": "19",
+   "entries": "16",
+   "uname": "ADAM 17",
+   "pct": "52.8",
+   "lo": "37.0",
+   "hi": "68.0"
+  },
+  {
+   "uniprot": "A0A286D6Z1",
+   "n": "32",
+   "fo": "16",
+   "entries": "2",
+   "uname": "Imidazolonepropionase",
+   "pct": "50.0",
+   "lo": "33.6",
+   "hi": "66.4"
+  },
+  {
+   "uniprot": "Q5AR53",
+   "n": "50",
+   "fo": "24",
+   "entries": "23",
+   "uname": "Phytanoyl-CoA dioxygenase family protein (AFU_orthologue AFUA_8G00230)",
+   "pct": "48.0",
+   "lo": "34.8",
+   "hi": "61.5"
+  },
+  {
+   "uniprot": "Q2T3G7",
+   "n": "23",
+   "fo": "11",
+   "entries": "6",
+   "uname": "Ketol-acid reductoisomerase",
+   "pct": "47.8",
+   "lo": "29.2",
+   "hi": "67.0"
+  },
+  {
+   "uniprot": "Q9Y233",
+   "n": "44",
+   "fo": "19",
+   "entries": "11",
+   "uname": "cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",
+   "pct": "43.2",
+   "lo": "29.7",
+   "hi": "57.8"
+  },
+  {
+   "uniprot": "P37333",
+   "n": "43",
+   "fo": "17",
+   "entries": "5",
+   "uname": "BIPHENYL DIOXYGENASE SUBUNIT ALPHA",
+   "pct": "39.5",
+   "lo": "26.4",
+   "hi": "54.4"
+  },
+  {
+   "uniprot": "Q07343",
+   "n": "39",
+   "fo": "15",
+   "entries": "10",
+   "uname": "cAMP-specific 3',5'-cyclic phosphodiesterase 4B",
+   "pct": "38.5",
+   "lo": "24.9",
+   "hi": "54.1"
+  },
+  {
+   "uniprot": "O00408",
+   "n": "52",
+   "fo": "19",
+   "entries": "7",
+   "uname": "CGMP-DEPENDENT 3', 5'-CYCLIC PHOSPHODIESTERASE",
+   "pct": "36.5",
+   "lo": "24.8",
+   "hi": "50.1"
+  },
+  {
+   "uniprot": "A0A0S1B1B6",
+   "n": "48",
+   "fo": "16",
+   "entries": "3",
+   "uname": "Amidohydrolase family protein",
+   "pct": "33.3",
+   "lo": "21.7",
+   "hi": "47.5"
+  },
+  {
+   "uniprot": "Q94BU8",
+   "n": "30",
+   "fo": "10",
+   "entries": "14",
+   "uname": "Guanosine deaminase",
+   "pct": "33.3",
+   "lo": "19.2",
+   "hi": "51.2"
+  },
+  {
+   "uniprot": "A0ABM8UEC8",
+   "n": "24",
+   "fo": "8",
+   "entries": "1",
+   "uname": "Amide hydrolase LlADH",
+   "pct": "33.3",
+   "lo": "18.0",
+   "hi": "53.3"
+  },
+  {
+   "uniprot": "A0A062XY19",
+   "n": "139",
+   "fo": "46",
+   "entries": "12",
+   "uname": "CRISPR-associated ring nuclease and adenosine deaminase, subunit A",
+   "pct": "33.1",
+   "lo": "25.8",
+   "hi": "41.3"
+  },
+  {
+   "uniprot": "B2ZB02",
+   "n": "27",
+   "fo": "7",
+   "entries": "7",
+   "uname": "Tyrosinase",
+   "pct": "25.9",
+   "lo": "13.2",
+   "hi": "44.7"
+  },
+  {
+   "uniprot": "Q08499",
+   "n": "96",
+   "fo": "21",
+   "entries": "19",
+   "uname": "cAMP-specific 3',5'-cyclic phosphodiesterase 4D",
+   "pct": "21.9",
+   "lo": "14.8",
+   "hi": "31.1"
+  },
+  {
+   "uniprot": "P77754",
+   "n": "39",
+   "fo": "8",
+   "entries": "8",
+   "uname": "Periplasmic chaperone Spy",
+   "pct": "20.5",
+   "lo": "10.8",
+   "hi": "35.5"
+  },
+  {
+   "uniprot": "P14941",
+   "n": "21",
+   "fo": "4",
+   "entries": "6",
+   "uname": "NADP-DEPENDENT ALCOHOL DEHYDROGENASE",
+   "pct": "19.0",
+   "lo": "7.7",
+   "hi": "40.0"
+  },
+  {
+   "uniprot": "Q86C09",
+   "n": "38",
+   "fo": "6",
+   "entries": "13",
+   "uname": "farnesyl pyrophosphate synthase",
+   "pct": "15.8",
+   "lo": "7.4",
+   "hi": "30.4"
+  },
+  {
+   "uniprot": "Q79MP6",
+   "n": "41",
+   "fo": "6",
+   "entries": "6",
+   "uname": "IMP-1 METALLO BETA-LACTAMASE",
+   "pct": "14.6",
+   "lo": "6.9",
+   "hi": "28.4"
+  },
+  {
+   "uniprot": "P52700",
+   "n": "30",
+   "fo": "4",
+   "entries": "8",
+   "uname": "Metallo-beta-lactamase L1",
+   "pct": "13.3",
+   "lo": "5.3",
+   "hi": "29.7"
+  },
+  {
+   "uniprot": "Q9K2N0",
+   "n": "206",
+   "fo": "24",
+   "entries": "58",
+   "uname": "Beta-lactamase class B VIM-2",
+   "pct": "11.7",
+   "lo": "8.0",
+   "hi": "16.7"
+  }
+ ],
+ "target_planes": {
+  "n_targets": 1229,
+  "n_min20": 113,
+  "equal_weight_pct": 7.5,
+  "median_weight_pct": 0.0
+ },
+ "nucleotides": [
+  {
+   "ligand": "ATP",
+   "n": 382,
+   "fo": 55,
+   "pct": 14.4,
+   "median_d": 5.28
+  },
+  {
+   "ligand": "AMP-PNP",
+   "n": 171,
+   "fo": 4,
+   "pct": 2.3,
+   "median_d": 5.6
+  },
+  {
+   "ligand": "ADP",
+   "n": 82,
+   "fo": 0,
+   "pct": 0.0,
+   "median_d": 5.47
+  },
+  {
+   "ligand": "AMP",
+   "n": 96,
+   "fo": 2,
+   "pct": 2.1,
+   "median_d": 5.64
+  },
+  {
+   "ligand": "GTP",
+   "n": 113,
+   "fo": 7,
+   "pct": 6.2,
+   "median_d": 5.35
+  },
+  {
+   "ligand": "GDP",
+   "n": 230,
+   "fo": 4,
+   "pct": 1.7,
+   "median_d": 5.86
+  },
+  {
+   "ligand": "NAD",
+   "n": 547,
+   "fo": 30,
+   "pct": 5.5,
+   "median_d": 4.61
+  },
+  {
+   "ligand": "NADP",
+   "n": 132,
+   "fo": 19,
+   "pct": 14.4,
+   "median_d": 5.12
+  },
+  {
+   "ligand": "FAD",
+   "n": 33,
+   "fo": 5,
+   "pct": 15.2,
+   "median_d": 5.35
+  }
+ ]
+}
