@@ -88,8 +88,8 @@ column.
 
 | Column | Meaning |
 |---|---|
-| `geometry_class` | `face-on` (offset ≤ 2.5 Å), `edge-on` (offset > 2.5 Å), or `excluded-porphyrin` |
-| `coordination` | `bridge-direct` (protein partner **and** `min_dist` ≤ 2.8 Å), `bridge-near` (protein partner, `min_dist` > 2.8 Å), `ligand-held` (partners present, none protein), `unannotated` (no `struct_conn` record) |
+| `geometry_class` | `face-on` (d_offset ≤ 2.5 Å), `edge-on` (d_offset > 2.5 Å), or `excluded-porphyrin` |
+| `coordination` | `bridge-direct` (protein partner **and** `d_min` ≤ 2.8 Å), `bridge-near` (protein partner, `d_min` > 2.8 Å), `ligand-held` (partners present, none protein), `unannotated` (no `struct_conn` record) |
 
 All contacts satisfy `d_centroid ≤ 6.0 Å` and involve a non-polymeric
 aromatic ligand.
